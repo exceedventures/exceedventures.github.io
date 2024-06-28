@@ -1,8 +1,8 @@
 [
-    {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"10001", "name":"alice2"},
+    {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"10001", "name":"alice"},
     {"title":"셜록홈즈의모험", "thumb":"https://exceedventures.github.io/onebook/covers/holmes.cover.jpg", "id":"10002", "name":"holmes"},
     {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"10003", "name":"prejudice"},
-    {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"10004", "name":"alice2"},
-    {"title":"셜록홈즈의모험", "thumb":"https://exceedventures.github.io/onebook/covers/holmes.cover.jpg", "id":"10005", "name":"holmes"},
-    {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"10006", "name":"prejudice"}
+    {"title":"위대한개츠비", "thumb":"https://exceedventures.github.io/onebook/covers/gatsby.cover.jpg", "id":"10004", "name":"gatsby"},
+    {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"10005", "name":"frankenstein"},
+    {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"10006", "name":"twocities"}
 ]
