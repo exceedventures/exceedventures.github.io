@@ -1,4 +1,5 @@
 [
+    {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"1099", "name":"esop"},
     {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"10001", "name":"alice"},
     {"title":"셜록홈즈의모험", "thumb":"https://exceedventures.github.io/onebook/covers/holmes.cover.jpg", "id":"10002", "name":"holmes"},
     {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"10003", "name":"prejudice"},
