@@ -1,2 +1,6 @@
 internal test 
 https://play.google.com/apps/internaltest/4701554866518931189
+
+open
+https://play.google.com/store/apps/details?id=co.kr.exceedventures.onebook
+
