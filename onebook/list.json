@@ -10,5 +10,6 @@
     {"title":"매혹적인4월", "thumb":"https://exceedventures.github.io/onebook/covers/april.cover.jpg", "id":"10007", "name":"april"},
     {"title":"우주전쟁", "thumb":"https://exceedventures.github.io/onebook/covers/worldwar.cover.jpg", "id":"10008", "name":"worldwar"},
     {"title":"허클베리핀", "thumb":"https://exceedventures.github.io/onebook/covers/huckleberry.cover.jpg", "id":"10009", "name":"huckleberry"},
-    {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"10011", "name":"treasure"}
+    {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"10011", "name":"treasure"},
+    {"title":"안나카레니나", "thumb":"https://exceedventures.github.io/onebook/covers/anna.cover.jpg", "id":"10012", "name":"anna"}
 ]
