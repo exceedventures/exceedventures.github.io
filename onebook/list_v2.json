@@ -15,7 +15,7 @@
         {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"10011", "name":"treasure"},
         {"title":"안나카레니나", "thumb":"https://exceedventures.github.io/onebook/covers/anna.cover.jpg", "id":"10012", "name":"anna"}
     ]},
-    {"category":"AI 소설", "value": [
+    {"category":"AI 창작소설", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"101", "name":"jobs"},
         {"title":"오바마취임연설문", "thumb":"https://exceedventures.github.io/onebook/covers/obama.cover.jpg", "id":"102", "name":"obama"},
         {"title":"케빈파이기연설문", "thumb":"https://exceedventures.github.io/onebook/covers/kevin.cover.jpg", "id":"103", "name":"kevin"},
