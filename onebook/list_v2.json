@@ -25,5 +25,8 @@
     ]},
     {"category":"AI 창작물", "value": [
         {"title":"민주", "thumb":"https://exceedventures.github.io/onebook/covers/minju.cover.jpg", "id":"a01", "name":"minju"}   
+    ]},
+    {"category":"Reading Comprehension", "value": [
+        {"title":"리딩연습파트1", "thumb":"https://exceedventures.github.io/onebook/covers/reading.cover.jpg", "id":"b01", "name":"reading1"}   
     ]}
 ]
