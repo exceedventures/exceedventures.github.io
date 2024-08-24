@@ -26,8 +26,5 @@
     {"category":"아마추어 창작물", "value": [
         {"title":"민주", "thumb":"https://exceedventures.github.io/onebook/covers/minju.cover.jpg", "id":"a01", "name":"minju"},
         {"title":"일본인여자친구", "thumb":"https://exceedventures.github.io/onebook/covers/kanojo.cover.jpg", "id":"a02", "name":"kanojo"}      
-    ]},
-    {"category":"Reading Comprehension", "value": [
-        {"title":"리딩연습파트1", "thumb":"https://exceedventures.github.io/onebook/covers/reading.cover.jpg", "id":"b01", "name":"reading1"}   
     ]}
 ]
