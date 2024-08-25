@@ -17,7 +17,8 @@
     ]},
     {"category":"경제학 원서", "value": [
         {"title":"국부론(아담스미스)", "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg", "id":"e01", "name":"wealth_of_nations"},
-        {"title":"진보와빈곤", "thumb":"https://exceedventures.github.io/onebook/covers/progress_and_poverty.cover.jpg", "id":"e02", "name":"progress_and_poverty"}
+        {"title":"사회계약론", "thumb":"https://exceedventures.github.io/onebook/covers/social_contract.cover.jpg", "id":"e02", "name":"social_contract"},
+        {"title":"진보와빈곤", "thumb":"https://exceedventures.github.io/onebook/covers/progress_and_poverty.cover.jpg", "id":"e03", "name":"progress_and_poverty"}
     ]},
     {"category":"레전드 연설문", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s01", "name":"jobs"},
