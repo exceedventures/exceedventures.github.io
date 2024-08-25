@@ -1,30 +1,33 @@
 [
     {"category":"영어 고전", "value": [
-        {"title":"로미오와줄리엣", "thumb":"https://exceedventures.github.io/onebook/covers/romeo.cover.jpg", "id":"1098", "name":"romeo"},
-        {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"10001", "name":"alice"},
-        {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"10003", "name":"prejudice"},
-        {"title":"셜록홈즈의모험", "thumb":"https://exceedventures.github.io/onebook/covers/holmes.cover.jpg", "id":"10002", "name":"holmes"},
-        {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"10005", "name":"frankenstein"},
-        {"title":"우주전쟁", "thumb":"https://exceedventures.github.io/onebook/covers/worldwar.cover.jpg", "id":"10008", "name":"worldwar"},
-        {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"1099", "name":"esop"},
-        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"1100", "name":"women"},        
-        {"title":"위대한개츠비", "thumb":"https://exceedventures.github.io/onebook/covers/gatsby.cover.jpg", "id":"10004", "name":"gatsby"},
-        {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"10006", "name":"twocities"},
-        {"title":"매혹적인4월", "thumb":"https://exceedventures.github.io/onebook/covers/april.cover.jpg", "id":"10007", "name":"april"},
-        {"title":"허클베리핀", "thumb":"https://exceedventures.github.io/onebook/covers/huckleberry.cover.jpg", "id":"10009", "name":"huckleberry"},
-        {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"10011", "name":"treasure"},
-        {"title":"안나카레니나", "thumb":"https://exceedventures.github.io/onebook/covers/anna.cover.jpg", "id":"10012", "name":"anna"}
+        {"title":"로미오와줄리엣", "thumb":"https://exceedventures.github.io/onebook/covers/romeo.cover.jpg", "id":"a01", "name":"romeo"},
+        {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"a02", "name":"alice"},
+        {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"a03", "name":"prejudice"},
+        {"title":"셜록홈즈의모험", "thumb":"https://exceedventures.github.io/onebook/covers/holmes.cover.jpg", "id":"a04", "name":"holmes"},
+        {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"a05", "name":"frankenstein"},
+        {"title":"우주전쟁", "thumb":"https://exceedventures.github.io/onebook/covers/worldwar.cover.jpg", "id":"a06", "name":"worldwar"},
+        {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"a07", "name":"esop"},
+        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"a08", "name":"women"},        
+        {"title":"위대한개츠비", "thumb":"https://exceedventures.github.io/onebook/covers/gatsby.cover.jpg", "id":"a09", "name":"gatsby"},
+        {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"a10", "name":"twocities"},
+        {"title":"매혹적인4월", "thumb":"https://exceedventures.github.io/onebook/covers/april.cover.jpg", "id":"a11", "name":"april"},
+        {"title":"허클베리핀", "thumb":"https://exceedventures.github.io/onebook/covers/huckleberry.cover.jpg", "id":"a12", "name":"huckleberry"},
+        {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"a13", "name":"treasure"},
+        {"title":"안나카레니나", "thumb":"https://exceedventures.github.io/onebook/covers/anna.cover.jpg", "id":"a14", "name":"anna"}
+    ]},
+    {"category":"경제학 원서", "value": [
+        {"title":"국부론", "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg", "id":"e01", "name":"wealth_of_nations"}
     ]},
     {"category":"레전드 연설문", "value": [
-        {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"1", "name":"jobs"},
-        {"title":"오바마취임연설문", "thumb":"https://exceedventures.github.io/onebook/covers/obama.cover.jpg", "id":"2", "name":"obama"},
-        {"title":"케빈파이기연설문", "thumb":"https://exceedventures.github.io/onebook/covers/kevin.cover.jpg", "id":"3", "name":"kevin"},
-        {"title":"존F케네디연설문", "thumb":"https://exceedventures.github.io/onebook/covers/johnf.cover.jpg", "id":"4", "name":"johnf"},
-        {"title":"덴젤워싱턴연설문", "thumb":"https://exceedventures.github.io/onebook/covers/denzel.cover.jpg", "id":"5", "name":"denzel"},
-        {"title":"코난오브라이언연설", "thumb":"https://exceedventures.github.io/onebook/covers/conan.cover.jpg", "id":"6", "name":"conan"}        
+        {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s01", "name":"jobs"},
+        {"title":"오바마취임연설문", "thumb":"https://exceedventures.github.io/onebook/covers/obama.cover.jpg", "id":"s02", "name":"obama"},
+        {"title":"케빈파이기연설문", "thumb":"https://exceedventures.github.io/onebook/covers/kevin.cover.jpg", "id":"s03", "name":"kevin"},
+        {"title":"존F케네디연설문", "thumb":"https://exceedventures.github.io/onebook/covers/johnf.cover.jpg", "id":"s04", "name":"johnf"},
+        {"title":"덴젤워싱턴연설문", "thumb":"https://exceedventures.github.io/onebook/covers/denzel.cover.jpg", "id":"s05", "name":"denzel"},
+        {"title":"코난오브라이언연설", "thumb":"https://exceedventures.github.io/onebook/covers/conan.cover.jpg", "id":"s06", "name":"conan"}        
     ]},
     {"category":"아마추어 창작물", "value": [
-        {"title":"민주", "thumb":"https://exceedventures.github.io/onebook/covers/minju.cover.jpg", "id":"a01", "name":"minju"},
-        {"title":"일본인여자친구", "thumb":"https://exceedventures.github.io/onebook/covers/kanojo.cover.jpg", "id":"a02", "name":"kanojo"}      
+        {"title":"민주", "thumb":"https://exceedventures.github.io/onebook/covers/minju.cover.jpg", "id":"k01", "name":"minju"},
+        {"title":"일본인여자친구", "thumb":"https://exceedventures.github.io/onebook/covers/kanojo.cover.jpg", "id":"k02", "name":"kanojo"}      
     ]}
 ]
