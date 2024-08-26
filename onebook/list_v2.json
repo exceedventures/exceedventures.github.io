@@ -1,25 +1,27 @@
 [
-    {"category":"영어 고전", "value": [
-        {"title":"로미오와줄리엣", "thumb":"https://exceedventures.github.io/onebook/covers/romeo.cover.jpg", "id":"a01", "name":"romeo"},
-        {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"a02", "name":"alice"},
-        {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"a03", "name":"prejudice"},
-        {"title":"셜록홈즈의모험", "thumb":"https://exceedventures.github.io/onebook/covers/holmes.cover.jpg", "id":"a04", "name":"holmes"},
-        {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"a05", "name":"frankenstein"},
-        {"title":"우주전쟁", "thumb":"https://exceedventures.github.io/onebook/covers/worldwar.cover.jpg", "id":"a06", "name":"worldwar"},
-        {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"a07", "name":"esop"},
-        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"a08", "name":"women"},        
-        {"title":"위대한개츠비", "thumb":"https://exceedventures.github.io/onebook/covers/gatsby.cover.jpg", "id":"a09", "name":"gatsby"},
-        {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"a10", "name":"twocities"},
-        {"title":"매혹적인4월", "thumb":"https://exceedventures.github.io/onebook/covers/april.cover.jpg", "id":"a11", "name":"april"},
-        {"title":"허클베리핀", "thumb":"https://exceedventures.github.io/onebook/covers/huckleberry.cover.jpg", "id":"a12", "name":"huckleberry"},
-        {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"a13", "name":"treasure"},
-        {"title":"안나카레니나", "thumb":"https://exceedventures.github.io/onebook/covers/anna.cover.jpg", "id":"a14", "name":"anna"}
+    {"category":"칼리지보드 필독서", "value": [
+        {"title":"로미오와줄리엣", "thumb":"https://exceedventures.github.io/onebook/covers/romeo.cover.jpg", "id":"c01", "name":"romeo"},       
+        {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"c02", "name":"prejudice"},
+        {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"c03", "name":"twocities"},
+        {"title":"위대한개츠비", "thumb":"https://exceedventures.github.io/onebook/covers/gatsby.cover.jpg", "id":"c04", "name":"gatsby"},
+        {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"c05", "name":"frankenstein"},
+        {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"c06", "name":"treasure"},
+        {"title":"허클베리핀", "thumb":"https://exceedventures.github.io/onebook/covers/huckleberry.cover.jpg", "id":"c07", "name":"huckleberry"},
+        {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"c08", "name":"esop"}
     ]},
     {"category":"경제학 원서", "value": [
         {"title":"국부론(아담스미스)", "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg", "id":"e01", "name":"wealth_of_nations"},
         {"title":"부는어디서오는가", "thumb":"https://exceedventures.github.io/onebook/covers/getting_rich.cover.jpg", "id":"e02", "name":"getting_rich"},
         {"title":"사회계약론", "thumb":"https://exceedventures.github.io/onebook/covers/social_contract.cover.jpg", "id":"e03", "name":"social_contract"},
         {"title":"진보와빈곤", "thumb":"https://exceedventures.github.io/onebook/covers/progress_and_poverty.cover.jpg", "id":"e04", "name":"progress_and_poverty"}
+    ]},
+    {"category":"그외 인기 원서", "value": [
+        {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"a01", "name":"alice"},
+        {"title":"셜록홈즈의모험", "thumb":"https://exceedventures.github.io/onebook/covers/holmes.cover.jpg", "id":"a02", "name":"holmes"},
+        {"title":"우주전쟁", "thumb":"https://exceedventures.github.io/onebook/covers/worldwar.cover.jpg", "id":"a03", "name":"worldwar"},  
+        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"a04", "name":"women"},        
+        {"title":"매혹적인4월", "thumb":"https://exceedventures.github.io/onebook/covers/april.cover.jpg", "id":"a05", "name":"april"},
+        {"title":"안나카레니나", "thumb":"https://exceedventures.github.io/onebook/covers/anna.cover.jpg", "id":"a06", "name":"anna"}
     ]},
     {"category":"레전드 연설문", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s01", "name":"jobs"},
