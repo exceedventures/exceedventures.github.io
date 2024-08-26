@@ -4,6 +4,7 @@ Jane Eyre
 The Canterbury Tales
 The Awakening by Kate Chopin
 The Red Badge of Courage by Stephen Crane
+Narrative of the Life of Frederick Douglass by Frederick Douglass
 
 
 보류
@@ -11,11 +12,12 @@ Wuthering Heights
 Heart of Darkness by Joseph Conrad
 The Divine Comedy by Dante Alighieri
 Robinson Crusoe by Daniel Defoe
+The Three Musketeers by Alexandre Dumas
+
 
 
 진행중
-Narrative of the Life of Frederick Douglass by Frederick Douglass
-The Three Musketeers by Alexandre Dumas
+
 The Mill on the Floss by George Eliot
 Madame Bovary by Gustave Flaubert
 The Good Soldier by Ford Madox Ford

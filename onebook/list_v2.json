@@ -7,6 +7,7 @@
         {"title":"군주론", "thumb":"https://exceedventures.github.io/onebook/covers/the_prince.cover.jpg", "id":"c04", "name":"the_prince"},  
         {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"c05", "name":"prejudice"},
         {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"c06", "name":"twocities"},
+        {"title":"파우스트", "thumb":"https://exceedventures.github.io/onebook/covers/faust.cover.jpg", "id":"c907", "name":"faust"},
         {"title":"위대한개츠비", "thumb":"https://exceedventures.github.io/onebook/covers/gatsby.cover.jpg", "id":"c07", "name":"gatsby"},
         {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"c08", "name":"frankenstein"},
         {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"c09", "name":"treasure"},
