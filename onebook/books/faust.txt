@@ -92,7 +92,7 @@ Why, here in dust, entice me with your spell, Ye gentle, powerful sounds of Heav
 CHORUS OF DISCIPLES
 Has He, victoriously, Burst from the vaulted Grave, and all-gloriously Now sits exalted? Is He, in glow of birth, Rapture creative near? Ah! to the woe of earth Still are we native here. We, his aspiring Followers, Him we miss; Weeping, desiring, Master, Thy bliss!
 CHORUS OF ANGELS
-Christ is arisen, Out of Corruption’s womb: Burst ye the prison, Break from your gloom! Praising and pleading him, Lovingly needing him, Brotherly feeding him, Preaching and speeding him, Blessing, succeeding Him, Thus is the Master near,— Thus is He here! [Illustration]
+Christ is arisen, Out of Corruption’s womb: Burst ye the prison, Break from your gloom! Praising and pleading him, Lovingly needing him, Brotherly feeding him, Preaching and speeding him, Blessing, succeeding Him, Thus is the Master near,— Thus is He here! 
 II
 BEFORE THE CITY-GATE
 (_Pedestrians of all kinds come forth_.)
@@ -214,8 +214,8 @@ No doubt you’re right: no trace of mind, I own, Is in the beast: I see but dri
 WAGNER
 The dog, when he’s well educated, Is by the wisest tolerated. Yes, he deserves your favor thoroughly,— The clever scholar of the students, he!
 (_They pass in the city-gate_.)
-[Illustration]
-[Illustration]
+
+
 III
 THE STUDY
 FAUST
@@ -307,7 +307,7 @@ He sleeps! Enough, ye fays! your airy number Have sung him truly into slumber: F
 The lord of rats and eke of mice, Of flies and bed-bugs, frogs and lice, Summons thee hither to the door-sill, To gnaw it where, with just a morsel Of oil, he paints the spot for thee:— There com’st thou, hopping on to me! To work, at once! The point which made me craven Is forward, on the ledge, engraven. Another bite makes free the door: So, dream thy dreams, O Faust, until we meet once more!
 FAUST _(awaking)_
 Am I again so foully cheated? Remains there naught of lofty spirit-sway, But that a dream the Devil counterfeited, And that a poodle ran away?
-[Illustration]
+
 IV
 THE STUDY
 FAUST MEPHISTOPHELES
@@ -493,7 +493,7 @@ FAUST
 How shall we leave the house, and start? Where hast thou servant, coach and horses?
 MEPHISTOPHELES
 We’ll spread this cloak with proper art, Then through the air direct our courses. But only, on so bold a flight, Be sure to have thy luggage light. A little burning air, which I shall soon prepare us, Above the earth will nimbly bear us, And, if we’re light, we’ll travel swift and clear: I gratulate thee on thy new career!
-[Illustration]
+
 V
 AUERBACH’S CELLAR IN LEIPZIG CAROUSAL OF JOLLY COMPANIONS
 FROSCH
@@ -755,8 +755,8 @@ BRANDER
 But with the grapes how was it, pray?
 ALTMAYER
 Shall one believe no miracles, just say!
-[Illustration]
-[Illustration]
+
+
 VI
 WITCHES’ KITCHEN
 (_Upon a low hearth stands a great caldron, under which a fire is burning. Various figures appear in the vapors which rise from the caldron. An ape sits beside it, skims it, and watches lest it boil over. The he-ape, with the young ones, sits near and warms himself. Ceiling and walls are covered with the most fantastic witch-implements_.)
@@ -917,8 +917,8 @@ MEPHISTOPHELES
 No, no! The paragon of all, believe me, Thou soon shalt see, alive and warm.
 _(Aside)_
 Thou’lt find, this drink thy blood compelling, Each woman beautiful as Helen!
-[Illustration]
-[Illustration]
+
+
 VII
 STREET
 FAUST MARGARET _(passing by)_
@@ -969,7 +969,7 @@ MEPHISTOPHELES
 FAUST
 A gift for her I bid thee get! [_Exit_.
 MEPHISTOPHELES
-Presents at once? That’s good: he’s certain to get at her! Full many a pleasant place I know, And treasures, buried long ago: I must, perforce, look up the matter. _[Exit_. [Illustration]
+Presents at once? That’s good: he’s certain to get at her! Full many a pleasant place I know, And treasures, buried long ago: I must, perforce, look up the matter. _[Exit_. 
 VIII
 EVENING A SMALL, NEATLY KEPT CHAMBER
 MARGARET
@@ -1019,8 +1019,8 @@ He saw it plunging and filling, And sinking deep in the sea: Then fell his eyeli
 How comes that lovely casket here to me? I locked the press, most certainly. ’Tis truly wonderful! What can within it be? Perhaps ’twas brought by some one as a pawn, And mother gave a loan thereon? And here there hangs a key to fit: I have a mind to open it. What is that? God in Heaven! Whence came Such things? Never beheld I aught so fair! Rich ornaments, such as a noble dame On highest holidays might wear! How would the pearl-chain suit my hair? Ah, who may all this splendor own?
 (_She adorns herself with the jewelry, and steps before the mirror_.)
 Were but the ear-rings mine, alone! One has at once another air. What helps one’s beauty, youthful blood? One may possess them, well and good; But none the more do others care. They praise us half in pity, sure: To gold still tends, On gold depends All, all! Alas, we poor!
-[Illustration]
-[Illustration]
+
+
 IX
 PROMENADE
 (FAUST, _walking thoughtfully up and down. To him_ MEPHISTOPHELES.)
@@ -1053,7 +1053,7 @@ Yes, gracious Sir, in all obedience!
 [_Exit_ FAUST.
 Such an enamored fool in air would blow Sun, moon, and all the starry legions, To give his sweetheart a diverting show.
 [_Exit_.
-[Illustration]
+
 X
 THE NEIGHBOR’S HOUSE
 MARTHA (_solus_)
@@ -1191,7 +1191,7 @@ MEPHISTOPHELES
 Before no king that could be named!
 MARTHA
 Behind the house, in my garden, then, This eve we’ll expect the gentlemen.
-[Illustration]
+
 XI
 A STREET
 FAUST MEPHISTOPHELES
@@ -1229,8 +1229,8 @@ MEPHISTOPHELES
 And yet I’m right!
 FAUST
 Mark this, I beg of thee! And spare my lungs henceforth: whoever Intends to have the right, if but his tongue be clever, Will have it, certainly. But come: the further talking brings disgust, For thou art right, especially since I must.
-[Illustration]
-[Illustration]
+
+
 XII
 GARDEN
 (MARGARET _on_ FAUST’S _arm_. MARTHA _and_ MEPHISTOPHELES _walking up and down_.)
@@ -1345,8 +1345,8 @@ MARTHA
 He seems of her still fonder.
 MEPHISTOPHELES
 And she of him. So runs the world away!
-[Illustration]
-[Illustration]
+
+
 XIII
 A GARDEN-ARBOR
 (MARGARET _comes in, conceals herself behind the door, puts her finger to her lips, and peeps through the crack_.)
@@ -1379,7 +1379,7 @@ And soon to meet again!
 [_Exeunt_ FAUST _and_ MEPHISTOPHELES.
 MARGARET
 Dear God! However is it, such A man can think and know so much? I stand ashamed and in amaze, And answer “Yes” to all he says, A poor, unknowing child! and he— I can’t think what he finds in me! [_Exit_.
-[Illustration]
+
 XIV
 FOREST AND CAVERN
 FAUST (_solus_)
@@ -1392,7 +1392,7 @@ FAUST
 Would there were other work for thee! To plague my day auspicious thou returnest.
 MEPHISTOPHELES
 Well! I’ll engage to let thee be: Thou darest not tell me so in earnest. The loss of thee were truly very slight,— comrade crazy, rude, repelling:
-[Illustration]
+
 One has one’s hands full all the day and night; If what one does, or leaves undone, is right, From such a face as thine there is no telling.
 FAUST
 There is, again, thy proper tone!— That thou hast bored me, I must thankful be!
@@ -1428,8 +1428,8 @@ FAUST
 What are, within her arms, the heavenly blisses? Though I be glowing with her kisses, Do I not always share her need? I am the fugitive, all houseless roaming, The monster without air or rest, That like a cataract, down rocks and gorges foaming, Leaps, maddened, into the abyss’s breast! And side-wards she, with young unwakened senses, Within her cabin on the Alpine field Her simple, homely life commences, Her little world therein concealed. And I, God’s hate flung o’er me, Had not enough, to thrust The stubborn rocks before me And strike them into dust! She and her peace I yet must undermine: Thou, Hell, hast claimed this sacrifice as thine! Help, Devil! through the coming pangs to push me; What must be, let it quickly be! Let fall on me her fate, and also crush me,— One ruin whelm both her and me!
 MEPHISTOPHELES
 Again it seethes, again it glows! Thou fool, go in and comfort her! When such a head as thine no outlet knows, It thinks the end must soon occur. Hail him, who keeps a steadfast mind! Thou, else, dost well the devil-nature wear: Naught so insipid in the world I find As is a devil in despair.
-[Illustration]
-[Illustration]
+
+
 XV
 MARGARET’S ROOM
 MARGARET
@@ -1444,7 +1444,7 @@ And the magic flow Of his talk, the bliss In the clasp of his hand, And, ah! his
 My peace is gone, My heart is sore: I never shall find it, Ah, nevermore!
 My bosom yearns For him alone; Ah, dared I clasp him, And hold, and own!
 And kiss his mouth, To heart’s desire, And on his kisses At last expire!
-[Illustration]
+
 XVI
 MARTHA’S GARDEN
 MARGARET FAUST
@@ -1533,8 +1533,8 @@ FAUST
 What’s that to thee?
 MEPHISTOPHELES
 Yet my delight ’twill also be!
-[Illustration]
-[Illustration]
+
+
 XVII
 AT THE FOUNTAIN
 MARGARET _and_ LISBETH _With pitchers_.
@@ -1566,8 +1566,8 @@ LISBETH
 If him she gets, why let her beware! The boys shall dash her wreath on the floor, And we’ll scatter chaff before her door! [_Exit_.
 MARGARET (_returning home_)
 How scornfully I once reviled, When some poor maiden was beguiled! More speech than any tongue suffices I craved, to censure others’ vices. Black as it seemed, I blackened still, And blacker yet was in my will; And blessed myself, and boasted high,— And now—a living sin am I! Yet—all that drove my heart thereto, God! was so good, so dear, so true!
-[Illustration]
-[Illustration]
+
+
 XVIII
 DONJON
 (_In a niche of the wall a shrine, with an image of the Mater Dolorosa. Pots of flowers before it_.)
@@ -1581,8 +1581,8 @@ Where’er I go, what sorrow, What woe, what woe and sorrow Within my bosom ache
 The pots before my window, Alas! my tears did wet, As in the early morning For thee these flowers I set.
 Within my lonely chamber The morning sun shone red: I sat, in utter sorrow, Already on my bed.
 Help! rescue me from death and stain! O Maiden! Thou sorrow-laden, Incline Thy countenance upon my pain!
-[Illustration]
-[Illustration]
+
+
 XIX
 NIGHT
 STREET BEFORE MARGARET’S DOOR
@@ -1666,8 +1666,8 @@ My brother! This is Hell’s own pain!
 VALENTINE
 I tell thee, from thy tears refrain! When thou from honor didst depart It stabbed me to the very heart. Now through the slumber of the grave I go to God as a soldier brave.
 (_Dies_.)
-[Illustration]
-[Illustration]
+
+
 XX
 CATHEDRAL
 SERVICE, ORGAN _and_ ANTHEM.
@@ -1695,8 +1695,8 @@ CHORUS
 _Quid sum miser tune dicturus_?
 MARGARET
 Neighbor! your cordial! (_She falls in a swoon_.)
-[Illustration]
-[Illustration]
+
+
 XXI
 WALPURGIS-NIGHT
 THE HARTZ MOUNTAINS.
@@ -1872,8 +1872,8 @@ MEPHISTOPHELES
 Quite right! The mark I also note. Her head beneath her arm she’ll sometimes carry; Twas Perseus lopped it, her old adversary. Thou crav’st the same illusion still! Come, let us mount this little hill; The Prater shows no livelier stir, And, if they’ve not bewitched my sense, I verily see a theatre. What’s going on?
 SERVIBILIS ’Twill shortly recommence: A new performance—’tis the last of seven. To give that number is the custom here: ’Twas by a Dilettante written, And Dilettanti in the parts appear. That now I vanish, pardon, I entreat you! As Dilettante I the curtain raise.
 MEPHISTOPHELES When I upon the Blocksberg meet you, I find it good: for that’s your proper place.
-[Illustration]
-[Illustration]
+
+
 XXII
 WALPURGIS-NIGHT’S DREAM
 OBERON AND TITANIA’s GOLDEN WEDDING
@@ -1967,7 +1967,7 @@ ARIEL
 If loving Nature at your back, Or Mind, the wings uncloses, Follow up my airy track To the mount of roses!
 ORCHESTRA
 _pianissimo_ Cloud and trailing mist o’erhead Are now illuminated: Air in leaves, and wind in reed, And all is dissipated.
-[Illustration]
+
 XXIII
 DREARY DAY
 A FIELD
@@ -2000,7 +2000,7 @@ MEPHISTOPHELES
 I will convey thee there; and hear, what I can do! Have I all the power in Heaven and on Earth? I will becloud the jailer’s senses: get possession of the key, and lead her forth with human hand! I will keep watch: the magic steeds are ready, I will carry you off. So much is in my power.
 FAUST
 Up and away!
-[Illustration]
+
 XXIV
 NIGHT
 OPEN FIELD
@@ -2017,7 +2017,7 @@ FAUST
 They scatter, devote and doom!
 MEPHISTOPHELES
 On! on!
-[Illustration]
+
 XXV
 DUNGEON
 FAUST
@@ -2137,8 +2137,8 @@ Hither to me!
 (_He disappears with_ FAUST.)
 VOICE (_from within, dying away_)
 Henry! Henry!
-[illustration]
-[Illustration]
+
+
 *** END OF THE PROJECT GUTENBERG EBOOK FAUST [PART 1]. TRANSLATED INTO ENGLISH IN THE ORIGINAL METRES ***
 Updated editions will replace the previous one—the old editions will be renamed.
 Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.
