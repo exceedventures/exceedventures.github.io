@@ -1,7 +1,7 @@
 [
     {"category":"칼리지보드 필독서", "value": [
         {"title":"죄와벌", "thumb":"https://exceedventures.github.io/onebook/covers/crime.cover.jpg", "id":"c01", "name":"crime"},  
-        {"title":"주홍글씨", "thumb":"https://exceedventures.github.io/onebook/coversscarlet_letter.cover.jpg", "id":"c02", "name":"scarlet_letter"},  
+        {"title":"주홍글씨", "thumb":"https://exceedventures.github.io/onebook/covers/scarlet_letter.cover.jpg", "id":"c02", "name":"scarlet_letter"},  
         {"title":"라스트모히칸", "thumb":"https://exceedventures.github.io/onebook/covers/mohicans.cover.jpg", "id":"c03", "name":"mohicans"},  
         {"title":"모비딕", "thumb":"https://exceedventures.github.io/onebook/covers/moby_dick.cover.jpg", "id":"c04", "name":"moby_dick"},  
         {"title":"로미오와줄리엣", "thumb":"https://exceedventures.github.io/onebook/covers/romeo.cover.jpg", "id":"c05", "name":"romeo"},     
