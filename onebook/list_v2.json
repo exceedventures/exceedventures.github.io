@@ -2,10 +2,10 @@
     {"category":"칼리지보드 필독서", "value": [
         {"title":"죄와벌", "thumb":"https://exceedventures.github.io/onebook/covers/crime.cover.jpg", "id":"c01", "name":"crime"},  
         {"title":"주홍글씨", "thumb":"https://exceedventures.github.io/onebook/covers/scarlet_letter.cover.jpg", "id":"c02", "name":"scarlet_letter"},  
+        {"title":"군주론", "thumb":"https://exceedventures.github.io/onebook/covers/the_prince.cover.jpg", "id":"c094", "name":"the_prince"}, 
         {"title":"라스트모히칸", "thumb":"https://exceedventures.github.io/onebook/covers/mohicans.cover.jpg", "id":"c03", "name":"mohicans"},  
         {"title":"모비딕", "thumb":"https://exceedventures.github.io/onebook/covers/moby_dick.cover.jpg", "id":"c04", "name":"moby_dick"},  
         {"title":"로미오와줄리엣", "thumb":"https://exceedventures.github.io/onebook/covers/romeo.cover.jpg", "id":"c05", "name":"romeo"},     
-        {"title":"군주론", "thumb":"https://exceedventures.github.io/onebook/covers/the_prince.cover.jpg", "id":"c094", "name":"the_prince"},  
         {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"c095", "name":"prejudice"},
         {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"c06", "name":"twocities"},
         {"title":"파우스트", "thumb":"https://exceedventures.github.io/onebook/covers/faust.cover.jpg", "id":"c907", "name":"faust"},
