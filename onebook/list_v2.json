@@ -6,14 +6,15 @@
         {"title":"오디세이", "thumb":"https://exceedventures.github.io/onebook/covers/odyssey.cover.jpg", "id":"c02", "name":"odyssey"},  
         {"title":"파우스트", "thumb":"https://exceedventures.github.io/onebook/covers/faust.cover.jpg", "id":"c10", "name":"faust"},
         {"title":"톰아저씨의오두막", "thumb":"https://exceedventures.github.io/onebook/covers/uncle_tom.cover.jpg", "id":"c12", "name":"uncle_tom"}, 
+        {"title":"월든", "thumb":"https://exceedventures.github.io/onebook/covers/walden.cover.jpg", "id":"c14", "name":"walden"}, 
         {"title":"군주론", "thumb":"https://exceedventures.github.io/onebook/covers/the_prince.cover.jpg", "id":"c4", "name":"the_prince"}, 
         {"title":"주홍글씨", "thumb":"https://exceedventures.github.io/onebook/covers/scarlet_letter.cover.jpg", "id":"c3", "name":"scarlet_letter"},  
-        {"title":"나사의회전", "thumb":"https://exceedventures.github.io/onebook/covers/screw.cover.jpg", "id":"c2", "name":"screw"},  
+        {"title":"나사의회전", "thumb":"https://exceedventures.github.io/onebook/covers/screw.cover.jpg", "id":"c2", "name":"screw"},     
         {"title":"모비딕", "thumb":"https://exceedventures.github.io/onebook/covers/moby_dick.cover.jpg", "id":"c6", "name":"moby_dick"},  
         {"title":"로미오와줄리엣", "thumb":"https://exceedventures.github.io/onebook/covers/romeo.cover.jpg", "id":"c7", "name":"romeo"},     
         {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"c8", "name":"prejudice"},
         {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"c9", "name":"twocities"},
-        {"title":"위대한개츠비", "thumb":"https://exceedventures.github.io/onebook/covers/gatsby.cover.jpg", "id":"c13", "name":"gatsby"}        
+        {"title":"위대한개츠비", "thumb":"https://exceedventures.github.io/onebook/covers/gatsby.cover.jpg", "id":"c15", "name":"gatsby"}        
     ]},
     {"category":"경제학 원서", "value": [
         {"title":"국부론(아담스미스)", "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg", "id":"e01", "name":"wealth_of_nations"},
