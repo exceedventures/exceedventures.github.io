@@ -3,17 +3,16 @@
         {"title":"죄와벌", "thumb":"https://exceedventures.github.io/onebook/covers/crime.cover.jpg", "id":"c1", "name":"crime"},  
         {"title":"라스트모히칸", "thumb":"https://exceedventures.github.io/onebook/covers/mohicans.cover.jpg", "id":"c5", "name":"mohicans"},  
         {"title":"변신", "thumb":"https://exceedventures.github.io/onebook/covers/metamorphosis.cover.jpg", "id":"c05", "name":"metamorphosis"},  
-        {"title":"나사의회전", "thumb":"https://exceedventures.github.io/onebook/covers/screw.cover.jpg", "id":"c2", "name":"screw"},  
         {"title":"오디세이", "thumb":"https://exceedventures.github.io/onebook/covers/odyssey.cover.jpg", "id":"c02", "name":"odyssey"},  
-        {"title":"주홍글씨", "thumb":"https://exceedventures.github.io/onebook/covers/scarlet_letter.cover.jpg", "id":"c3", "name":"scarlet_letter"},  
+        {"title":"파우스트", "thumb":"https://exceedventures.github.io/onebook/covers/faust.cover.jpg", "id":"c10", "name":"faust"},
         {"title":"군주론", "thumb":"https://exceedventures.github.io/onebook/covers/the_prince.cover.jpg", "id":"c4", "name":"the_prince"}, 
+        {"title":"주홍글씨", "thumb":"https://exceedventures.github.io/onebook/covers/scarlet_letter.cover.jpg", "id":"c3", "name":"scarlet_letter"},  
+        {"title":"나사의회전", "thumb":"https://exceedventures.github.io/onebook/covers/screw.cover.jpg", "id":"c2", "name":"screw"},  
         {"title":"모비딕", "thumb":"https://exceedventures.github.io/onebook/covers/moby_dick.cover.jpg", "id":"c6", "name":"moby_dick"},  
         {"title":"로미오와줄리엣", "thumb":"https://exceedventures.github.io/onebook/covers/romeo.cover.jpg", "id":"c7", "name":"romeo"},     
         {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"c8", "name":"prejudice"},
         {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"c9", "name":"twocities"},
-        {"title":"파우스트", "thumb":"https://exceedventures.github.io/onebook/covers/faust.cover.jpg", "id":"c10", "name":"faust"},
-        {"title":"위대한개츠비", "thumb":"https://exceedventures.github.io/onebook/covers/gatsby.cover.jpg", "id":"c11", "name":"gatsby"}
-        
+        {"title":"위대한개츠비", "thumb":"https://exceedventures.github.io/onebook/covers/gatsby.cover.jpg", "id":"c11", "name":"gatsby"}        
     ]},
     {"category":"경제학 원서", "value": [
         {"title":"국부론(아담스미스)", "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg", "id":"e01", "name":"wealth_of_nations"},
