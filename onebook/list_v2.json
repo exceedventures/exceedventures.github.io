@@ -43,7 +43,8 @@
         {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"a14", "name":"esop"}
     ]},
     {"category":"어린이 동화", "value": [
-        {"title":"백설공주", "thumb":"https://exceedventures.github.io/onebook/covers/snow_white.cover.jpg", "id":"ch01", "name":"snow_white"}
+        {"title":"백설공주", "thumb":"https://exceedventures.github.io/onebook/covers/snow_white.cover.jpg", "id":"ch01", "name":"snow_white"},
+        {"title":"미운오리새끼", "thumb":"https://exceedventures.github.io/onebook/covers/ugly_duckling.cover.jpg", "id":"ch01", "name":"ugly_duckling"}
     ]},
     {"category":"레전드 연설문", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s01", "name":"jobs"},
