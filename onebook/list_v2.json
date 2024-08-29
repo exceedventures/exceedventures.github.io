@@ -45,7 +45,8 @@
     {"category":"어린이 동화", "value": [
         {"title":"백설공주", "thumb":"https://exceedventures.github.io/onebook/covers/snow_white.cover.jpg", "id":"ch01", "name":"snow_white"},
         {"title":"미운오리새끼", "thumb":"https://exceedventures.github.io/onebook/covers/ugly_duckling.cover.jpg", "id":"ch02", "name":"ugly_duckling"},
-        {"title":"알라딘과요술램프", "thumb":"https://exceedventures.github.io/onebook/covers/aladdin.cover.jpg", "id":"ch03", "name":"aladdin"}
+        {"title":"잠자는숲속의미녀", "thumb":"https://exceedventures.github.io/onebook/covers/sleeping_beauty.cover.jpg", "id":"ch03", "name":"sleeping_beauty"},
+        {"title":"알라딘과요술램프", "thumb":"https://exceedventures.github.io/onebook/covers/aladdin.cover.jpg", "id":"ch04", "name":"aladdin"}
 
     ]},
     {"category":"레전드 연설문", "value": [
