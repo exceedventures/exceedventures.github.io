@@ -28,6 +28,9 @@
         {"title":"사회계약론", "thumb":"https://exceedventures.github.io/onebook/covers/social_contract.cover.jpg", "id":"e03", "name":"social_contract"},
         {"title":"진보와빈곤", "thumb":"https://exceedventures.github.io/onebook/covers/progress_and_poverty.cover.jpg", "id":"e04", "name":"progress_and_poverty"}
     ]},
+    {"category":"어린이 동화", "value": [
+        {"title":"백설공주", "thumb":"https://exceedventures.github.io/onebook/covers/snow_white.cover.jpg", "id":"ch01", "name":"snow_white"}
+    ]},
     {"category":"그외 인기 원서", "value": [
         {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"a01", "name":"alice"},
         {"title":"셜록홈즈의모험", "thumb":"https://exceedventures.github.io/onebook/covers/holmes.cover.jpg", "id":"a02", "name":"holmes"},
