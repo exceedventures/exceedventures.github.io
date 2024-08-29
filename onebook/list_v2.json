@@ -49,9 +49,5 @@
         {"title":"존F케네디연설문", "thumb":"https://exceedventures.github.io/onebook/covers/johnf.cover.jpg", "id":"s04", "name":"johnf"},
         {"title":"덴젤워싱턴연설문", "thumb":"https://exceedventures.github.io/onebook/covers/denzel.cover.jpg", "id":"s05", "name":"denzel"},
         {"title":"코난오브라이언연설", "thumb":"https://exceedventures.github.io/onebook/covers/conan.cover.jpg", "id":"s06", "name":"conan"}        
-    ]},
-    {"category":"아마추어 창작물", "value": [
-        {"title":"민주", "thumb":"https://exceedventures.github.io/onebook/covers/minju.cover.jpg", "id":"k01", "name":"minju"},
-        {"title":"일본인여자친구", "thumb":"https://exceedventures.github.io/onebook/covers/kanojo.cover.jpg", "id":"k02", "name":"kanojo"}      
     ]}
 ]
