@@ -50,8 +50,8 @@
         {"title":"알라딘과요술램프", "thumb":"https://exceedventures.github.io/onebook/covers/aladdin.cover.jpg", "id":"ch04", "name":"aladdin"},
         {"title":"곰세마리", "thumb":"https://exceedventures.github.io/onebook/covers/three_bears.cover.jpg", "id":"ch07", "name":"three_bears"},
         {"title":"엄지손가락톰", "thumb":"https://exceedventures.github.io/onebook/covers/tom_thumb.cover.jpg", "id":"ch05", "name":"tom_thumb"},
-        {"title":"잠자는숲속의미녀", "thumb":"https://exceedventures.github.io/onebook/covers/sleeping_beauty.cover.jpg", "id":"ch06", "name":"sleeping_beauty"}
-
+        {"title":"잠자는숲속의미녀", "thumb":"https://exceedventures.github.io/onebook/covers/sleeping_beauty.cover.jpg", "id":"ch06", "name":"sleeping_beauty"},
+        {"title":"미녀와와수", "thumb":"https://exceedventures.github.io/onebook/covers/beauty_beast.cover.jpg", "id":"ch09", "name":"beauty_beast"}
     ]},
     {"category":"레전드 연설문", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s01", "name":"jobs"},
