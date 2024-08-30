@@ -33,6 +33,7 @@
         {"title":"셜록홈즈의모험", "thumb":"https://exceedventures.github.io/onebook/covers/holmes.cover.jpg", "id":"a02", "name":"holmes"},
         {"title":"그림형제동화", "thumb":"https://exceedventures.github.io/onebook/covers/grimms.cover.jpg", "id":"a13", "name":"grimms"}, 
         {"title":"전망좋은방", "thumb":"https://exceedventures.github.io/onebook/covers/room.cover.jpg", "id":"a14", "name":"room"},
+        {"title":"블루캐슬", "thumb":"https://exceedventures.github.io/onebook/covers/blue_castle.cover.jpg", "id":"a15", "name":"blue_castle"},
         {"title":"우주전쟁", "thumb":"https://exceedventures.github.io/onebook/covers/worldwar.cover.jpg", "id":"a03", "name":"worldwar"},  
         {"title":"걸리버여행기", "thumb":"https://exceedventures.github.io/onebook/covers/gulliver.cover.jpg", "id":"a11", "name":"gulliver"},   
         {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"a04", "name":"women"},        
@@ -41,7 +42,7 @@
         {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"a07", "name":"frankenstein"},
         {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"a08", "name":"treasure"},
         {"title":"허클베리핀", "thumb":"https://exceedventures.github.io/onebook/covers/huckleberry.cover.jpg", "id":"a09", "name":"huckleberry"},
-        {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"a15", "name":"esop"}
+        {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"a16", "name":"esop"}
     ]},
     {"category":"어린이 동화", "value": [
         {"title":"백설공주", "thumb":"https://exceedventures.github.io/onebook/covers/snow_white.cover.jpg", "id":"ch01", "name":"snow_white"},
