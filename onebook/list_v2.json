@@ -55,7 +55,7 @@
         {"title":"잠자는숲속의미녀", "thumb":"https://exceedventures.github.io/onebook/covers/sleeping_beauty.cover.jpg", "id":"ch06", "name":"sleeping_beauty"},
         {"title":"잭더자이언트킬러", "thumb":"https://exceedventures.github.io/onebook/covers/jack_giant_killer.cover.jpg", "id":"ch10", "name":"jack_giant_killer"},
         {"title":"거위소녀", "thumb":"https://exceedventures.github.io/onebook/covers/goose_girl.cover.jpg", "id":"ch11", "name":"goose_girl"},   
-        {"title":"헨젤과그레텔", "thumb":"https://exceedventures.github.io/onebook/covers/hansel.cover.jpg", "id":"ch12", "name":"hansel"},   
+        {"title":"헨젤과그레텔", "thumb":"https://exceedventures.github.io/onebook/covers/hansel.cover.jpg", "id":"ch12", "name":"hansel"}   
     ]},
     {"category":"레전드 연설문", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s01", "name":"jobs"},
