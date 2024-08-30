@@ -52,6 +52,7 @@
         {"title":"신데렐라", "thumb":"https://exceedventures.github.io/onebook/covers/cinderella.cover.jpg", "id":"ch10", "name":"cinderella"},
         {"title":"빨간망토", "thumb":"https://exceedventures.github.io/onebook/covers/red_hood.cover.jpg", "id":"ch13", "name":"red_hood"},
         {"title":"푸른수염", "thumb":"https://exceedventures.github.io/onebook/covers/blue_beard.cover.jpg", "id":"ch14", "name":"blue_beard"},
+        {"title":"잭과콩나무", "thumb":"https://exceedventures.github.io/onebook/covers/jack_beanstalk.cover.jpg", "id":"ch16", "name":"jack_beanstalk"},
         {"title":"미운오리새끼", "thumb":"https://exceedventures.github.io/onebook/covers/ugly_duckling.cover.jpg", "id":"ch02", "name":"ugly_duckling"},
         {"title":"곰세마리", "thumb":"https://exceedventures.github.io/onebook/covers/three_bears.cover.jpg", "id":"ch07", "name":"three_bears"},
         {"title":"엄지손가락톰", "thumb":"https://exceedventures.github.io/onebook/covers/tom_thumb.cover.jpg", "id":"ch05", "name":"tom_thumb"},
@@ -59,7 +60,7 @@
         {"title":"잭더자이언트킬러", "thumb":"https://exceedventures.github.io/onebook/covers/jack_giant_killer.cover.jpg", "id":"ch10", "name":"jack_giant_killer"},
         {"title":"거위소녀", "thumb":"https://exceedventures.github.io/onebook/covers/goose_girl.cover.jpg", "id":"ch11", "name":"goose_girl"},   
         {"title":"딕과고양이", "thumb":"https://exceedventures.github.io/onebook/covers/his_cat.cover.jpg", "id":"ch15", "name":"his_cat"}, 
-        {"title":"헨젤과그레텔", "thumb":"https://exceedventures.github.io/onebook/covers/hansel.cover.jpg", "id":"ch16", "name":"hansel"}   
+        {"title":"헨젤과그레텔", "thumb":"https://exceedventures.github.io/onebook/covers/hansel.cover.jpg", "id":"ch17", "name":"hansel"}   
     ]},
     {"category":"레전드 연설문", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s01", "name":"jobs"},
