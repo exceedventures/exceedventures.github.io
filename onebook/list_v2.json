@@ -53,7 +53,8 @@
         {"title":"신데렐라", "thumb":"https://exceedventures.github.io/onebook/covers/cinderella.cover.jpg", "id":"ch10", "name":"cinderella"},
         {"title":"엄지손가락톰", "thumb":"https://exceedventures.github.io/onebook/covers/tom_thumb.cover.jpg", "id":"ch05", "name":"tom_thumb"},
         {"title":"잠자는숲속의미녀", "thumb":"https://exceedventures.github.io/onebook/covers/sleeping_beauty.cover.jpg", "id":"ch06", "name":"sleeping_beauty"},
-        {"title":"잭더자이언트킬러", "thumb":"https://exceedventures.github.io/onebook/covers/jack_giant_killer.cover.jpg", "id":"ch10", "name":"jack_giant_killer"}   
+        {"title":"잭더자이언트킬러", "thumb":"https://exceedventures.github.io/onebook/covers/jack_giant_killer.cover.jpg", "id":"ch10", "name":"jack_giant_killer"},
+        {"title":"거위소녀", "thumb":"https://exceedventures.github.io/onebook/covers/goose_girl.cover.jpg", "id":"ch10", "name":"goose_girl"}      
     ]},
     {"category":"레전드 연설문", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s01", "name":"jobs"},
