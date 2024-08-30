@@ -12,6 +12,7 @@
         {"title":"오디세이", "thumb":"https://exceedventures.github.io/onebook/covers/odyssey.cover.jpg", "id":"c02", "name":"odyssey"},  
         {"title":"파우스트", "thumb":"https://exceedventures.github.io/onebook/covers/faust.cover.jpg", "id":"c10", "name":"faust"},
         {"title":"드라큘라", "thumb":"https://exceedventures.github.io/onebook/covers/dracula.cover.jpg", "id":"c26", "name":"dracula"},
+        {"title":"허클베리핀", "thumb":"https://exceedventures.github.io/onebook/covers/huckleberry.cover.jpg", "id":"c30", "name":"huckleberry"},
         {"title":"톰아저씨의오두막", "thumb":"https://exceedventures.github.io/onebook/covers/uncle_tom.cover.jpg", "id":"c12", "name":"uncle_tom"}, 
         {"title":"월든", "thumb":"https://exceedventures.github.io/onebook/covers/walden.cover.jpg", "id":"c14", "name":"walden"}, 
         {"title":"흑인의영혼", "thumb":"https://exceedventures.github.io/onebook/covers/black.cover.jpg", "id":"c20", "name":"black"}, 
@@ -22,7 +23,7 @@
         {"title":"미국의민주주의", "thumb":"https://exceedventures.github.io/onebook/covers/democracy.cover.jpg", "id":"c22", "name":"democracy"},  
         {"title":"로미오와줄리엣", "thumb":"https://exceedventures.github.io/onebook/covers/romeo.cover.jpg", "id":"c7", "name":"romeo"},     
         {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"c8", "name":"prejudice"},
-        {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"c29", "name":"twocities"}
+        {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"c31", "name":"twocities"}
                
     ]},
     {"category":"경제학 원서", "value": [
@@ -44,7 +45,6 @@
         {"title":"안나카레니나", "thumb":"https://exceedventures.github.io/onebook/covers/anna.cover.jpg", "id":"a06", "name":"anna"},
         {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"a07", "name":"frankenstein"},
         {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"a08", "name":"treasure"},
-        {"title":"허클베리핀", "thumb":"https://exceedventures.github.io/onebook/covers/huckleberry.cover.jpg", "id":"a09", "name":"huckleberry"},
         {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"a16", "name":"esop"}
     ]},
     {"category":"어린이 동화", "value": [
