@@ -27,7 +27,7 @@
                
     ]},
     {"category":"경제학 원서", "value": [
-        {"title":"국부론(아담스미스)", "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg", "id":"e01", "name":"wealth_of_nations"},
+        {"title":"국부론", "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg", "id":"e01", "name":"wealth_of_nations"},
         {"title":"부는어디서오는가", "thumb":"https://exceedventures.github.io/onebook/covers/getting_rich.cover.jpg", "id":"e02", "name":"getting_rich"},
         {"title":"사회계약론", "thumb":"https://exceedventures.github.io/onebook/covers/social_contract.cover.jpg", "id":"e03", "name":"social_contract"},
         {"title":"진보와빈곤", "thumb":"https://exceedventures.github.io/onebook/covers/progress_and_poverty.cover.jpg", "id":"e04", "name":"progress_and_poverty"}
@@ -67,7 +67,8 @@
         {"title":"헨젤과그레텔", "thumb":"https://exceedventures.github.io/onebook/covers/hansel.cover.jpg", "id":"ch17", "name":"hansel"}   
     ]},
     {"category":"톨스토이 컬렉션", "value": [
-        {"title":"사람은무엇으로사는가", "thumb":"https://exceedventures.github.io/onebook/covers/men_live.cover.jpg", "id":"t09", "name":"men_live"},
+        {"title":"얼마나많은땅이필요", "thumb":"https://exceedventures.github.io/onebook/covers/much_land.cover.jpg", "id":"t01", "name":"much_land"},
+        {"title":"사람은무엇으로사나", "thumb":"https://exceedventures.github.io/onebook/covers/men_live.cover.jpg", "id":"t09", "name":"men_live"},
         {"title":"안나카레니나", "thumb":"https://exceedventures.github.io/onebook/covers/anna.cover.jpg", "id":"t10", "name":"anna"},
         {"title":"전쟁과평화1", "thumb":"https://exceedventures.github.io/onebook/covers/war_peace1.cover.jpg", "id":"t12", "name":"war_peace1"}
     ]},
