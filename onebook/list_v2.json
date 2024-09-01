@@ -68,12 +68,12 @@
     ]},
     {"category":"톨스토이 컬렉션", "value": [
         {"title":"사람은무엇으로사나", "thumb":"https://exceedventures.github.io/onebook/covers/men_live.cover.jpg", "id":"t01", "name":"men_live"},
-        {"title":"얼마나많은땅이필요", "thumb":"https://exceedventures.github.io/onebook/covers/much_land.cover.jpg", "id":"t02", "name":"much_land"},
-        {"title":"세가지질문", "thumb":"https://exceedventures.github.io/onebook/covers/three_questions.cover.jpg", "id":"t03", "name":"three_questions"},
-        {"title":"신은진실을보지만", "thumb":"https://exceedventures.github.io/onebook/covers/god_truth.cover.jpg", "id":"t04", "name":"god_truth"},
-        {"title":"부활", "thumb":"https://exceedventures.github.io/onebook/covers/resurrection.cover.jpg", "id":"t05", "name":"resurrection"},
-        {"title":"안나카레니나", "thumb":"https://exceedventures.github.io/onebook/covers/anna.cover.jpg", "id":"t10", "name":"anna"},
-        {"title":"전쟁과평화1", "thumb":"https://exceedventures.github.io/onebook/covers/war_peace1.cover.jpg", "id":"t12", "name":"war_peace1"}
+        {"title":"부활", "thumb":"https://exceedventures.github.io/onebook/covers/resurrection.cover.jpg", "id":"t02", "name":"resurrection"},
+        {"title":"안나카레니나", "thumb":"https://exceedventures.github.io/onebook/covers/anna.cover.jpg", "id":"t03", "name":"anna"},
+        {"title":"전쟁과평화1", "thumb":"https://exceedventures.github.io/onebook/covers/war_peace1.cover.jpg", "id":"t04", "name":"war_peace1"},
+        {"title":"얼마나많은땅이필요", "thumb":"https://exceedventures.github.io/onebook/covers/much_land.cover.jpg", "id":"t05", "name":"much_land"},
+        {"title":"세가지질문", "thumb":"https://exceedventures.github.io/onebook/covers/three_questions.cover.jpg", "id":"t06", "name":"three_questions"},
+        {"title":"신은진실을보지만", "thumb":"https://exceedventures.github.io/onebook/covers/god_truth.cover.jpg", "id":"t07", "name":"god_truth"}  
     ]},
     {"category":"레전드 연설문", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s01", "name":"jobs"},
