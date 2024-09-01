@@ -42,7 +42,6 @@
         {"title":"걸리버여행기", "thumb":"https://exceedventures.github.io/onebook/covers/gulliver.cover.jpg", "id":"a11", "name":"gulliver"},   
         {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"a04", "name":"women"},        
         {"title":"매혹적인4월", "thumb":"https://exceedventures.github.io/onebook/covers/april.cover.jpg", "id":"a05", "name":"april"},
-        {"title":"안나카레니나", "thumb":"https://exceedventures.github.io/onebook/covers/anna.cover.jpg", "id":"a06", "name":"anna"},
         {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"a07", "name":"frankenstein"},
         {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"a08", "name":"treasure"},
         {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"a16", "name":"esop"}
@@ -66,6 +65,10 @@
         {"title":"거위소녀", "thumb":"https://exceedventures.github.io/onebook/covers/goose_girl.cover.jpg", "id":"ch11", "name":"goose_girl"},   
         {"title":"딕과고양이", "thumb":"https://exceedventures.github.io/onebook/covers/his_cat.cover.jpg", "id":"ch15", "name":"his_cat"}, 
         {"title":"헨젤과그레텔", "thumb":"https://exceedventures.github.io/onebook/covers/hansel.cover.jpg", "id":"ch17", "name":"hansel"}   
+    ]},
+    {"category":"톨스토이 컬렉션", "value": [
+        {"title":"안나카레니나", "thumb":"https://exceedventures.github.io/onebook/covers/anna.cover.jpg", "id":"t10", "name":"anna"},
+        {"title":"전쟁과평화1", "thumb":"https://exceedventures.github.io/onebook/covers/war_peace1.cover.jpg", "id":"t12", "name":"war_peace1"}
     ]},
     {"category":"레전드 연설문", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s01", "name":"jobs"},
