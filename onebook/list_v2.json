@@ -22,9 +22,7 @@
         {"title":"모비딕", "thumb":"https://exceedventures.github.io/onebook/covers/moby_dick.cover.jpg", "id":"c6", "name":"moby_dick"},  
         {"title":"미국의민주주의", "thumb":"https://exceedventures.github.io/onebook/covers/democracy.cover.jpg", "id":"c22", "name":"democracy"},  
         {"title":"로미오와줄리엣", "thumb":"https://exceedventures.github.io/onebook/covers/romeo.cover.jpg", "id":"c7", "name":"romeo"},     
-        {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"c8", "name":"prejudice"},
-        {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"c31", "name":"twocities"}
-               
+        {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"c8", "name":"prejudice"}             
     ]},
     {"category":"경제학 원서", "value": [
         {"title":"국부론", "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg", "id":"e01", "name":"wealth_of_nations"},
@@ -74,6 +72,11 @@
         {"title":"세가지질문", "thumb":"https://exceedventures.github.io/onebook/covers/three_questions.cover.jpg", "id":"t06", "name":"three_questions"},
         {"title":"사람은무엇으로사나", "thumb":"https://exceedventures.github.io/onebook/covers/men_live.cover.jpg", "id":"t01", "name":"men_live"},
         {"title":"신은진실을보지만", "thumb":"https://exceedventures.github.io/onebook/covers/god_truth.cover.jpg", "id":"t07", "name":"god_truth"}  
+    ]},
+    {"category":"찰스 디킨스 컬렉션", "value": [
+        {"title":"위대한유산", "thumb":"https://exceedventures.github.io/onebook/covers/expectations.cover.jpg", "id":"d01", "name":"expectations"},
+        {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"d31", "name":"twocities"}
+       
     ]},
     {"category":"레전드 연설문", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s01", "name":"jobs"},
