@@ -75,6 +75,7 @@
     ]},
     {"category":"찰스 디킨스 컬렉션", "value": [
         {"title":"위대한유산", "thumb":"https://exceedventures.github.io/onebook/covers/expectations.cover.jpg", "id":"d01", "name":"expectations"},
+        {"title":"크리스마스캐롤", "thumb":"https://exceedventures.github.io/onebook/covers/christmas_carol.cover.jpg", "id":"d02", "name":"christmas_carol"},
         {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"d31", "name":"twocities"}
        
     ]},
