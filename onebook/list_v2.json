@@ -78,7 +78,8 @@
         {"title":"올리버트위스트", "thumb":"https://exceedventures.github.io/onebook/covers/oliver_twist.cover.jpg", "id":"d011", "name":"oliver_twist"},
         {"title":"위대한유산", "thumb":"https://exceedventures.github.io/onebook/covers/expectations.cover.jpg", "id":"d022", "name":"expectations"},
         {"title":"크리스마스캐롤", "thumb":"https://exceedventures.github.io/onebook/covers/christmas_carol.cover.jpg", "id":"d033", "name":"christmas_carol"},
-        {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"d044", "name":"twocities"}
+        {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"d044", "name":"twocities"},
+        {"title":"오래된골동품가게", "thumb":"https://exceedventures.github.io/onebook/covers/old_curiosity.cover.jpg", "id":"d044", "name":"old_curiosity"}
        
     ]},
     {"category":"레전드 연설문", "value": [
