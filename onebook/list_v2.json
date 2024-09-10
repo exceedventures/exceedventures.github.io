@@ -24,12 +24,6 @@
         {"title":"로미오와줄리엣", "thumb":"https://exceedventures.github.io/onebook/covers/romeo.cover.jpg", "id":"c7", "name":"romeo"},     
         {"title":"오만과편견", "thumb":"https://exceedventures.github.io/onebook/covers/prejudice.cover.jpg", "id":"c8", "name":"prejudice"}             
     ]},
-    {"category":"경제학 원서", "value": [
-        {"title":"국부론", "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg", "id":"e01", "name":"wealth_of_nations"},
-        {"title":"부는어디서오는가", "thumb":"https://exceedventures.github.io/onebook/covers/getting_rich.cover.jpg", "id":"e02", "name":"getting_rich"},
-        {"title":"사회계약론", "thumb":"https://exceedventures.github.io/onebook/covers/social_contract.cover.jpg", "id":"e03", "name":"social_contract"},
-        {"title":"진보와빈곤", "thumb":"https://exceedventures.github.io/onebook/covers/progress_and_poverty.cover.jpg", "id":"e04", "name":"progress_and_poverty"}
-    ]},
     {"category":"찰스 디킨스 컬렉션", "value": [
         {"title":"데이비드코퍼필드", "thumb":"https://exceedventures.github.io/onebook/covers/copperfield.cover.jpg", "id":"d01", "name":"copperfield"},
         {"title":"올리버트위스트", "thumb":"https://exceedventures.github.io/onebook/covers/oliver_twist.cover.jpg", "id":"d011", "name":"oliver_twist"},
@@ -37,7 +31,6 @@
         {"title":"크리스마스캐롤", "thumb":"https://exceedventures.github.io/onebook/covers/christmas_carol.cover.jpg", "id":"d033", "name":"christmas_carol"},
         {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"d044", "name":"twocities"},
         {"title":"오래된골동품가게", "thumb":"https://exceedventures.github.io/onebook/covers/old_curiosity.cover.jpg", "id":"d044", "name":"old_curiosity"}
-       
     ]},
     {"category":"톨스토이 컬렉션", "value": [
         {"title":"부활", "thumb":"https://exceedventures.github.io/onebook/covers/resurrection.cover.jpg", "id":"t02", "name":"resurrection"},
@@ -47,20 +40,6 @@
         {"title":"세가지질문", "thumb":"https://exceedventures.github.io/onebook/covers/three_questions.cover.jpg", "id":"t06", "name":"three_questions"},
         {"title":"사람은무엇으로사나", "thumb":"https://exceedventures.github.io/onebook/covers/men_live.cover.jpg", "id":"t01", "name":"men_live"},
         {"title":"신은진실을보지만", "thumb":"https://exceedventures.github.io/onebook/covers/god_truth.cover.jpg", "id":"t07", "name":"god_truth"}  
-    ]},
-    {"category":"그외 인기 원서", "value": [
-        {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"a01", "name":"alice"},
-        {"title":"셜록홈즈의모험", "thumb":"https://exceedventures.github.io/onebook/covers/holmes.cover.jpg", "id":"a02", "name":"holmes"},
-        {"title":"그림형제동화", "thumb":"https://exceedventures.github.io/onebook/covers/grimms.cover.jpg", "id":"a13", "name":"grimms"}, 
-        {"title":"전망좋은방", "thumb":"https://exceedventures.github.io/onebook/covers/room.cover.jpg", "id":"a14", "name":"room"},
-        {"title":"블루캐슬", "thumb":"https://exceedventures.github.io/onebook/covers/blue_castle.cover.jpg", "id":"a15", "name":"blue_castle"},
-        {"title":"우주전쟁", "thumb":"https://exceedventures.github.io/onebook/covers/worldwar.cover.jpg", "id":"a03", "name":"worldwar"},  
-        {"title":"걸리버여행기", "thumb":"https://exceedventures.github.io/onebook/covers/gulliver.cover.jpg", "id":"a11", "name":"gulliver"},   
-        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"a04", "name":"women"},        
-        {"title":"매혹적인4월", "thumb":"https://exceedventures.github.io/onebook/covers/april.cover.jpg", "id":"a05", "name":"april"},
-        {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"a07", "name":"frankenstein"},
-        {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"a08", "name":"treasure"},
-        {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"a16", "name":"esop"}
     ]},
     {"category":"어린이 동화", "value": [
         {"title":"백설공주", "thumb":"https://exceedventures.github.io/onebook/covers/snow_white.cover.jpg", "id":"ch01", "name":"snow_white"},
@@ -82,6 +61,28 @@
         {"title":"딕과고양이", "thumb":"https://exceedventures.github.io/onebook/covers/his_cat.cover.jpg", "id":"ch15", "name":"his_cat"}, 
         {"title":"헨젤과그레텔", "thumb":"https://exceedventures.github.io/onebook/covers/hansel.cover.jpg", "id":"ch17", "name":"hansel"}   
     ]},
+    {"category":"그외 인기 원서", "value": [
+        {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"a01", "name":"alice"},
+        {"title":"셜록홈즈의모험", "thumb":"https://exceedventures.github.io/onebook/covers/holmes.cover.jpg", "id":"a02", "name":"holmes"},
+        {"title":"그림형제동화", "thumb":"https://exceedventures.github.io/onebook/covers/grimms.cover.jpg", "id":"a13", "name":"grimms"}, 
+        {"title":"전망좋은방", "thumb":"https://exceedventures.github.io/onebook/covers/room.cover.jpg", "id":"a14", "name":"room"},
+        {"title":"블루캐슬", "thumb":"https://exceedventures.github.io/onebook/covers/blue_castle.cover.jpg", "id":"a15", "name":"blue_castle"},
+        {"title":"우주전쟁", "thumb":"https://exceedventures.github.io/onebook/covers/worldwar.cover.jpg", "id":"a03", "name":"worldwar"},  
+        {"title":"걸리버여행기", "thumb":"https://exceedventures.github.io/onebook/covers/gulliver.cover.jpg", "id":"a11", "name":"gulliver"},   
+        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"a04", "name":"women"},        
+        {"title":"매혹적인4월", "thumb":"https://exceedventures.github.io/onebook/covers/april.cover.jpg", "id":"a05", "name":"april"},
+        {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"a07", "name":"frankenstein"},
+        {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"a08", "name":"treasure"},
+        {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"a16", "name":"esop"}
+    ]},
+
+    {"category":"경제학 원서", "value": [
+        {"title":"국부론", "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg", "id":"e01", "name":"wealth_of_nations"},
+        {"title":"부는어디서오는가", "thumb":"https://exceedventures.github.io/onebook/covers/getting_rich.cover.jpg", "id":"e02", "name":"getting_rich"},
+        {"title":"사회계약론", "thumb":"https://exceedventures.github.io/onebook/covers/social_contract.cover.jpg", "id":"e03", "name":"social_contract"},
+        {"title":"진보와빈곤", "thumb":"https://exceedventures.github.io/onebook/covers/progress_and_poverty.cover.jpg", "id":"e04", "name":"progress_and_poverty"}
+    ]},
+
     {"category":"레전드 연설문", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s01", "name":"jobs"},
         {"title":"오바마취임연설문", "thumb":"https://exceedventures.github.io/onebook/covers/obama.cover.jpg", "id":"s02", "name":"obama"},
