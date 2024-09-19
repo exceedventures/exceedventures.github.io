@@ -26,13 +26,14 @@
     ]},
     {"category":"찰스 디킨스 컬렉션", "value": [
         {"title":"데이비드코퍼필드", "thumb":"https://exceedventures.github.io/onebook/covers/copperfield.cover.jpg", "id":"d01", "name":"copperfield"},
-        {"title":"올리버트위스트", "thumb":"https://exceedventures.github.io/onebook/covers/oliver_twist.cover.jpg", "id":"d011", "name":"oliver_twist"},
         {"title":"위대한유산", "thumb":"https://exceedventures.github.io/onebook/covers/expectations.cover.jpg", "id":"d022", "name":"expectations"},
+        {"title":"어려운시절", "thumb":"https://exceedventures.github.io/onebook/covers/hard_times.cover.jpg", "id":"d023", "name":"hard_times"},
+        {"title":"올리버트위스트", "thumb":"https://exceedventures.github.io/onebook/covers/oliver_twist.cover.jpg", "id":"d011", "name":"oliver_twist"},  
         {"title":"크리스마스캐롤", "thumb":"https://exceedventures.github.io/onebook/covers/christmas_carol.cover.jpg", "id":"d033", "name":"christmas_carol"},
         {"title":"두도시이야기", "thumb":"https://exceedventures.github.io/onebook/covers/twocities.cover.jpg", "id":"d044", "name":"twocities"},
         {"title":"오래된골동품가게", "thumb":"https://exceedventures.github.io/onebook/covers/old_curiosity.cover.jpg", "id":"d055", "name":"old_curiosity"},
         {"title":"리틀도릿1", "thumb":"https://exceedventures.github.io/onebook/covers/dorrit.cover.jpg", "id":"d066", "name":"dorrit"},
-        {"title":"리틀도릿2", "thumb":"https://exceedventures.github.io/onebook/covers/dorrit2.cover.jpg", "id":"d066", "name":"dorrit2"}
+        {"title":"리틀도릿2", "thumb":"https://exceedventures.github.io/onebook/covers/dorrit2.cover.jpg", "id":"d077", "name":"dorrit2"}
     ]},
     {"category":"톨스토이 컬렉션", "value": [
         {"title":"부활", "thumb":"https://exceedventures.github.io/onebook/covers/resurrection.cover.jpg", "id":"t02", "name":"resurrection"},
