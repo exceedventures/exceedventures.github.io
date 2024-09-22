@@ -1,6 +1,7 @@
 [
     {"category":"의학/건강", "value": [
         {"title":"고혈압", "thumb":"https://exceedventures.github.io/mersbook/cover/blood_pressure.jpg", "id":"223495430378", "content":"https://exceedventures.github.io/mersbook/content/blood_pressure.txt"},
-        {"title":"건강검진", "thumb":"https://exceedventures.github.io/mersbook/cover/health_check.jpg", "id":"223320119106", "content":"https://exceedventures.github.io/mersbook/content/health_check1.txt"}             
+        {"title":"건강검진", "thumb":"https://exceedventures.github.io/mersbook/cover/health_check.jpg", "id":"223320119106", "content":"https://exceedventures.github.io/mersbook/content/health_check1.txt"},
+        {"title":"치매치료", "thumb":"https://exceedventures.github.io/mersbook/cover/dementia.jpg", "id":"223320119106", "content":"https://exceedventures.github.io/mersbook/content/dementia.txt"}                
     ]}
 ]
