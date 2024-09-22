@@ -4,8 +4,8 @@
         {"title":"건강검진", "thumb":"https://exceedventures.github.io/mersbook/cover/health_check.jpg", "id":"223320119106", "content":"https://exceedventures.github.io/mersbook/content/health_check1.txt"},
         {"title":"치매치료제", "thumb":"https://exceedventures.github.io/mersbook/cover/dementia.jpg", "id":"223500419034", "content":"https://exceedventures.github.io/mersbook/content/dementia.txt"},
         {"title":"코엔자임큐텐", "thumb":"https://exceedventures.github.io/mersbook/cover/coq10.jpg", "id":"222865287516", "content":"https://exceedventures.github.io/mersbook/content/coq10.txt"}
-        
-        
-        
+    ]},
+    {"category":"정치/외교", "value": [
+        {"title":"중국이야기", "thumb":"https://exceedventures.github.io/mersbook/cover/china.jpg", "id":"223578603657", "content":"https://exceedventures.github.io/mersbook/content/china.txt"}
     ]}
 ]
