@@ -10,8 +10,9 @@
         {"title":"호주무역전쟁", "thumb":"https://exceedventures.github.io/mersbook/cover/australia.jpg", "id":"223482242335", "content":"https://exceedventures.github.io/mersbook/content/australia.txt"},
         {"title":"중동전쟁", "thumb":"https://exceedventures.github.io/mersbook/cover/middle_war.jpg", "id":"223532658365", "content":"https://exceedventures.github.io/mersbook/content/middle_war.txt"},
         {"title":"게임이론", "thumb":"https://exceedventures.github.io/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://exceedventures.github.io/mersbook/content/game.txt"}
-    
-
+    ]},
+    {"category":"주식/채권", "value": [
+        {"title":"초단타거래", "thumb":"https://exceedventures.github.io/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://exceedventures.github.io/mersbook/content/hft.txt"}
         
     ]}
 ]
