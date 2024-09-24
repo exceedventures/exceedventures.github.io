@@ -1,0 +1,23 @@
+[
+    {"category":"의학/건강", "value": [
+        {"title":"고혈압", "thumb":"https://exceedventures.github.io/mersbook/cover/blood_pressure.jpg", "id":"223495430378", "content":"https://exceedventures.github.io/mersbook/content/blood_pressure.txt"},
+        {"title":"건강검진", "thumb":"https://exceedventures.github.io/mersbook/cover/health_check.jpg", "id":"223320119106", "content":"https://exceedventures.github.io/mersbook/content/health_check1.txt"},
+        {"title":"치매치료제", "thumb":"https://exceedventures.github.io/mersbook/cover/dementia.jpg", "id":"223500419034", "content":"https://exceedventures.github.io/mersbook/content/dementia.txt"},
+        {"title":"코엔자임큐텐", "thumb":"https://exceedventures.github.io/mersbook/cover/coq10.jpg", "id":"222865287516", "content":"https://exceedventures.github.io/mersbook/content/coq10.txt"}
+    ]},
+    {"category":"자연/과학", "value": [
+        {"title":"미래식량", "thumb":"https://exceedventures.github.io/mersbook/cover/food.jpg", "id":"223031448252", "content":"https://exceedventures.github.io/mersbook/content/food.txt"} , 
+        {"title":"인공태양", "thumb":"https://exceedventures.github.io/mersbook/cover/nuclear_fusion.jpg", "id":"223390296850", "content":"https://exceedventures.github.io/mersbook/content/nuclear_fusion.txt"},
+        {"title":"엘리뇨현상", "thumb":"https://exceedventures.github.io/mersbook/cover/elnino.jpg", "id":"223590346587", "content":"https://exceedventures.github.io/mersbook/content/elnino.txt"},
+        {"title":"3차전지", "thumb":"https://exceedventures.github.io/mersbook/cover/fuel_cell.jpg", "id":"223503267808", "content":"https://exceedventures.github.io/mersbook/content/fuel_cell.txt"}  
+    ]},
+    {"category":"정치/외교", "value": [
+        {"title":"중국이야기", "thumb":"https://exceedventures.github.io/mersbook/cover/china.jpg", "id":"223578603657", "content":"https://exceedventures.github.io/mersbook/content/china.txt"},
+        {"title":"호주무역전쟁", "thumb":"https://exceedventures.github.io/mersbook/cover/australia.jpg", "id":"223482242335", "content":"https://exceedventures.github.io/mersbook/content/australia.txt"},
+        {"title":"중동전쟁", "thumb":"https://exceedventures.github.io/mersbook/cover/middle_war.jpg", "id":"223532658365", "content":"https://exceedventures.github.io/mersbook/content/middle_war.txt"},
+        {"title":"게임이론", "thumb":"https://exceedventures.github.io/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://exceedventures.github.io/mersbook/content/game.txt"}
+    ]},
+    {"category":"주식/채권", "value": [
+        {"title":"초단타거래", "thumb":"https://exceedventures.github.io/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://exceedventures.github.io/mersbook/content/hft.txt"}  
+    ]}
+]
