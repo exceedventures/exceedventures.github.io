@@ -8,6 +8,7 @@
     {"category":"자연/과학", "value": [
         {"title":"미래식량", "thumb":"https://exceedventures.github.io/mersbook/cover/food.jpg", "id":"223031448252", "content":"https://exceedventures.github.io/mersbook/content/food.txt"} , 
         {"title":"인공태양", "thumb":"https://exceedventures.github.io/mersbook/cover/nuclear_fusion.jpg", "id":"223390296850", "content":"https://exceedventures.github.io/mersbook/content/nuclear_fusion.txt"},
+        {"title":"엘리뇨현상", "thumb":"https://exceedventures.github.io/mersbook/cover/elnino.jpg", "id":"223590346587", "content":"https://exceedventures.github.io/mersbook/content/elnino.txt"},
         {"title":"3차전지", "thumb":"https://exceedventures.github.io/mersbook/cover/fuel_cell.jpg", "id":"223503267808", "content":"https://exceedventures.github.io/mersbook/content/fuel_cell.txt"}  
     ]},
     {"category":"정치/외교", "value": [
