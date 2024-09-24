@@ -6,7 +6,8 @@
         {"title":"코엔자임큐텐", "thumb":"https://exceedventures.github.io/mersbook/cover/coq10.jpg", "id":"222865287516", "content":"https://exceedventures.github.io/mersbook/content/coq10.txt"}
     ]},
     {"category":"자연/과학", "value": [
-        {"title":"미래식량", "thumb":"https://exceedventures.github.io/mersbook/cover/food.jpg", "id":"223031448252", "content":"https://exceedventures.github.io/mersbook/content/food.txt"}  
+        {"title":"미래식량", "thumb":"https://exceedventures.github.io/mersbook/cover/food.jpg", "id":"223031448252", "content":"https://exceedventures.github.io/mersbook/content/food.txt"} , 
+        {"title":"미래식량", "thumb":"https://exceedventures.github.io/mersbook/cover/nuclear_fusion.jpg", "id":"223390296850", "content":"https://exceedventures.github.io/mersbook/content/nuclear_fusion.txt"} 
     ]},
     {"category":"정치/외교", "value": [
         {"title":"중국이야기", "thumb":"https://exceedventures.github.io/mersbook/cover/china.jpg", "id":"223578603657", "content":"https://exceedventures.github.io/mersbook/content/china.txt"},
