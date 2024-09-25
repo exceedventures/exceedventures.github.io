@@ -18,6 +18,7 @@
         {"title":"게임이론", "thumb":"https://exceedventures.github.io/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://exceedventures.github.io/mersbook/content/game.txt"}
     ]},
     {"category":"주식/채권", "value": [
+        {"title":"장단기금리역전", "thumb":"https://exceedventures.github.io/mersbook/cover/canary.jpg", "id":"223576361606", "content":"https://exceedventures.github.io/mersbook/content/canary.txt"}, 
         {"title":"초단타거래", "thumb":"https://exceedventures.github.io/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://exceedventures.github.io/mersbook/content/hft.txt"}  
     ]}
 ]
