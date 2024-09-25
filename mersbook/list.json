@@ -17,8 +17,9 @@
         {"title":"중동전쟁", "thumb":"https://exceedventures.github.io/mersbook/cover/middle_war.jpg", "id":"223532658365", "content":"https://exceedventures.github.io/mersbook/content/middle_war.txt"},
         {"title":"게임이론", "thumb":"https://exceedventures.github.io/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://exceedventures.github.io/mersbook/content/game.txt"}
     ]},
-    {"category":"주식/채권", "value": [
-        {"title":"장단기금리역전", "thumb":"https://exceedventures.github.io/mersbook/cover/canary.jpg", "id":"223576361606", "content":"https://exceedventures.github.io/mersbook/content/canary.txt"}, 
-        {"title":"초단타거래", "thumb":"https://exceedventures.github.io/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://exceedventures.github.io/mersbook/content/hft.txt"}  
+    {"category":"주식/투자", "value": [
+        {"title":"조선업근황", "thumb":"https://exceedventures.github.io/mersbook/cover/shipbuild.jpg", "id":"223516127630", "content":"https://exceedventures.github.io/mersbook/content/shipbuild.txt"}, 
+        {"title":"초단타거래", "thumb":"https://exceedventures.github.io/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://exceedventures.github.io/mersbook/content/hft.txt"},  
+        {"title":"장단기금리역전", "thumb":"https://exceedventures.github.io/mersbook/cover/canary.jpg", "id":"223576361606", "content":"https://exceedventures.github.io/mersbook/content/canary.txt"}
     ]}
 ]
