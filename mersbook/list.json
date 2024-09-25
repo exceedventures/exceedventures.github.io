@@ -18,6 +18,7 @@
         {"title":"게임이론", "thumb":"https://exceedventures.github.io/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://exceedventures.github.io/mersbook/content/game.txt"}
     ]},
     {"category":"주식/투자", "value": [
+        {"title":"새넌의투자법", "thumb":"https://exceedventures.github.io/mersbook/cover/shannon.jpg", "id":"223569961732", "content":"https://exceedventures.github.io/mersbook/content/shannon.txt"}, 
         {"title":"조선업근황", "thumb":"https://exceedventures.github.io/mersbook/cover/shipbuild.jpg", "id":"223516127630", "content":"https://exceedventures.github.io/mersbook/content/shipbuild.txt"}, 
         {"title":"초단타거래", "thumb":"https://exceedventures.github.io/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://exceedventures.github.io/mersbook/content/hft.txt"},  
         {"title":"장단기금리역전", "thumb":"https://exceedventures.github.io/mersbook/cover/canary.jpg", "id":"223576361606", "content":"https://exceedventures.github.io/mersbook/content/canary.txt"}
