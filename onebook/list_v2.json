@@ -88,12 +88,13 @@
     ]},
 
     {"category":"레전드 연설문", "value": [
-        {"title":"JK롤링at하버드", "thumb":"https://exceedventures.github.io/onebook/covers/jkrowling.cover.jpg", "id":"s01", "name":"jkrowling"},
+        {"title":"수잔케인atTED", "thumb":"https://exceedventures.github.io/onebook/covers/susan_cain.cover.jpg", "id":"s01", "name":"susan_cain"},
+        {"title":"JK롤링at하버드", "thumb":"https://exceedventures.github.io/onebook/covers/jkrowling.cover.jpg", "id":"s02", "name":"jkrowling"},
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s011", "name":"jobs"},
-        {"title":"오바마취임연설문", "thumb":"https://exceedventures.github.io/onebook/covers/obama.cover.jpg", "id":"s02", "name":"obama"},
-        {"title":"케빈파이기연설문", "thumb":"https://exceedventures.github.io/onebook/covers/kevin.cover.jpg", "id":"s03", "name":"kevin"},
-        {"title":"존F케네디연설문", "thumb":"https://exceedventures.github.io/onebook/covers/johnf.cover.jpg", "id":"s04", "name":"johnf"},
-        {"title":"덴젤워싱턴연설문", "thumb":"https://exceedventures.github.io/onebook/covers/denzel.cover.jpg", "id":"s05", "name":"denzel"},
-        {"title":"코난오브라이언연설", "thumb":"https://exceedventures.github.io/onebook/covers/conan.cover.jpg", "id":"s06", "name":"conan"}        
+        {"title":"오바마취임연설문", "thumb":"https://exceedventures.github.io/onebook/covers/obama.cover.jpg", "id":"s022", "name":"obama"},
+        {"title":"케빈파이기연설문", "thumb":"https://exceedventures.github.io/onebook/covers/kevin.cover.jpg", "id":"s033", "name":"kevin"},
+        {"title":"존F케네디연설문", "thumb":"https://exceedventures.github.io/onebook/covers/johnf.cover.jpg", "id":"s044", "name":"johnf"},
+        {"title":"덴젤워싱턴연설문", "thumb":"https://exceedventures.github.io/onebook/covers/denzel.cover.jpg", "id":"s055", "name":"denzel"},
+        {"title":"코난오브라이언", "thumb":"https://exceedventures.github.io/onebook/covers/conan.cover.jpg", "id":"s066", "name":"conan"}        
     ]}
 ]
