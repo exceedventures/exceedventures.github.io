@@ -88,6 +88,7 @@
     ]},
 
     {"category":"레전드 연설문", "value": [
+        {"title":"로저페더러축사", "thumb":"https://exceedventures.github.io/onebook/covers/roger.cover.jpg", "id":"s012", "name":"roger"},
         {"title":"수잔케인atTED", "thumb":"https://exceedventures.github.io/onebook/covers/susan_cain.cover.jpg", "id":"s01", "name":"susan_cain"},
         {"title":"JK롤링at하버드", "thumb":"https://exceedventures.github.io/onebook/covers/jkrowling.cover.jpg", "id":"s02", "name":"jkrowling"},
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s011", "name":"jobs"},
