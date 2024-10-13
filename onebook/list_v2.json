@@ -87,6 +87,10 @@
         {"title":"진보와빈곤", "thumb":"https://exceedventures.github.io/onebook/covers/progress_and_poverty.cover.jpg", "id":"e04", "name":"progress_and_poverty"}
     ]},
 
+    {"category":"현대 소설", "value": [
+        {"title":"리틀브라더", "thumb":"https://exceedventures.github.io/onebook/covers/little_brother.cover.jpg", "id":"hd001", "name":"little_brother"}
+    ]},
+
     {"category":"레전드 연설문", "value": [
         {"title":"빌게이츠연설문", "thumb":"https://exceedventures.github.io/onebook/covers/bill_gates.cover.jpg", "id":"s001", "name":"bill_gates"},
         {"title":"로저페더러축사", "thumb":"https://exceedventures.github.io/onebook/covers/roger.cover.jpg", "id":"s002", "name":"roger"},
