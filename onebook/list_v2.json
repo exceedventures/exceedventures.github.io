@@ -89,7 +89,8 @@
 
     {"category":"현대 소설", "value": [
         {"title":"리틀브라더", "thumb":"https://exceedventures.github.io/onebook/covers/little_brother.cover.jpg", "id":"hd001", "name":"little_brother"},
-        {"title":"매직킹덤", "thumb":"https://exceedventures.github.io/onebook/covers/magic_kingdom.cover.jpg", "id":"hd002", "name":"magic_kingdom"}
+        {"title":"홈랜드", "thumb":"https://exceedventures.github.io/onebook/covers/home_land.cover.jpg", "id":"hd002", "name":"home_land"},
+        {"title":"매직킹덤", "thumb":"https://exceedventures.github.io/onebook/covers/magic_kingdom.cover.jpg", "id":"hd003", "name":"magic_kingdom"}
     ]},
 
     {"category":"레전드 연설문", "value": [
