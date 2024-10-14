@@ -1,5 +1,9 @@
 [
     {"title":"데이비드스코필드", "name":"copperfield", "id":"2410141026", "wording":"희망을 잃지 않고 나아간 끝에 행복을 얻는 다는 찰스 디킨스의 자전적 소설 이며, 프로이트가 가장 좋아한 소설로 유명하다.", "color": "0xffBC8F8F", "img":"https://exceedventures.github.io/onebook/header/imgs/copperfield.header.png"},
-    {"title":"파우스트", "name":"faust", "id":"2410141044", "wording":"파우스트는 여러학문을 두루 섭렵한 뒤 인간의 힘으로 불가능한 천지만물의 근원을 탐구 하기 위해 악마와 계약을 한다.", "color": "0xff9370DB", "img":"https://exceedventures.github.io/onebook/header/imgs/faust.header.png"}
+    {"title":"파우스트", "name":"faust", "id":"2410141044", "wording":"파우스트는 여러학문을 두루 섭렵한 뒤 인간의 힘으로 불가능한 천지만물의 근원을 탐구 하기 위해 악마와 계약을 한다.", "color": "0xff9370DB", "img":"https://exceedventures.github.io/onebook/header/imgs/faust.header.png"},
+    {"title":"나사의회전", "name":"screw", "id":"2410141644", "wording":"영국의 한 저택에서 가정교사가 유령들로부터 아이들을 보호하기 위해 고군분투 한다. 영화 '디아더스'의 원작으로 유명하다.", "color": "0xff444444", "img":"https://exceedventures.github.io/onebook/header/imgs/screw.header.png"}
 
+    
 ]
+
+
