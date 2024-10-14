@@ -77,7 +77,8 @@
         {"title":"매혹적인4월", "thumb":"https://exceedventures.github.io/onebook/covers/april.cover.jpg", "id":"a19", "name":"april"},
         {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"a20", "name":"frankenstein"},
         {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"a21", "name":"treasure"},
-        {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"a22", "name":"esop"}
+        {"title":"이솝우화", "thumb":"https://exceedventures.github.io/onebook/covers/esop.cover.jpg", "id":"a22", "name":"esop"},
+        {"title":"오즈의마법사", "thumb":"https://exceedventures.github.io/onebook/covers/oz.cover.jpg", "id":"a23", "name":"oz"}
     ]},
 
     {"category":"경제학 원서", "value": [
