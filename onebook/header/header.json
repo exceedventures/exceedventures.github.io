@@ -4,7 +4,7 @@
     {"title":"나사의회전", "name":"screw", "id":"2410141644", "wording":"영국의 한 저택에서 가정교사가 유령들로부터 아이들을 보호하기 위해 고군분투 한다. 영화 '디아더스'의 원작으로 유명하다.", "color": "0xff444444", "img":"https://exceedventures.github.io/onebook/header/imgs/screw.header.png",  "thumb":"https://exceedventures.github.io/onebook/covers/screw.cover.jpg"},
     {"title":"크리스마스캐롤", "name":"christmas_carol", "id":"2410141716", "wording":"'구두쇠 스크루지 영감' 으로 잘 알려진 찰스 디킨스의 대표적인 소설, 초판 6천부가 단 하루만에 매진될 정도로 인기를 끌었다.", "color": "0xffA52A2A", "img":"https://exceedventures.github.io/onebook/header/imgs/christmas_carol.header.png",  "thumb":"https://exceedventures.github.io/onebook/covers/christmas_carol.cover.jpg"},
     {"title":"리틀브라더", "name":"little_brother", "id":"2410141747", "wording":"코리 닥터로우가 쓴 현대 SF 소설, 테러 사건 이후 정부의 과도한 감시 체계에 해킹으로 맞서 싸우는 고등학생 마커스의 이야기", "color": "0xffA9A9A9", "img":"https://exceedventures.github.io/onebook/header/imgs/little_brother.header.png",  "thumb":"https://exceedventures.github.io/onebook/covers/little_brother.cover.jpg"},
-    {"title":"국부론", "name":"wealth_of_nations", "id":"2410161020", "wording":"경제학의 아버지라 불리는 아담 스미스가 1776년에 발표한 경제학의 기념비적인 저서, 보이지 않는 손 이론 으로도 유명한 책", "color": "0xff1a4d9a", "img":"https://exceedventures.github.io/onebook/header/imgs/wealth_of_nations.header.png",  "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg"}
+    {"title":"국부론", "name":"wealth_of_nations", "id":"2410161020", "wording":"경제학의 아버지라 불리는 아담 스미스가 1776년에 발표한 경제학의 기념비적인 저서, 보이지 않는 손 이론 으로도 유명한 책", "color": "0xff20323e", "img":"https://exceedventures.github.io/onebook/header/imgs/wealth_of_nations.header.png",  "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg"}
    
 ]
 
