@@ -82,10 +82,11 @@
     ]},
 
     {"category":"경제학 원서", "value": [
-        {"title":"국부론", "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg", "id":"e01", "name":"wealth_of_nations"},
-        {"title":"부는어디서오는가", "thumb":"https://exceedventures.github.io/onebook/covers/getting_rich.cover.jpg", "id":"e02", "name":"getting_rich"},
-        {"title":"사회계약론", "thumb":"https://exceedventures.github.io/onebook/covers/social_contract.cover.jpg", "id":"e03", "name":"social_contract"},
-        {"title":"진보와빈곤", "thumb":"https://exceedventures.github.io/onebook/covers/progress_and_poverty.cover.jpg", "id":"e04", "name":"progress_and_poverty"}
+        {"title":"부의황금률", "thumb":"https://exceedventures.github.io/onebook/covers/art_of_money.cover.jpg", "id":"e01", "name":"art_of_money"},
+        {"title":"국부론", "thumb":"https://exceedventures.github.io/onebook/covers/wealth_of_nations.cover.jpg", "id":"e02", "name":"wealth_of_nations"},
+        {"title":"부는어디서오는가", "thumb":"https://exceedventures.github.io/onebook/covers/getting_rich.cover.jpg", "id":"e03", "name":"getting_rich"},
+        {"title":"사회계약론", "thumb":"https://exceedventures.github.io/onebook/covers/social_contract.cover.jpg", "id":"e04", "name":"social_contract"},
+        {"title":"진보와빈곤", "thumb":"https://exceedventures.github.io/onebook/covers/progress_and_poverty.cover.jpg", "id":"e05", "name":"progress_and_poverty"}
     ]},
 
     {"category":"현대 소설", "value": [
