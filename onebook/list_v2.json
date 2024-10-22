@@ -45,6 +45,7 @@
         {"title":"신은진실을보지만", "thumb":"https://exceedventures.github.io/onebook/covers/god_truth.cover.jpg", "id":"t07", "name":"god_truth"}  
     ]},
     {"category":"어린이 동화", "value": [
+        {"title":"피터팬", "thumb":"https://exceedventures.github.io/onebook/covers/peter_pan.cover.jpg", "id":"ch001", "name":"peter_pan"},
         {"title":"백설공주", "thumb":"https://exceedventures.github.io/onebook/covers/snow_white.cover.jpg", "id":"ch01", "name":"snow_white"},
         {"title":"성냥팔이소녀", "thumb":"https://exceedventures.github.io/onebook/covers/match_girl.cover.jpg", "id":"ch08", "name":"match_girl"},
         {"title":"미녀와와수", "thumb":"https://exceedventures.github.io/onebook/covers/beauty_beast.cover.jpg", "id":"ch09", "name":"beauty_beast"},
