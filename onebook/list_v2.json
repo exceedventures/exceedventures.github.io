@@ -96,6 +96,10 @@
         {"title":"매직킹덤", "thumb":"https://exceedventures.github.io/onebook/covers/magic_kingdom.cover.jpg", "id":"hd003", "name":"magic_kingdom"}
     ]},
 
+    {"category":"영어로 읽는 한국고전", "value": [
+        {"title":"홍길동전", "thumb":"https://exceedventures.github.io/onebook/covers/gildong.cover.jpg", "id":"kor01", "name":"gildong"}
+    ]},
+
     {"category":"레전드 연설문", "value": [
         {"title":"빌게이츠연설문", "thumb":"https://exceedventures.github.io/onebook/covers/bill_gates.cover.jpg", "id":"s001", "name":"bill_gates"},
         {"title":"로저페더러축사", "thumb":"https://exceedventures.github.io/onebook/covers/roger.cover.jpg", "id":"s002", "name":"roger"},
