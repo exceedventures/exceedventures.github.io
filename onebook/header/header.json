@@ -7,5 +7,11 @@
     {"title":"국부론", "name":"wealth_of_nations", "id":"2410161020", "wording":"경제학의 아버지라 불리는 아담 스미스가 1776년에 발표한 경제학의 기념비적인 저서, 보이지 않는 손 이론 으로도 유명한 책", "color": "0xff20323e", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/header/imgs/wealth_of_nations.header.png",  "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/wealth_of_nations.cover.jpg"},
     {"title":"스티브잡스연설문", "name":"jobs", "id":"2410171757", "wording":"당신의 시간은 한정되어 있으니 다른 사람의 삶을 사느라 낭비하지 마세요. 'Stay hungry, stay foolish'", "color": "0xff7a7a7a", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/header/imgs/jobs.header.png",  "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/jobs.cover.jpg"},
     {"title":"부의황금률", "name":"art_of_money", "id":"2410172217", "wording":"P.T.바넘의 인생철학이 담긴책, 돈을 버는 것은 단순한 행운이 아니라 노력과 전략적인 사고, 그리고 성실한 태도가 필요함.", "color": "0xffA9A9A9", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/header/imgs/art_of_money.header.png",  "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/art_of_money.cover.jpg"},
-    {"title":"홍길동전", "name":"gildong", "id":"2410222217", "wording":"영어로 읽는 한국 고전 시리즈 1탄 홍길동전. 우리나라 최초로 한글로 쓴 소설로 현실의 부조리와 모순을 다룬 사회 소설.", "color": "0xff436475", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/header/imgs/gildong.header.png",  "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/gildong.cover.jpg"}  
+    {"title":"홍길동전", "name":"gildong", "id":"2410222217", "wording":"영어로 읽는 한국 고전 시리즈 1탄 홍길동전. 우리나라 최초로 한글로 쓴 소설로 현실의 부조리와 모순을 다룬 사회 소설.", "color": "0xff436475", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/header/imgs/gildong.header.png",  "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/gildong.cover.jpg"},
+    {"title":"군주론", "name":"the_prince", "id":"2410232223", "wording":"600년 전에 쓰여진 책으로 권력이란 어떤 것이며, 권력을 유지하기 위해 군주는 어떤 방법을 써야 하는가에 대해 설명 한다.", "color": "0xff683d3d", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/header/imgs/the_prince.header.png",  "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/the_prince.cover.jpg"}  
+
 ]
+
+
+
+
