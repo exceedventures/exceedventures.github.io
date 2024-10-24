@@ -106,7 +106,8 @@
 
     {"category":"심리학 원서", "value": [
         {"title":"꿈의해석", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/dreams.cover.jpg", "id":"psy01", "name":"dreams"},
-        {"title":"군중심리학", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/crowd.cover.jpg", "id":"psy02", "name":"crowd"}
+        {"title":"군중심리학", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/crowd.cover.jpg", "id":"psy02", "name":"crowd"},
+        {"title":"심리학의원칙", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/psychology.cover.jpg", "id":"psy03", "name":"psychology"}
         
     ]},
 
