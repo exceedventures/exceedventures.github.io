@@ -104,6 +104,11 @@
         {"title":"별주부전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/rabbit.cover.jpg", "id":"kor05", "name":"rabbit"}
     ]},
 
+    {"category":"심리학 원서", "value": [
+        {"title":"꿈의해석", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/dreams.cover.jpg", "id":"psy01", "name":"dreams"}
+        
+    ]},
+
     {"category":"레전드 연설문", "value": [
         {"title":"빌게이츠연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/bill_gates.cover.jpg", "id":"s001", "name":"bill_gates"},
         {"title":"로저페더러축사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/roger.cover.jpg", "id":"s002", "name":"roger"},
