@@ -108,7 +108,8 @@
         {"title":"꿈의해석", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/dreams.cover.jpg", "id":"psy01", "name":"dreams"},
         {"title":"군중심리학", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/crowd.cover.jpg", "id":"psy02", "name":"crowd"},
         {"title":"심리학의원칙", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/psychology.cover.jpg", "id":"psy03", "name":"psychology"},
-        {"title":"쾌락원리의저편", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/beyond.cover.jpg", "id":"psy04", "name":"beyond"}
+        {"title":"쾌락원리의저편", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/beyond.cover.jpg", "id":"psy04", "name":"beyond"},
+        {"title":"싸이코테라피", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/psychotherapy.cover.jpg", "id":"psy05", "name":"psychotherapy"}
         
     ]},
 
