@@ -1,4 +1,5 @@
 [
-    {"title":"미래식량", "id":"223031448252", "wording":"뭐? 내가 연지벌레를 먹고 있었다고?", "color":"0xff5737a0", "img":"https://exceedventures.github.io/mersbook/banner/img/food_banner.png" , "content":"https://exceedventures.github.io/mersbook/content/food.txt"},
-    {"title":"새넌의투자법", "id":"223569961732", "wording":"20세기 최고의 천재, 클로드 새넌의 투자법", "color":"0xff444444", "img":"https://exceedventures.github.io/mersbook/banner/img/shannon_banner.png" , "content":"https://exceedventures.github.io/mersbook/content/shannon.txt"}
+    {"title":"미래식량", "id":"223031448252", "wording":"뭐? 내가 연지벌레를 먹고 있었다고?", "color":"0xff5737a0", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/food_banner.png" , "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/food.txt"},
+    {"title":"코엔자임큐텐", "id":"222865287516", "wording":"1년에 영양제 에만 10억을 쓰는 사람이 있다?", "color":"0xff482e2e", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/coq10_banner.png" , "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/coq10.txt"},
+    {"title":"새넌의투자법", "id":"223569961732", "wording":"20세기 최고의 천재, 클로드 새넌의 투자법", "color":"0xff444444", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/shannon_banner.png" , "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shannon.txt"}
 ]
