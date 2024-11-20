@@ -16,18 +16,18 @@
 16. 3개월물 단기채권과 10년물을 비교하기도 하지만, 2년물과 10년물을 비교하는게 일반적임. ​
 17. 뭐든 직접 들어가서 확인하는 습관이 좋음. 
 18. 구글에 fred를 클릭하고, 첫 번째 링크로 들어감. 
-["https://exceedventures.github.io/mersbook/image/canary/canary18.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/canary/canary18.jpg",""]
 19. fred의 검색 화면에 "t10y2y"를 치면, 10년과 2년 채권의 금리 차이를 볼 수 있음. 
-["https://exceedventures.github.io/mersbook/image/canary/canary19.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/canary/canary19.jpg",""]
 20. 기간을 설정하면 다음 그래프가 뜰 것임. 
-["https://exceedventures.github.io/mersbook/image/canary/canary20.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/canary/canary20.jpg",""]
 21.  중간의 굵은 선이 장단기 금리 차이가 "0"가 되는 지점으로 밑으로 떨어지면 장단기 금리 역전이 되는 때임. 
 22. 붉은 네모 박스로 체크한 3번의 장단기 금리 역전 이후, 평균 15개월 뒤에 부동산 버블 붕괴, 닷컴 버블 붕괴, 금융위기가 왔었음. 
-["https://exceedventures.github.io/mersbook/image/canary/canary22.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/canary/canary22.jpg",""]
 23. 주식으로 따지면, 장단기 금리역전 뒤에 시차를 두고 나스닥 등 증시 폭락이 일어났다는 말이기도 함. 
 24. 장단기 금리 역전을 금융계에서는 탄광 속의 카나리아라고 부름. 
 25. 과거 탄광에서 일하던 광부들이 유해가스가 발생했을 때 위험을 감지하기 위해 카나리아를 곁에 두고 일했다고 함. 
-["https://exceedventures.github.io/mersbook/image/canary/canary25.jpg","Flickr"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/canary/canary25.jpg","Flickr"]
 26. 유해 가스에 민감한 카나리아가 이상 행동을 보이면 광부들은 위험을 감지하고 탄광에서 탈출하고는 함.
 27. 장단기 금리 역전 후 평균 15개월 뒤에 이벤트가 생겼으니, 그 정도 시간이면 포트폴리오를 조정하고 준비할 시간이 된다는 말임.
 28. 미국 국채 2년 물 금리가 10년 물 금리에 비해 57bp(1bp=0.01% 포인트)까지 차이가 나는 장단기 역전은 40년 만에 처음임.
@@ -36,7 +36,7 @@
 31. 이번에는 연착륙을 할 것이라, 이벤트 없이 장단기 역전이 해소될 것이라는 시각임. 
 32. 어쩌면, 과거보다 더 센 ㄴ이라, 더 천천히 오고 있을지도 모름. 
 33. 아래 그래프를 보듯이, 이번 장단기 역전은 과거보다 깊이가 깊고, 기간도 긴 초대형 장단기 역전임. 
-["https://exceedventures.github.io/mersbook/image/canary/canary33.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/canary/canary33.jpg",""]
 34. 장단기 역전은 시작할때가 아니라, 해소될 때부터 주의를 할 필요가 있음. 
 35. 경기침체등 문제는 장단기 역전이 진행된 기간동안 발생되지 않았고, 장단기 역전이 해소된 뒤 발생했기때문임.
 36. 위 그래프의 패턴를 잘 보면 이해가 갈 것임. 

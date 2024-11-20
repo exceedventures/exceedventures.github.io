@@ -1,6 +1,6 @@
 1. 디지털의 아버지라고 불리는 미국의 수학자 겸 컴퓨터 과학자가 있었음.
 2. 클로드 섀넌임. 
-["https://exceedventures.github.io/mersbook/image/shannon/shannon2.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/shannon/shannon2.jpg",""]
 - 클로드 새넌 (1916~2001)
 3. 섀넌은 21세이던 MIT 대학원 시절 '0'과 '1'의 2진법, 비트(bit)를 통해 정보를 전달하는 방법을 고안해서 석사논문으로 제출함.
 4. 비트(bit)라는 단어가 처음 사용된 이 논문은 컴퓨터 시대를 예고한 역사상 최고의 석사논문 중의 하나로 평가받게 됨.
@@ -9,11 +9,11 @@
 6. 섀넌은 영역을 넘나드는 아이디어로 알버트 아인슈타인, 존 폰 노이만과 함께 20세기 3대 천재라는 명성을 얻음.
 7. 섀넌은 2차대전이 끝난 뒤 벨 연구소에서 일했는데, 연구소 동료인 존 켈리, 에드워드 소프와 카지노에 대해서 재미 삼아 연구를 함.
 8. 그들은 자기들이 만든 공식을 가지고, 카지노의 룰렛과 블랙잭에서 돈을 벌어 나갔음. 
-["https://exceedventures.github.io/mersbook/image/shannon/shannon8.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/shannon/shannon8.jpg",""]
 - 에드워드 소프(1932~)
 9. 이들이 카지노를 휩쓸자, 카지노 업계는 이들을 블랙리스트에 등재해서  업장 출입을 평생 금지 시킴. 
 10. 이들은 연구결과를 미국 수학협회에 기고를 했고, 결국 카지노업계는 룰을 바꿀 수밖에 없었음. 
-["https://exceedventures.github.io/mersbook/image/shannon/shannon10.jpg","OGQ"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/shannon/shannon10.jpg","OGQ"]
 11. 섀넌은 카지노 출입이 금지되자 주식투자에 관심을 보이고 주식투자를 공부하기 시작함.
 12. 섀넌은 현금과 주식 비중을 얼마로 가져가야 최대의 수익을 거둘 수 있는지를 연구했고, 5 대 5가 최적이라는 결론을 내림. 
 13. 그는 현금과 주식 비중을 5 대 5로 유지하기 위해 매일 포트폴리오를 리밸런싱 하는 것을 최선의 포트폴리오 운용법이라고 밝힘. 
@@ -46,14 +46,14 @@
 40. 그는 이 3개의 주식을 25년간 장기보유했고, 배당 등을 제외하고도 단순하게 샀을 때와 팔았을 때 수익만을 연으로 환산하면 연평균 수익이 28%가 나옴.
 41. 새넌은 워런 버핏이 잘 쓰는 매수 후 보유(Buy and Hold) 전략으로 장기간 고수익을 실현한 것임. 
 42. 도박을 할 때 이길 확률과 상금 비율을 아는 경우 자신이 가진 돈에서 얼마를 도박에 걸어야 최적이 되는지도 공식화함.
-["https://exceedventures.github.io/mersbook/image/shannon/shannon42.jpg","OGQ"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/shannon/shannon42.jpg","OGQ"]
 43. "F=P-(1-P)/B"임. 
 44. F는 한 번의 도박에 걸어야 하는 자산의 비율이고, P는 이길 확률, B는 이길 때 받는 돈의 비율이 됨.
 45.  이길 확률이 40%이고, 이길 때 베팅한 돈의 2배를 받는 경우 한 번의 도박에 걸어야 하는 자산의 비율 F는 0.4-(1-0.4)/2 = 0.1이므로, 자기가 가진 돈의 10%를 이번 판에 걸어야 수익이 최대화된다는 것 됨.
 46. 이기면 1만 원을 벌고, 지면 5천 원을 잃는데, 승률은 60%가 되는 게임이라면, 이길 때 받는 돈의 비율인 B= 1만 원/5천 원 = 2 가 되니, F=(0.6-(1-0.6)/2=0.4로, 가진 돈의 40%를 베팅해야 최적이 되는 것임.
 47. 승률만 높으면 무조건 많은 돈을 지르는 게 유리하다고 생각하기 쉬운데, 승률이 100%가 아니라면 손실이 발생할 수 있고, 이런 손실을 최소화하며 이길 가능성을 높여 가는 공식인 것임.
 48. 섀넌이 아이디어를 내고, 존 켈리가 완성한 켈리 공식이 있음.
-["https://exceedventures.github.io/mersbook/image/shannon/shannon48.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/shannon/shannon48.jpg",""]
 - 존 켈리(1923~1965)
 49. 이 공식은 에드워드 소프에 의해 20년 동안 월스트리트 최고의 수익률을 기록한 실전 투자 공식이 됨.
 50. 기본 공식은 간단함. "Gmax = R"임. 

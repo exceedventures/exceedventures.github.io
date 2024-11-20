@@ -1,10 +1,10 @@
 1. 뇌는 두개골 안에서 뇌척수액에 둥둥 떠다니고 있는 기관임. 
-["https://exceedventures.github.io/mersbook/image/dementia/dementia1.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/dementia/dementia1.jpg","Unsplash"]
 2. 워낙 중요한 부위라 단단한 두개골로 보호하고 있음. 
 3. 권투의 어퍼컷같이 강한 충격이 두개골에 오면, 뇌척수액에 둥둥 떠다니던 뇌가 단단한 두개골과 충돌하게 됨. 
 4. 뇌진탕이라고 부름. 
 5. 권투에서 턱을 올려쳐서 KO로 만든다는 것은, 뇌를 두개골에 부딪치게 해서 뇌진탕으로 기절시키는 것임. 
-["https://exceedventures.github.io/mersbook/image/dementia/dementia5.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/dementia/dementia5.jpg","Unsplash"]
 6. 어퍼컷은 상당히 위험하고, 후유증이 많이 남는 행위로 권투선수들이 은퇴 후 여러 가지 후유증에 시달리는 원인이 됨 
 7. 뇌척수액이 40도 이상 온도가 올라가면 뇌가 익기 시작함.
 8. 고열이 무서운 이유임. 
@@ -30,7 +30,7 @@
 29. 2021년 6월 7일. 드디어 치매약 하나가 FDA의 승인을 받음. 
 30. 아두헬름(Aduhelm)임. 
 31. 아두헬름은 건강한 노인에게서 얻은 항체를 치매 환자에게 주입해 뇌에 쌓여있는 아밀로이드 제거를 치료 원리로 삼고 있음. 
-["https://exceedventures.github.io/mersbook/image/dementia/dementia31.jpg","Unknown"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/dementia/dementia31.jpg","Unknown"]
 32. 아두헬름은  FDA 승인이 났지만, 뇌부종 등 부작용이 심하고, 약효도 썩 좋지 않았음.  
 33. 약효도 별로인데 가격까지 너무 비쌌음. 
 34. 한 달에 한 번 정맥주사로 맞아야 하는데, 한번 맞는데 4,312불(6백만원)정도라 1년 약 값이 7천만원이 넘게 됨. 
@@ -66,10 +66,10 @@
 66. 도나네맙은 빨리 투여를 시작할 수록 효과가 더 좋았음.
 67. 가장 초기단계 치매환자는 인지 기능 저하가 60%까지 늦춰지고, 알츠하이머병이 다음 단계로 진행될 확률을 39% 낮취줌.
 68. 임상대상 환자중 47%는 도나네맵을 투여하는 1년동안 더 이상 치매가 악화되지 않아서, 투여하지 않은 사람대비 2배에 가까운 효과가 나온것임.
-["https://exceedventures.github.io/mersbook/image/dementia/dementia68.jpg","로이터"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/dementia/dementia68.jpg","로이터"]
 69. 일라이 릴리는 FDA에 도나네맙에 대한 승인을 신청함. 
 70. 레카네맙(레켐비)이 이미 FDA로부터 정식 승인을 받았지만, 효과가 뛰어난 도나네맙(키순라)으로 관심이 쏟아지고 있음. 
-["https://exceedventures.github.io/mersbook/image/dementia/dementia70.jpg","미국 일라이 릴리가 내놓은 '도나네맙(키순라·왼쪽)'과, 미국 바이오젠·일본 에자이가 내놓은 '레켐비(오른쪽)' "]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/dementia/dementia70.jpg","미국 일라이 릴리가 내놓은 '도나네맙(키순라·왼쪽)'과, 미국 바이오젠·일본 에자이가 내놓은 '레켐비(오른쪽)' "]
 71. 레카네맙과 도나네맙은 환자의 뇌 속에 축적되는 독성 단백질중 하나인 아밀로이드를 줄이는데 작용하는 것은 동일함.
 72. 차이점은 레카네맙은 아밀로이드가 뇌에서 섬유질을 형성하기 시작하는 단계를 표적으로 삼고, 도나네맙은 섬유질이 플라크 형태로 뭉쳐진 단계에서 약효가 발휘된다는 차이임. 
 73. 초기치매환자에게는 레카네맙이, 중증이상 치매환자에게는 도나네맙이 동시에 처방될 가능성도 있음.

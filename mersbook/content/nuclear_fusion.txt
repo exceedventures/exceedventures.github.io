@@ -1,5 +1,5 @@
 1. 2024년 3월 20일, 한국 연구진이 개발한 핵융합 연구장치인 KSTAR가 1억도 초고온의 플라스마를 48초간 유지하는데 성공함. 
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion1.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion1.jpg",""]
 2. 지금까지 세계 최고 기록은 30초로 이것도 KSTAR이 가지고 있는 기록임. 
 3. 1억 도를 300초까지 유지할 수 있게 되면 세상이 바뀌게 됨.
 4. 핵융합 발전소 건설이 가능한 기초가 마련되는 것임. 
@@ -18,7 +18,7 @@
 17. 향후 10년간 미국의 전기수요는 빠르게 늘어나게 됨.  
 18. 인플레이션 감축법(IRA)으로 미국내 전기를 많이 먹는 제조 시설들이 늘어나고 있으며, 전기차 보급도 빠르게 늘어나고 있음.
 19. 전기 수요 증가에  불을 붙인 것이 전기 먹는 하마인  AI임.
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion19.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion19.jpg","Unsplash"]
 20. 2026년이면, 데이터 센터의 전력 소비량이 1000TWh를 넘어서고, 데이터 센터 전력의 75% 이상을 AI가 쓸 것이라고 함. 
 21.  태양광이나 풍력 등 전통적인 친환경 발전은 날씨와 바람세기 등에 따라 전력이 들쑥날쑥해서, 이런 안정적 전기 수요를 충족하기 힘듦. 
 22. 원자력발전과 연결된 데이터센터가 선호되는 이유임.
@@ -27,37 +27,37 @@
 25. 샘 알트먼이 투자한 헬리온은 핵융합 발전을 5년 안에 상용화해서 이런 전력수요를 충족하겠다는 것이 목표임. 
 26. 핵융합은 중수소(2H)와 삼중수소(3H) 같은 가벼운 원소의 핵들이 결합해, 무거운 원자핵으로 변하면서 에너지를 내놓는 현상임. 
 27. 핵융합 원리는 아인슈타인의 특수상대성 이론에 의해 밝혀진 질량-에너지 등가 법칙(E=MC²)에서 나옴. 
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion27.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion27.jpg","Unsplash"]
 28. 한 개의 양성자와 한 개의 중성자를 가진 중수소와 한 개의 양성자와 두 개의 중성자를 가진 삼중수소가 충돌하면 헬륨 원자가 됨.
 29. 이때 만들어지는 헬륨 원자의 질량은 중수소와 삼중수소의 질량을 합친 것보다 약간 작기 때문에, 질량의 손실만큼 질량-에너지 등가 법칙에 의해 헬륨 원자와 함께 중성자가 나오는 원리가 핵융합임
 30. 핵융합에서 나오는 중성자가 핵융합로 벽을 때려서 열을 발생시키고, 그 열이 물을 끓여서 증기를 발생시키면 발전소가 돌아가기 시작함. 
 31. 태양이 바로 핵융합으로 돌아가는 발전소임. 
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion31.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion31.jpg","Unsplash"]
 32. 핵융합발전소도 태양의 핵융합 에너지 발전 방식을 지구에서 구현해서 전기를 만들어 보겠다는 것임. 
 33. 말은 쉽지만, 핵융합이 일어나려면 원자핵을 하나로 합쳐야 함. 
 34. 원자핵의 전기력(서로 밀어내는 힘)을 극복하고 핵력(서로 잡아당기는 힘)이 작용할 만큼 가깝게 접근시켜야 핵융합이 가능해서 엄청난 압력과 에너지가 필요함. 
 35 자석을 같은 극끼리 붙이려면 서로 밀어내는 성질 때문에 잘 붙지 않지만, 자석이 지닌 힘 이상으로 자석을 강하게 밀면 잠깐이지만 자석을 붙일 수 있음.
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion35.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion35.jpg","Unsplash"]
 36. 핵융합도 원자핵들이 가지고 있는 반발력 이상의 에너지를 가하면, 핵융합 반응이 일어날 수 있게 되는 것임. 
 37. 태양의 경우 중심부의 압력이 워낙 높아 1천만도 정도로 온도만 올려주면 핵융합이 일어남. 
 38. 지구는 태양의 중심부만큼 압력이 높은 곳이 없어서, 1억도 이상 온도를 올려줘야 핵융합이 시작되는 것임. 
 39. 중수소와 삼중수소를 1억도 이상으로 가열하면, 원자핵과 전자가 분리된 기체 상태가 되고, 이것을 플라스마라고 부름.
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion39.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion39.jpg","Unsplash"]
 40. 플라스마 상태가 되면, 두 원자핵이 융합되며 에너지가 나오기 시작함.  
 41. 문제는 1억도 이상으로 가열된 플라스마를 가둬놓고 견딜 수 있는 물질이 지구상에 없었음. 
 42. 1952년, 소련의 이로르탐과 안드레이 사하로프는 도넛 형상의 자기 코일 방에 플라스마를 가둬놓은 장치를 개발함. 
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion42.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion42.jpg","Unsplash"]
 43. 도넛형 용기라는 뜻인 토카막 방식으로, 내부에 강한 전류를 흘려 플라스마를 만들고, 플라스마는 거대한 코일의 자기장을 따라 도넛 안을 끊임없이 돌면서 핵융합반응을 일으키는 방식임. 
 44. 여기에서 초전도체가 필요해짐.
 45. 거대하고 강력한 자기장으로 플라스마를 가두기 위해, 강력한 코일의 자기장을 만들고 유지하려면 저항이 없는 초전도체가 필수적임.
 46. 현재까지 초전도체는 극저온이 필요해서, 추가적인 냉각 기술과 강력한 자기장을 유지하는 과정이 필요함.
 47. 상온의 초전도체가 나오면 이 부분이 해결되며, 핵융합 상용화에 많이 가까워지는 것임. 
 48. 플라스마는 일정 조건이 만족되면, 그때부터 외부에서 열을 가하지 않아도 태양처럼 스스로 핵융합을 유지하는 인공태양이 됨.
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion48.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion48.jpg","Unsplash"]
 49. 1951년, 프린스턴 물리 연구소의 라이언 스피처는 도넛 모양이 아니라 꽈배기 모양으로 배배 꼬인 플라스마 유지 장치 이론을 발표함.
 50. 꽈배기 방식은 도넛 방식의 토카막보다 오랜 시간 플라스마를 안정적으로 유지할 수 있지만, 꽈배기처럼 정교하게 휘어진 코일을 만들기 어렵고, 구조가 복잡해서 만드는 비용이 토카막보다 훨씬 많이 들게 됨. 
 51. 꽈배기 방식을 스텔라레이터 방식이라고 부름. 
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion51.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion51.jpg",""]
 52. 도넛(토카막)과 꽈배기(스텔라레이터)의 핵융합 시설 경쟁은 꽈배기가 우세했었음.
 53. 도넛이 꽈배기보다 구조가 단순해서 비용과 제작 시간이 적게 들지만, 전류를 정밀하게 유지하는 게 힘들다는 단점이 있었기 때문임.
 54. AI를 전자 제어에 사용하는 등 제어기술이 정교해지자, 토카막의 단점이 해결되며, 토카막의 가성비가 다시 관심을 받기 시작함.
@@ -65,10 +65,10 @@
 56. 토카막 방식으로 핵융합 상용화를 위해 미국, 중국, 러시아, EU, 한국, 일본, 인도 7개국의 300명의 과학자로 이루어진 연구팀과 5천 명의 기술팀이 국제 핵융합 실험로(ITER)를 프랑스 남부 카다라쉬에 만들고 있음. 
 57. 한국도 전체 건설 비용의 9% 정도를 부담하며 상당 수준 참여하고 있고, 현대중공업, 두산에너빌리티등이 7천억 이상의 수주를 하고 있음. 
 58. ITER은 기존 핵융합장치보다 10배 이상 큰  80m²에 달하는 초대형 장치임. 
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion58.jpg","ITER 국제본부 제공"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion58.jpg","ITER 국제본부 제공"]
 59. ITER는 핵융합이 안정적인 에너지원이 될 수 있음을 증명하는 마지막 단계로 일컬어짐.
 60. ITER이 성공하면 투입되는 에너지보다 나오는 에너지가 많아지는 손익분기점을 넘어설 수가 있어, ITER 다음은 상용화라는 말임. 
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion60.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion60.jpg",""]
 61. 올해 ITER의 첫 번째 플라스마 생성 일정이 나올 것으로 보이며, 2027~2028년 정도로 예상하고 있음. 
 62. ITER을 돌리기 위해 필요한 물질이 있음. 
 63. 삼중수소임. 
@@ -85,7 +85,7 @@
 74. 아직 삼중수소는 핵융합에 쓰이지 않지만, 야광 등에 일부 사용하고 있음. 
 75. 삼중수소를 인으로 둘러싸며 빛이 나는데, 삼중수소가 붕괴하면서 나오는 베타선이 형광 물질인 인에 충돌하며 빛이 나게 됨.
 76. 야광 시계에 2~3억 베크렐, 비상구 안내 등에 9,000억 베크렐의 삼중수소가 사용되고 있음. 
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion76.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion76.jpg","Unsplash"]
 77. 수십 년 된 시계의 야광판이 흐려지는 것도 삼중수소의 반감기가 12년 정도라서 그럼.  
 78.  워낙 미세한 분량이 사용되고 있어서, 야광용 삼중수소 소비량은 연간 400g 정도임. 
 79. 2024년 3월 14일 원자력안전위원회는 삼중수소 운반, 저장용기 확대를 승인함. 
@@ -110,7 +110,7 @@
 98. 달에 과거와 같이 자그마한 달 착륙선이 아니라, 50미터짜리 달 착륙선이 내리는 것임. 
 99. 핵융합은 최근 발전 속도가 예상보다 빨라지는 것 같음. 
 100. 삼중수소를 통한 핵융합 발전은 한계가 있어서, 달표면의 헬륨 3를 채굴하는 방식이 상용화의 대세가 될듯한 분위기임. 
-["https://exceedventures.github.io/mersbook/image/nuclear_fusion/nuclear_fusion100.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion100.jpg","Unsplash"]
 101. 다만, AI를 돌리기 위한 막대한 에너지를 핵융합으로 만들기에는 시간이 너무 촉박함. 
 102. 핵융합이 상용화되기 전에 현실적인 대안으로 SMR이 다시 부각되고 있음. 
 103. 빌 게이츠가 만든 테라파워는  첫 번째 SMR을  2030년 가동하기 위해 착공 인허가를 미국 당국에 신청했고, 올해 6월에 공사를 시작함.

@@ -3,11 +3,11 @@
 3. 2021년 5월까지는 건조비용에도 못 미치는 가격에  수주를 받았기 때문임. 
 4. 조선업은 인력이 많이 필요해서 고정비 비중이 높은 산업임.
 5. 수주를 받지 않아도, 수만명의 조선사 직영 근로자들 월급은 나가기때문에, 적자라고 하더라도 수주를 받아서 현장을 돌려야 함. 
-["https://exceedventures.github.io/mersbook/image/shipbuild/shipbuild5.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/shipbuild/shipbuild5.jpg","Unsplash"]
 6. 수주는 적자로 받았는데, 후판 가격은 올라감. 
 7. 후판의 '후'는 살이 찐 사람을 '후덕'하다'라고 부르듯이 두껍다는 말임. 
 8. 6mm 이상의 두꺼운 철판을 후판이라고 하고, 조선업에 주로 사용되고 있음. 
-["https://exceedventures.github.io/mersbook/image/shipbuild/shipbuild8.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/shipbuild/shipbuild8.jpg",""]
 9. 조선업에 후판 가격이 중요한 것은 건조비용의 15%정도를 차지하고 있고, 계약(수주) 시점과 건조 시점에 가격차가 커서 그럼. 
 10. 조선소에서 들어가는 대부분의 비용은 수주 시점에 정해지지만, 후판 가격은 건조과정에서 들어가고 있음.
 11. 괜찮은 가격에 수주를 받았어도, 설계를 끝내고 건조에 들어가는 2년 뒤 후판 가격이 오르면 적자가 나는 것임. 
@@ -31,7 +31,7 @@
 29. 2021년 6월, 한국 조선 3사의 배 1척당 수주금액을 100으로 보면, 한국이 주력으로 미는 LNG 운반선은 150까지 올라감. 
 30. 종업원 임금이 좀 올랐지만, 100원에 팔던 메뉴를 150원을 받아도 손님이 많고, 식재료 구입 가격까지 낮아졌다면 돈을 벌게 됨.
 ​31. 큰 배는 바로 만들지 못함. 
-["https://exceedventures.github.io/mersbook/image/shipbuild/shipbuild31.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/shipbuild/shipbuild31.jpg","Unsplash"]
 32. 수주를 받으면 선사의 요구를 반영한 설계를 하고, 독이 비는 일정에 건조를 해야 해서,  2년 이상이 보통 걸림. 
 33. 2021년 6월 이전에 수주를 받은 돈이 안되는 배들을 한국 조선사들은 아직 만들고 있다는 말임. 
 34. ​2023년 상반기를 보면, 적자선박의 건조 비중이 한화 오션 54%, 현대중공업 49%, 삼성중공업 37%가 나옴. 
@@ -63,7 +63,7 @@
 60. 조선사들이 버티지 못하고 폐업을 하면서 한중일의 999개 야드는 320개로 줄어듦. 
 61. 야드를 늘리다가, 수많은 조선사들이 망한 기억을 중국이 가지고 있어서, 아직은 중국의 야드 확대 속도가 느린것임. 
 62. 조선업은 달러로 수주를 받는 산업임.
-["https://exceedventures.github.io/mersbook/image/shipbuild/shipbuild62.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/shipbuild/shipbuild62.jpg","Unsplash"]
 63. 현재 조선사들은 2027년에 인도할 배들을 수주받고 있음.
 64. 건조단계에 따라서 분할해서 대금을 받다보니, 지금 수주를 받으면, 뱃값의 60%가 2027년에 들어온다는 말임.
 65. 수주는 달러로 받았는데, 2027년의 환율이 내리면 실컷 수주를 하고도 환율 때문에 손해를 보는 일이 조선사에 생기게 됨.
@@ -95,7 +95,7 @@
 92. 도크가 차있는 상태에서 수주를 계속 받을 수가 없으니, 신규 수주물량 자체는 작년이 피크라는 말임.
 93. 신규 수주가 줄어들고 시간이 흐르면, 선물환 매도를 하는 물량보다, 배의 인도가 완료되어 청산을 하는 물량이 많아지게 됨.
 94. 조선업에서 현물시장에 들어오는 달러가 줄어들고, 갈수록 달러가 빠져나가는 속도가 빨라진다는 말임.
-["https://exceedventures.github.io/mersbook/image/shipbuild/shipbuild94.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/shipbuild/shipbuild94.jpg","Unsplash"]
 95. 흔싸귀비, 뭐든 흔하면 싸지고 귀하면 비싸짐.
 96. 현물시장에 조선업 수주에서 들어오는 달러가 줄어들면, 달러가 귀해질 가능성이 높아지는 것임.
 97. 2023년에 환율을 안정시키는데 효자였던 한국 조선업이 더 이상 효자 노릇을 하기 힘든 상태가 되는 것임. 
@@ -104,7 +104,7 @@
 100. 2022년까지는 현대중공업 >한국 조선해양 > 현대미포 > 삼성중공업 > 대우조선해양 정도 순서로 답변을 해줬음. 
 101. 대우조선(한화 오션)을 가장 뒤에 뒀던 것은, 재무가 나빠 유상증자가 필요하고, 가장 늦게 흑자전환이 될 것이라고 봤기 때문임. 
 102. 삼성중공업은 팔리지 않은 드릴쉽들 이슈가 있기 때문이었음. 
-["https://exceedventures.github.io/mersbook/image/shipbuild/shipbuild102.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/shipbuild/shipbuild102.jpg","Unsplash"]
 103. 삼성중공업의 드릴쉽 이슈는 유가가 오르면서 모두 해결됨.
 104. 당시 글에서도 삼성중공업을 뒤에 놓고 있지만, 드릴 십이 팔린다면 삼성중공업이 1번이나 2번이 될 수도 있다고 이야기함. 
 105. 가장 흑자전환이 늦을것으로 봤던 한화 오션(대우조선해양)까지 올해 4월, 1분기 흑자전환 발표를 하게 됨. 

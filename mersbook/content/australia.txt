@@ -1,5 +1,5 @@
 1. 호주와 중국은 사이가 좋았음. 
-["https://exceedventures.github.io/mersbook/image/australia/australia1.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/australia/australia1.jpg","Unsplash"]
 2. 호주 자원의 최대 소비 국가가 중국이라, 호주는 중국을 VIP고객 대접을 해준 것임.
 3. 코로나가 터짐
 4. 호주는 중국에 바이러스 발생 과정에 대한 조사를 요청했고, VIP 고객으로 대접받던 중국이 발끈함.
@@ -10,13 +10,13 @@
 9. 호주산 보리에 81%, 와인에 200%이상 관세를 때리고, 석탄과 소고기, 목재수입을 중단했으며, 호주산 랍스터가 중금속에 오염되어 있다는 트집을 잡아 통관을 지연시킨후, 결국 수입을 중단시킴.
 10. 랍스터는 살아있는 생물임.
 11. 2일내 통관되어야 살아있는채 유통이 되는데, 중국은 중금속검사를 한다며, 전체 랍스터의 100%를 검사하겠다고 나온 것임. 
-["https://exceedventures.github.io/mersbook/image/australia/australia11.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/australia/australia11.jpg","Unsplash"]
 12. 중국 세관에서 죽어가는 수만톤의 랍스터가 호주국민들의 감정선을 건드림. 
 13. 호주정부가 그냥 물러서기 힘든 분위기가 만들어진것임.
 14. 코로나19의 원인 조사로 두 나라 싸움이 시작된 것처럼 보이지만 내막은 따로 있었음.
 15. 호주 다윈항이 발단이 됨.
 16. 다윈항은 호주 북부에 있는 항구로 중요한 전략적 위치에 있음.
-["https://exceedventures.github.io/mersbook/image/australia/australia16.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/australia/australia16.jpg",""]
 18. 미국입장에서도 2,500명의 해병대가 주둔하고 있는 미군 기지가 있어 태평양의 중요한 작전거점 중의 하나임
 19. 이런 다윈항을 랜드브리지라는 기업이 4억불을 내고 호주 지방정부로부터 99년간 임차를 한 것임.
 20. 랜드브리지는 중국 랑차오 그룹의 오너 예청이 소유한 기업으로 예청은 중국 군부출신 인물이었음. 
@@ -72,7 +72,7 @@
 73. 중국은 2000년대부터 아프리카 각국 장교들에게 전액 중국 비용 부담으로 교육을 시켜 줌. 
 74. 초급장교들은 사관학교에 입학시켜 교육을 시켜줬고, 중견간부들은 난징의 육군대학 등에 입학시켜 지휘, 참모 교육을 해주며 친중 인맥 구축에 노력함. 
 75. 기니 쿠데타를 성공시킨 둠부야 대령의 이력은 이런 아프리카 장교들과 달랐음. 
-["https://exceedventures.github.io/mersbook/image/australia/australia75.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/australia/australia75.jpg",""]
 76. 둠부야 대령은 프랑스 외인부대에서 15년간 복무한 뒤, 이스라엘 사관학교에서 작전전문가 훈련을 마친 후 기니에 새로 설립된 특수부대를 이끌기 위해 돌아온 인물이었음. 
 77. 중국과 연관이 없는 군인이 쿠데타로 집권을 한 것임.
 78. 쿠데타군들 속에 미육군 특수부대로 보이는 병력이 목격되면서, 친중 콩데 정권을 전복시키기 위한 미국 배후설까지 나돌게 됨.
@@ -92,7 +92,7 @@
 92. 중국이 호주산 수출품에 여러 규제를 했지만, 호주가 중국에 984억달러의 무역수지 흑자(2021년)를 거둔 이유임. 
 93. 호주는  중국이 규제한 석탄, 와인, 귀리, 랍스터에 대한 대응수단도 마련함. 
 94. 중국이 수입금지한 호주산 랍스터는 홍콩으로 감. 
-["https://exceedventures.github.io/mersbook/image/australia/australia94.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/australia/australia94.jpg","Unsplash"]
 95. 홍콩의 호주산 랍스터 수입량이 50배나 늘어난 것임.
 96. 홍콩 사람들이 랍스터를 50배 많이 먹는다는 게 아니라, 호주산 랍스터가 홍콩산으로 재포장되어 중국에 들어감. 
 97. 유통이 길어지고, 홍콩이라는 중간 판매상이 생기다 보니 중국 내 랍스터 가격만 오르게 됨. 
@@ -115,7 +115,7 @@
 114. 솔로몬 제도의 국가들이 미국과 영국 해군함정의 입항을 거부하고, 중국 화웨이의 이동통신망을  깔기 시작한 것임. 
 115. 신임 호주총리가 중국이 원하는 친중태도를 보이지 않고있지만, 중국은 호주의 석탄이 갈수록 더 필요해짐. 
 116. 중국은 호주로부터 석탄 수입(노란색)을 줄이고 인도네시아 석탄 수입(하늘색)을 늘려옴.
-["https://exceedventures.github.io/mersbook/image/australia/australia116.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/australia/australia116.jpg",""]
 117. 우크라이나 전쟁으로 변수가 생김.  
 118. 유럽 국가들이 러시아산 석탄 구매를 보이콧한 후, 부족한 석탄을 인도네시아에서 수입하기로 한 것임. 
 119. 인도네시아산 석탄에 경쟁이 붙자, 중국은 호주산 석탄의 수입 재개를 호주에 타진할 수 밖에 없었음.  
@@ -129,9 +129,9 @@
 127. 기니의 철광석은 빨라야 2025년에 공급이 가능하니, 그때까지 호주산 공급을 줄일수 없는 상황임. 
 128. 중국은 상황이 이렇게 꼬인 부분에 대한 화풀이를 자국 외교라인에게 하고 있음. 
 129. 왕이가 주도하는 전랑 외교는 wolf warrior diplomacy, 늑대 외교, 늑대 전사 외교 등으로 불리는 공격적인 외교 스타일임.
-["https://exceedventures.github.io/mersbook/image/australia/australia129.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/australia/australia129.jpg","Unsplash"]
 130. 중국에서 자체 제작한 람보 스타일의 액션 영화 "특수부대 전랑 2"가 중국 내 인기리에 상영됨.
-["https://exceedventures.github.io/mersbook/image/australia/australia130.jpg",""]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/australia/australia130.jpg",""]
 131. 특수부대 전랑 2의 슬로건은 "중국을 모욕하는 자는 멀리 떨어진 곳에 있어도 반드시 응징한다( 犯我中华者，虽远必诛)였음.
 132. 중국을 비난하거나, 손해를 입히면, 강력하게 보복 및 응징하는 대응을 의미함.
 133. 중국 공산당은 중국 외교부의 직원 성과 보고서에 홍보란을 추가하면서, 공식적으로 전랑 외교를 부추김. 
@@ -149,7 +149,7 @@
 145. 친강이 갑자기 외교무대에서 사라진 후, 7개월 만에 외교부장에 실각하는 일이 벌어짐. 
 왕이 중국 외교부장. 연합뉴스
 146. 친강이 물러난 자리는 승진한 왕이가 외교부장으로 복귀함. 
-["https://exceedventures.github.io/mersbook/image/australia/australia146.jpg","연합뉴스"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/australia/australia146.jpg","연합뉴스"]
 147. 왕이 입장에서는 직급이 낮아진 것임.  
 148. 브릭스 정상 회의에서 인도의 반대로 위안화를 공통통화로 쓰는 문제가 통과되지않자, 복귀한 시진핑은 두 가지 지시를 함. 
 149. “앞으로 중국이 주도할 수 없는 외교활동에는 방문하지 않는다"와 "지도자로서 위상을 과시할 수 없는 외교활동에도 직접 나서지 않는다"가 두가지 지시임.
@@ -160,7 +160,7 @@
 154. 전랑 외교를 10년 이상 했는데, 세계는 점점 더 중국에 적대적이 되고, 시진핑의 위상도 전혀 올라가지 않는 것에 대해, 왕이가 자기를 속이는 것이 아닌가 하는 생각을 시진핑이 하고 있다는 이야기가 들리고 있음.
 155. 왕이가 외교부장에 복귀했지만, 실권이 없어보이니, 전랑 외교 스타일이 바뀌는게 아닐까 하는 전망이 나오고 있는 이유임.
 156. 친강의 실각은 홍콩 아나운서 푸사오텐과의 불륜 관계가 문제가 되었다는 설이 기사화 되고 있음. 
-["https://exceedventures.github.io/mersbook/image/australia/australia156.jpg","푸샤오텐(홍콩의 한 방송사 아나운서) SNS 캡처"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/australia/australia156.jpg","푸샤오텐(홍콩의 한 방송사 아나운서) SNS 캡처"]
 157. 중국을 아는 사람들은 불륜은 고위층들이 다들 하는 것인데, 불륜으로 친강을 낙마시키는 것은 중국스타일이 아니라고 봄. 
 158. 두가지 문제가 복합된 것이 친강 실각사유로 보고 있음. 
 159. 첫번째 이유는 푸샤오텐이  2022년 11월 출산을 했는데, 아이를 출산한 곳이 미국이었음.
@@ -169,7 +169,7 @@
 162. 단순한 불륜의 문제가 아니라, 고위관료의 혼외자가 미국 시민권자가 되는 것이라, 이것은 다른 이야기가 됨. 
 163. 두번째 이유는 전랑외교의 기획자인 왕이와 실행자인 친강이 시진핑의 신뢰를 잃은 것일수 있음. 
 164. 한국 총리가 시진핑을 면담했을 때, 가운데 놓은 꽃을 유심히 본 적이 있음.
-["https://exceedventures.github.io/mersbook/image/australia/australia164.jpg","연합뉴스"] 
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/australia/australia164.jpg","연합뉴스"] 
 165. 자리의 배치, 장식물의 종류 등에 의미를 부여하는 중국외교의 성향상 어떤 장식을 놓을지가 궁금했던 것임.
 166. 회의석의 가운데 놓은 꽃은 연꽃이었음.
 167. 연꽃은 한자 ‘하’(荷)가 ‘화’(和)·‘합’(合)과 중국어 발음 ‘허’로 모두 같다는 점에서 ‘우의’와 ‘협력’을 원한다는 메시지임.
@@ -177,7 +177,7 @@
 170. 석탄은 작년초에 이미 풀렸고, 와인은 올해 3월, 소고기는 5월에 풀려서 랍스타만 남아있음. 
 171. 2024년 6월 16일, 중국 리창총리가 호주를 방문함. 
 172. 이번 방문후 랍스타 수입금지를 해제하고, 호주에 판다 한쌍을 제공한다고 함. 
-["https://exceedventures.github.io/mersbook/image/australia/172.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/australia/172.jpg","Unsplash"]
 173. 중국이 비긴걸로 하자며, 호주에 완전한 관계정상화를 요청하는 상황임. 
 174. 세계 각국이 보유하고 있는 외환보유고내 달러 비중은 2000년 75%에서 2023년말 58%까지 떨어짐.
 175.달러 비중은 줄어드는데 유로,엔,파운드 비중은  큰 차이가 없고, 빠르게 비중을 늘리고 있는 제3의 통화들이 있음.

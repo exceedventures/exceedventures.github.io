@@ -1,5 +1,5 @@
 1. 레이 커즈와일이라는 미래학자가 있음.
-["https://exceedventures.github.io/mersbook/image/coq10/coq101.jpg","Unknown"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/coq10/coq101.jpg","Unknown"]
 2. "특이점이 온다"라는 책이 세계적인 베스트셀러가 되면서 명성을 얻었고, 구글에서 딥러닝을 연구하고 있는 사람임.
 3. 그는 2045년에 특이점이 와서 그때부터 사람들이 영생을 하게 된다는 주장을 하고 있음.
 4. 저자 본인도  97세가 되는 2045년이 될 때까지 죽지 않으려고 완벽에 가까운 식단 조절에 운동, 비싸고 좋은 식재료에 돈을 아끼지 않고,  하루 250알의 영양제를 먹어대고 있음. 

@@ -1,5 +1,5 @@
 1. 건강하게 오래 살기 위해서는 정기적으로 건강검진을 받는게 필요함. 
-["https://exceedventures.github.io/mersbook/image/health_check/health_check1.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/health_check/health_check1.jpg","Unsplash"]
 2. 병을 일찍 발견해서 치료해야, 치료 결과도 좋고 합병증도 막을 수 있기 때문임. 
 3. 아무리 좋은 병원에서 말기 암 치료를  받아도, 초기에 암을 발견해서 적당한 대형병원에서 치료를 받는 것만 못하기 때문임. 
 4. WHO(세계보건기구)는 건강검진이 건강하게 오래 사는 데 도움이 되려면 다음 조건을 만족해야 한다고 말하고 있음. 
@@ -12,13 +12,13 @@
 11. 건강보험 가입자들의 건강 유지, 증진을 목적으로 하지만, 국가건강검진의 실제 목표는 보험급여의 지출을 줄이는 것임. 
 12. 병이 늦게 발견되면, 병을 치료하는 과정에서 건강보험 재정에 부담이 가는  큰 지출이 발생하기 때문임.
 13. 취지는 대부분 국가가 비슷하지만, 국가별 건강검진 항목에는 차이가 있음. 
-["https://exceedventures.github.io/mersbook/image/health_check/health_check13.jpg","2021년 보건행정학회지"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/health_check/health_check13.jpg","2021년 보건행정학회지"]
 14. X-ray 촬영을 하는 나라는 한국이 유일하고, 미국은 다른나라보다 인지장애 검사가 추가됨. 
 15. 한국만 촬영을 하고 있는 흉부 방사선검사(X-ray)를 다른 나라들이 하지 않는 이유가 있음. 
 16. 2020년 건강검진에서 흉부 방사선 촬영을 받은 사람은 1,445만 명임.
 17. 1,445만 명 중 폐결핵으로 확진된 사람은 200명에 불과하니, 1명의 결핵환자를 발견하기 위해 99,998명이 검사를 받아야 함. 
 18. 일반 건강검진에서 가장 많은 비용을 차지하는 게  X-ray 검사임. 
-["https://exceedventures.github.io/mersbook/image/health_check/health_check18.jpg","Unsplash"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/health_check/health_check18.jpg","Unsplash"]
 19. X-ray 검사(흉부 방사선 촬영)는 방사선 피폭으로 혈액 암 발생 위험을 약간이지만 증가 시킴.
 20. 200명의 결핵환자를 발견했지만, 1,445만명은 쓸데없는 방사선 피폭을 당한 셈이라, 종합적인 가성비를 감안해서  X-ray 검사를 하지 않는 나라가 많은것임.  
 21. X-ray 검사를 빼면, 일반 건강검진의 비용을 30% 가까이 절감할 수 있지만, 그만큼 검진기관의 수입도 줄어들게 됨. 
@@ -56,7 +56,7 @@
 49. 환자가 느끼는 증상이 없지만, 질환이 발생했고,  악화가 되기 전에 발견하는 것이 검진의 효과가 극대화되는 상황인 것임.
 50. 반대로, 진단을 했지만 치료법이 없는 경우는 의미가 없음.  
 51. 이런 부분들을 종합해서 건강검진을 위한 의학한림원의 권고문이 나오게 됨. 
-["https://exceedventures.github.io/mersbook/image/health_check/health_check51.jpg","의학한림원, 2022 슬기로운 건강검진 권고안"]
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/health_check/health_check51.jpg","의학한림원, 2022 슬기로운 건강검진 권고안"]
 52. 이런 국가 건강검진이 아니라 개인이나 회사가 비용을 내고 건강검진을 하는 경우도 많음.
 53. 건강검진에서 몇 가지 주의사항이 있음. 
 54. 11월과 12월은 피하는 것이 좋음. 
