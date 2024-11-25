@@ -26,7 +26,8 @@
         {"title":"장단기금리역전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/canary.jpg", "id":"223576361606", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/canary.txt"}
     ]}, 
     {"category":"부동산", "value": [
-        {"title":"부동산의기초", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/realty.jpg", "id":"222956559031", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/realty.txt"}
+        {"title":"부동산의기초", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/realty.jpg", "id":"222956559031", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/realty.txt"},
+        {"title":"전세이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/rent.jpg", "id":"223567996319", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/rent2.txt"}
         
     ]} 
    
