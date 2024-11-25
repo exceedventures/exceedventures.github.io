@@ -11,16 +11,23 @@
         {"title":"중동전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/middle_war.jpg", "id":"223532658365", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/middle_war.txt"},
         {"title":"게임이론", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/game.txt"}
     ]},
+    {"category":"한국 현대사", "value": [
+        {"title":"산림녹화", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/forest.jpg", "id":"222802968482", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/forest.txt"},
+        {"title":"토지개혁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/land.jpg", "id":"223355519886", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/land.txt"},
+        {"title":"파독간호사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/germany.jpg", "id":"223670555302", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/germany.txt"},
+        {"title":"공순이", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/factorygirl.jpg", "id":"223170727296", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/factorygirl.txt"},
+        {"title":"식모,차장", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/sikmo.jpg", "id":"223609695564", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/sikmo.txt"}
+       
+    ]},   
     {"category":"주식/투자", "value": [
         {"title":"새넌의투자법", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/shannon.jpg", "id":"223569961732", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shannon.txt"}, 
         {"title":"조선업근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/shipbuild.jpg", "id":"223516127630", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shipbuild.txt"}, 
         {"title":"초단타거래", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hft.txt"},  
         {"title":"장단기금리역전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/canary.jpg", "id":"223576361606", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/canary.txt"}
-    ]},
-    {"category":"한국현대사", "value": [
-        {"title":"파독간호사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/germany.jpg", "id":"223670555302", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/germany.txt"},
-        {"title":"공순이", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/factorygirl.jpg", "id":"223170727296", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/factorygirl.txt"},
-        {"title":"식모,차장", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/sikmo.jpg", "id":"223609695564", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/sikmo.txt"}
-       
-    ]}   
+    ]}, 
+    {"category":"부동산", "value": [
+        {"title":"부동산의기초", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/realty.jpg", "id":"222956559031", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/realty.txt"}
+        
+    ]} 
+   
 ]
