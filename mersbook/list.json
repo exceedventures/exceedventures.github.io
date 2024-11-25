@@ -19,7 +19,8 @@
     ]},
     {"category":"한국현대사", "value": [
         {"title":"파독간호사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/germany.jpg", "id":"223670555302", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/germany.txt"},
-        {"title":"공순이", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/factorygirl.jpg", "id":"223170727296", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/factorygirl.txt"}
+        {"title":"공순이", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/factorygirl.jpg", "id":"223170727296", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/factorygirl.txt"},
+        {"title":"식모,차장", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/sikmo.jpg", "id":"223609695564", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/sikmo.txt"}
        
     ]}   
 ]
