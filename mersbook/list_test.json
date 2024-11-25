@@ -24,6 +24,10 @@
         {"title":"조선업근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/shipbuild.jpg", "id":"223516127630", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shipbuild.txt"}, 
         {"title":"초단타거래", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hft.txt"},  
         {"title":"장단기금리역전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/canary.jpg", "id":"223576361606", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/canary.txt"}
-    ]}
+    ]}, 
+    {"category":"부동산", "value": [
+        {"title":"부동산의기초", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/realty.jpg", "id":"222956559031", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/realty.txt"}
+        
+    ]} 
    
 ]
