@@ -1,26 +1,24 @@
 [
-    {"category":"의학/건강", "value": [
-        {"title":"고혈압", "thumb":"https://exceedventures.github.io/mersbook/cover/blood_pressure.jpg", "id":"223495430378", "content":"https://exceedventures.github.io/mersbook/content/blood_pressure.txt"},
-        {"title":"건강검진", "thumb":"https://exceedventures.github.io/mersbook/cover/health_check.jpg", "id":"223320119106", "content":"https://exceedventures.github.io/mersbook/content/health_check1.txt"},
-        {"title":"치매치료제", "thumb":"https://exceedventures.github.io/mersbook/cover/dementia.jpg", "id":"223500419034", "content":"https://exceedventures.github.io/mersbook/content/dementia.txt"},
-        {"title":"코엔자임큐텐", "thumb":"https://exceedventures.github.io/mersbook/cover/coq10.jpg", "id":"222865287516", "content":"https://exceedventures.github.io/mersbook/content/coq10.txt"}
-    ]},
     {"category":"자연/과학", "value": [
-        {"title":"미래식량", "thumb":"https://exceedventures.github.io/mersbook/cover/food.jpg", "id":"223031448252", "content":"https://exceedventures.github.io/mersbook/content/food.txt"} , 
-        {"title":"인공태양", "thumb":"https://exceedventures.github.io/mersbook/cover/nuclear_fusion.jpg", "id":"223390296850", "content":"https://exceedventures.github.io/mersbook/content/nuclear_fusion.txt"},
-        {"title":"엘리뇨현상", "thumb":"https://exceedventures.github.io/mersbook/cover/elnino.jpg", "id":"223590346587", "content":"https://exceedventures.github.io/mersbook/content/elnino.txt"},
-        {"title":"3차전지", "thumb":"https://exceedventures.github.io/mersbook/cover/fuel_cell.jpg", "id":"223503267808", "content":"https://exceedventures.github.io/mersbook/content/fuel_cell.txt"}  
+        {"title":"미래식량", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/food.jpg", "id":"223031448252", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/food.txt"} , 
+        {"title":"인공태양", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/nuclear_fusion.jpg", "id":"223390296850", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/nuclear_fusion.txt"},
+        {"title":"엘리뇨현상", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/elnino.jpg", "id":"223590346587", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/elnino.txt"},
+        {"title":"3차전지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/fuel_cell.jpg", "id":"223503267808", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/fuel_cell.txt"}  
     ]},
     {"category":"정치/외교", "value": [
-        {"title":"중국이야기", "thumb":"https://exceedventures.github.io/mersbook/cover/china.jpg", "id":"223578603657", "content":"https://exceedventures.github.io/mersbook/content/china.txt"},
-        {"title":"호주무역전쟁", "thumb":"https://exceedventures.github.io/mersbook/cover/australia.jpg", "id":"223482242335", "content":"https://exceedventures.github.io/mersbook/content/australia.txt"},
-        {"title":"중동전쟁", "thumb":"https://exceedventures.github.io/mersbook/cover/middle_war.jpg", "id":"223532658365", "content":"https://exceedventures.github.io/mersbook/content/middle_war.txt"},
-        {"title":"게임이론", "thumb":"https://exceedventures.github.io/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://exceedventures.github.io/mersbook/content/game.txt"}
+        {"title":"중국이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/china.jpg", "id":"223578603657", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/china.txt"},
+        {"title":"호주무역전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/australia.jpg", "id":"223482242335", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/australia.txt"},
+        {"title":"중동전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/middle_war.jpg", "id":"223532658365", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/middle_war.txt"},
+        {"title":"게임이론", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/game.txt"}
     ]},
     {"category":"주식/투자", "value": [
-        {"title":"새넌의투자법", "thumb":"https://exceedventures.github.io/mersbook/cover/shannon.jpg", "id":"223569961732", "content":"https://exceedventures.github.io/mersbook/content/shannon.txt"}, 
-        {"title":"조선업근황", "thumb":"https://exceedventures.github.io/mersbook/cover/shipbuild.jpg", "id":"223516127630", "content":"https://exceedventures.github.io/mersbook/content/shipbuild.txt"}, 
-        {"title":"초단타거래", "thumb":"https://exceedventures.github.io/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://exceedventures.github.io/mersbook/content/hft.txt"},  
-        {"title":"장단기금리역전", "thumb":"https://exceedventures.github.io/mersbook/cover/canary.jpg", "id":"223576361606", "content":"https://exceedventures.github.io/mersbook/content/canary.txt"}
-    ]}
+        {"title":"새넌의투자법", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/shannon.jpg", "id":"223569961732", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shannon.txt"}, 
+        {"title":"조선업근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/shipbuild.jpg", "id":"223516127630", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shipbuild.txt"}, 
+        {"title":"초단타거래", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hft.txt"},  
+        {"title":"장단기금리역전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/canary.jpg", "id":"223576361606", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/canary.txt"}
+    ]},
+    {"category":"한국현대사", "value": [
+        {"title":"파독간호사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/germany.jpg", "id":"223670555302", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/germany.txt"} 
+       
+    ]}   
 ]
