@@ -49,7 +49,7 @@
 40. 우물을 파서 물을 확보하기 위해, 108미터까지 시추공을 넣었음. 
 41. 잠시 쉬는 시간에 시추공을 파던 인부가 시추공 옆에서 담배를 피우기 위해 불을 켬. 
 42. 담뱃불을 붙이려던 인부가 시추공에서 나오는 가스에 불타 중상을 입는 일이 생기게 됨. 
-["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/hydrogen/hydrogen35.jpg","pxhere.com"] 
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/hydrogen/hydrogen42.jpg","pxhere.com"] 
 43. 가스폭발의 위험도 있어서, 시추공은 매립되고 우물 탐사는 다른 곳에서 진행이 됨.
 44. 20년이 지난 2007년 석유회사 페트로마의 회장 알리오우 디알로가 이 소문을 듣게 됨. 
 45. 그는 이곳에 뭔가 있다고 생각해 주변 땅을 사들였고, 2012년에 캐나다 석유회사 채프먼페트롤리움에 조사를 의뢰함. 
@@ -62,7 +62,7 @@
 52. 매장량 자체가 많지 않았고, 해당지역의 땅속 환경이 특이해서 수소가 남아 있었다는 정도로 평가되고 잊혀져 갔었음.
 53. 2023년 5월, 프랑스 북동부 로렌 지역에서 수소가 다시 발견됨.
 54. 토양내 메탄가스를 조사하기 위해 석탄층을 시추공으로 파내려 갔는데, 1,250미터 지하에서 순도 20%의 수소가 발견된 것임.
-["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/hydrogen/hydrogen35.jpg","CoolPubilcDomains, OGQ"] 
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/hydrogen/hydrogen54.jpg","CoolPubilcDomains, OGQ"] 
 55. 지하로 파내려 가면 갈수록 순도가 계속 높아져서, 3천미터를 파면 90% 순도의 수소가 나올것으로 보고있음.
 56. 로렌 지역에 4,600만톤의 수소가 매장되어 있는 것으로 추정되고, 최대 1억5천만톤까지 확대될수 있다는 발표가 나오게 됨. 
 57. 이때부터, 꿈의 수소라는 화이트수소가 현실화 되는게 아닌가 하는 관심이 쏟아지고 기사들이 나오기 시작함.  
