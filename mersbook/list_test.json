@@ -33,8 +33,8 @@
         {"title":"아파트이야기1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/apart.jpg", "id":"223605189641", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/apart.txt"},
         {"title":"아파트이야기2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/apart_b.jpg", "id":"223605233270", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/apart_b2.txt"},
         {"title":"아파트이야기3", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/apart_c.jpg", "id":"223605670760", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/apart_c.txt"},
-        {"title":"아파트이야기4", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/apart_d.jpg", "id":"223607414655", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/apart_d.txt"}
-        
+        {"title":"아파트이야기4", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/apart_d.jpg", "id":"223607414655", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/apart_d.txt"},
+        {"title":"아파트외전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/brand_apart.jpg", "id":"223606243928", "content":"ttps://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/brand_apart.txt"}
     ]} 
    
 ]
