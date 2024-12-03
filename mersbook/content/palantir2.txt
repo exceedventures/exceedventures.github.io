@@ -16,7 +16,8 @@
 14. 팔란티어는 설립 초기 인큐텔에서 200만 달러 투자를 유치함. 
 15. 개발방향을  범죄행위나 사이버테러 징후, 자금 세탁, 밀수 등을 감지하는 공동 데이터 솔루션으로 잡고 성장해 옴. 
 16. 설립초기 팔란티어에 투자한 인큐텔(In-Q-TEL)이 CIA가 만든 벤처캐피털인 이유임. 
-17. 팔란티어는 2011년에 미국 마약단속국(DEA) 자료를 분석해 마약조직의 핵심 인물과 거주지, 활동 반경 등을 정확하게 밝혀냄. ["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/palantir/palantir17.jpg",""]
+17. 팔란티어는 2011년에 미국 마약단속국(DEA) 자료를 분석해 마약조직의 핵심 인물과 거주지, 활동 반경 등을 정확하게 밝혀냄.
+["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/palantir/palantir17.jpg",""]
 18. 911테러를 일으킨 빈 라덴의 은신처 정보를 찾는데도 팔란티어의 분석기술이 적용되었음. 
 19. 팔란티어가 가진 주요 기술 중 하나가 온톨로지(ontology)임. 
 20.온톨로지는 추상적 개념을 컴퓨터가 이해하는 형태로 바뀌주는 모델임. 
