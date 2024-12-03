@@ -30,15 +30,6 @@
         {"title":"아파트이야기4", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/apart_d.jpg", "id":"223607414655", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/apart_d.txt"},
         {"title":"아파트외전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/brand_apart.jpg", "id":"223606243928", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/brand_apart.txt"}
     ]},
-    {"category":"주식/투자/기업", "value": [
-        {"title":"팔란티어", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/palantir.jpg", "id":"223680068815", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/palantir.txt"}, 
-        {"title":"롯데의비밀", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/lotte_cover.jpg", "id":"223317794428", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/lotte.txt"}, 
-        {"title":"새넌의투자법", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/shannon.jpg", "id":"223569961732", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shannon.txt"}, 
-        {"title":"조선업근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/shipbuild.jpg", "id":"223516127630", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shipbuild.txt"}, 
-        {"title":"초단타거래", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hft.txt"},  
-        {"title":"장단기금리역전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/canary.jpg", "id":"223576361606", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/canary.txt"}
-    ]}, 
-
     {"category":"한국 현대사", "value": [
         {"title":"산림녹화", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/forest.jpg", "id":"222802968482", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/forest.txt"},
         {"title":"토지개혁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/land.jpg", "id":"223355519886", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/land.txt"},
