@@ -1,3 +1,4 @@
+게시일시: 2024.3.22
 1. 2024년 3월 20일, 한국 연구진이 개발한 핵융합 연구장치인 KSTAR가 1억도 초고온의 플라스마를 48초간 유지하는데 성공함. 
 ["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/nuclear_fusion/nuclear_fusion1.jpg",""]
 2. 지금까지 세계 최고 기록은 30초로 이것도 KSTAR이 가지고 있는 기록임. 

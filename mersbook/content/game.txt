@@ -1,4 +1,5 @@
- 1. 1944년 폰 노이만과 모르겐슈테른은 게임 이론과 경제적 행동(Theory of Games and Economic Behavior)이라는 책을 저술했다.
+게시일시: 2024.7.5
+1. 1944년 폰 노이만과 모르겐슈테른은 게임 이론과 경제적 행동(Theory of Games and Economic Behavior)이라는 책을 저술했다.
 2. 사람은 이기적이고, 손해와 이익에 따라서 움직인다는 게임이론의 이론적 기초가 된 책이다.​
 ["https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/image/game/game2.jpg","Unsplash"]
 3. 게임이론은 군사학에서 시작했지만,  가치가 인정되며, 정치, 경제, 경영 등으로 적용 범위가 넓어지게 된다.
