@@ -6,7 +6,8 @@
         {"title":"3차전지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/fuel_cell.jpg", "id":"223503267808", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/fuel_cell.txt"},
         {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hydrogen.jpg", "id":"223630421697", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hydrogen2.txt"}    
     ]},
-    {"category":"정치/외교", "value": [
+    {"category":"정치/외교/분쟁", "value": [
+        {"title":"희토류전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/rare_earth.jpg", "id":"223634392464", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/rare_earth.txt"},
         {"title":"시리아정권교체", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/siria.jpg", "id":"223687176019", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/siria.txt"},
         {"title":"중국이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/china.jpg", "id":"223578603657", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/china.txt"},
         {"title":"호주무역전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/australia.jpg", "id":"223482242335", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/australia.txt"},
