@@ -7,6 +7,7 @@
         {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hydrogen.jpg", "id":"223630421697", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hydrogen2.txt"}    
     ]},
     {"category":"정치/외교", "value": [
+        {"title":"시리아정권교체", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/siroa.jpg", "id":"223687176019", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/siria.txt"},
         {"title":"중국이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/china.jpg", "id":"223578603657", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/china.txt"},
         {"title":"호주무역전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/australia.jpg", "id":"223482242335", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/australia.txt"},
         {"title":"중동전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/middle_war.jpg", "id":"223532658365", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/middle_war.txt"},
