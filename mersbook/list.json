@@ -35,6 +35,7 @@
        
     ]},
     {"category":"부동산", "value": [
+        {"title":"생활형숙박시설", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/regidence.jpg", "id":"223353712000", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/regidence.txt"},
         {"title":"부동산의기초", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/realty.jpg", "id":"222956559031", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/realty.txt"},
         {"title":"전세이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/rent.jpg", "id":"223567996319", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/rent2.txt"},
         {"title":"전세금보호", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/rent_se.jpg", "id":"223039801465", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/rent_se3.txt"},
