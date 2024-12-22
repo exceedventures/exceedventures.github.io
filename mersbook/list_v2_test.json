@@ -1,0 +1,49 @@
+[
+    {"category":"자연/과학", "value": [
+        {"title":"미래식량", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/food.jpg", "id":"223031448252"} , 
+        {"title":"인공태양", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/nuclear_fusion.jpg", "id":"223390296850"},
+        {"title":"엘리뇨현상", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/elnino.jpg", "id":"223590346587"},
+        {"title":"3차전지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/fuel_cell.jpg", "id":"223503267808"},
+        {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hydrogen.jpg", "id":"223630421697", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hydrogen2.txt"}    
+    ]},
+    {"category":"정치/외교/분쟁", "value": [
+        {"title":"희토류전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/rare_earth.jpg", "id":"223634392464", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/rare_earth2.txt"},
+        {"title":"시리아정권교체", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/siria.jpg", "id":"223687176019", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/siria.txt"},
+        {"title":"7광구이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/block7_mining.jpg", "id":"223597784869", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/block7_mining.txt"},
+        {"title":"중국이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/china.jpg", "id":"223578603657", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/china.txt"},
+        {"title":"호주무역전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/australia.jpg", "id":"223482242335", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/australia.txt"},
+        {"title":"중동전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/middle_war.jpg", "id":"223532658365", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/middle_war.txt"},
+        {"title":"게임이론", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/game.txt"}
+    ]},
+    {"category":"주식/투자/기업", "value": [
+        {"title":"은가격의비밀", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/silver.jpg", "id":"223406289613", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/silver.txt"}, 
+        {"title":"신용정보사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/npl.jpg", "id":"223689777162", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/npl.txt"}, 
+        {"title":"팔란티어", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/palantir.jpg", "id":"223680068815", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/palantir2.txt"}, 
+        {"title":"롯데의비밀", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/lotte_cover.jpg", "id":"223317794428", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/lotte.txt"}, 
+        {"title":"새넌의투자법", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/shannon.jpg", "id":"223569961732", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shannon.txt"}, 
+        {"title":"조선업근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/shipbuild.jpg", "id":"223516127630", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shipbuild.txt"}, 
+        {"title":"초단타거래", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hft.txt"},  
+        {"title":"장단기금리역전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/canary.jpg", "id":"223576361606", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/canary.txt"}
+    ]}, 
+    {"category":"한국 근/현대사", "value": [
+        {"title":"도자기이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hamel.jpg", "id":"223587085668", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hamel2.txt"},
+        {"title":"산림녹화", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/forest.jpg", "id":"222802968482", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/forest.txt"},
+        {"title":"토지개혁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/land.jpg", "id":"223355519886", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/land.txt"},
+        {"title":"파독간호사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/germany.jpg", "id":"223670555302", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/germany.txt"},
+        {"title":"공순이", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/factorygirl.jpg", "id":"223170727296", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/factorygirl.txt"},
+        {"title":"식모,차장", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/sikmo.jpg", "id":"223609695564", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/sikmo.txt"}
+       
+    ]},
+    {"category":"부동산", "value": [
+        {"title":"생활형숙박시설", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/regidence.jpg", "id":"223353712000", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/regidence.txt"},
+        {"title":"부동산의기초", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/realty.jpg", "id":"222956559031", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/realty.txt"},
+        {"title":"전세이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/rent.jpg", "id":"223567996319", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/rent2.txt"},
+        {"title":"전세금보호", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/rent_se.jpg", "id":"223039801465", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/rent_se3.txt"},
+        {"title":"아파트이야기1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/apart.jpg", "id":"223605189641", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/apart.txt"},
+        {"title":"아파트이야기2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/apart_b.jpg", "id":"223605233270", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/apart_b2.txt"},
+        {"title":"아파트이야기3", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/apart_c.jpg", "id":"223605670760", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/apart_c.txt"},
+        {"title":"아파트이야기4", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/apart_d.jpg", "id":"223607414655", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/apart_d.txt"},
+        {"title":"아파트외전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/brand_apart.jpg", "id":"223606243928", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/brand_apart.txt"}
+    ]}
+   
+]
