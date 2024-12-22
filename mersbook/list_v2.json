@@ -20,8 +20,15 @@
         {"title":"연기금환율방어", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223691311548.jpg", "id":"223691311548"},
         {"title":"연기금증시부양", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223690391722.jpg", "id":"223690391722"},
         {"title":"신용정보사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223689777162.jpg", "id":"223689777162"},
-        {"title":"블로그마을데이터", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223690399650.jpg", "id":"223690399650"}
+        {"title":"블로그마을데이터", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223690399650.jpg", "id":"223690399650"},
+        {"title":"한국은행RP매입", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223689391776.jpg", "id":"223689391776"},
+        {"title":"위기징후외환보유", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223688757397.jpg", "id":"223688757397"},
+        {"title":"시리아정권교체2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223687826208.jpg", "id":"223687826208"},
+        {"title":"시리아정권교체1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223687176019.jpg", "id":"223687176019"},         
+        {"title":"중국의반도체반격", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223682470159.jpg", "id":"223682470159"},
+        {"title":"상법개정의비밀", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223686170336.jpg", "id":"223686170336"}
         
+
     ]},
     {"category":"인기글", "value": [
         {"title":"외국자본물류센터", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223690701530.jpg", "id":"223690701530"} , 
@@ -36,7 +43,8 @@
         {"title":"시리아정권교체1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223687176019.jpg", "id":"223687176019"}         
     ]},
     {"category":"자연/과학", "value": [
-        {"title":"미래식량", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/food.jpg", "id":"223031448252"} , 
+        {"title":"희귀금속과핵전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223580019268.jpg", "id":"223580019268"}, 
+        {"title":"미래식량", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/food.jpg", "id":"223031448252"}, 
         {"title":"인공태양", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/nuclear_fusion.jpg", "id":"223390296850"},
         {"title":"엘리뇨현상", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/elnino.jpg", "id":"223590346587"},
         {"title":"3차전지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/fuel_cell.jpg", "id":"223503267808"},
