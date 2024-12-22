@@ -1,9 +1,35 @@
 [
+    {"category":"최신글 목록", "value": [
+        {"title":"주절주절위치노출", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223702119432.jpg", "id":"223702119432"} , 
+        {"title":"조선왕조실록설", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223702062111.jpg", "id":"223702062111"},
+        {"title":"워렌버핏옥시덴탈", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223700927459.jpg", "id":"223700927459"} , 
+        {"title":"한국은행금리인하", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223701231476.jpg", "id":"223701231476"},
+        {"title":"국민연금매수주식", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223700122055.jpg", "id":"223700122055"},
+        {"title":"주절주절엔비디아", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223699795891.jpg", "id":"223699795891"},    
+        {"title":"구글양자컴퓨터", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223699243631.jpg", "id":"223699243631"},
+        {"title":"파월기자회견", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223698523151.jpg", "id":"223698523151"},
+        {"title":"콘크리트", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223697908949.jpg", "id":"223697908949"}
+       
+
+        
+    ]},
+    {"category":"인기글", "value": [
+        {"title":"외국자본물류센터", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223690701530.jpg", "id":"223690701530"} , 
+        {"title":"한국은행RP매입", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223689391776.jpg", "id":"223689391776"},
+        {"title":"중국의반도체반격", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223682470159.jpg", "id":"223682470159"},
+        {"title":"위기징후외환보유", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223688757397.jpg", "id":"223688757397"},
+        {"title":"국민연금한국주식", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223691940149.jpg", "id":"223691940149"},
+        {"title":"신용정보사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223689777162.jpg", "id":"223689777162"},
+        {"title":"시리아정권교체2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223687826208.jpg", "id":"223687826208"},
+        {"title":"팩트체크연기금", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223690391722.jpg", "id":"223690391722"},
+        {"title":"연기금환율방어", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223691311548.jpg", "id":"223691311548"},
+        {"title":"시리아정권교체1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223687176019.jpg", "id":"223687176019"}         
+    ]},
     {"category":"자연/과학", "value": [
-        {"title":"미래식량", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/food.jpg", "id":"223031448252", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/food2.txt"} , 
-        {"title":"인공태양", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/nuclear_fusion.jpg", "id":"223390296850", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/nuclear_fusion.txt"},
-        {"title":"엘리뇨현상", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/elnino.jpg", "id":"223590346587", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/elnino.txt"},
-        {"title":"3차전지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/fuel_cell.jpg", "id":"223503267808", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/fuel_cell.txt"},
+        {"title":"미래식량", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/food.jpg", "id":"223031448252"} , 
+        {"title":"인공태양", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/nuclear_fusion.jpg", "id":"223390296850"},
+        {"title":"엘리뇨현상", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/elnino.jpg", "id":"223590346587"},
+        {"title":"3차전지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/fuel_cell.jpg", "id":"223503267808"},
         {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hydrogen.jpg", "id":"223630421697", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hydrogen2.txt"}    
     ]},
     {"category":"정치/외교/분쟁", "value": [
