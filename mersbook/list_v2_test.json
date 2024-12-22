@@ -58,8 +58,11 @@
         {"title":"희토류전쟁1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223634392464.jpg", "id":"223634392464"},
         {"title":"희토류전쟁2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223634410817.jpg", "id":"223634410817"},
         {"title":"희토류전쟁3", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223634425887.jpg", "id":"223634425887"},
-        {"title":"7광구이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/block7_mining.jpg", "id":"223597784869", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/block7_mining.txt"},
-        {"title":"중국이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/china.jpg", "id":"223578603657", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/china.txt"},
+        {"title":"7광구이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/block7_mining.jpg", "id":"223597784869"},
+        {"title":"중국이야기1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223578603657.jpg", "id":"223578603657"},
+        {"title":"중국이야기2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223579971249.jpg", "id":"223579971249"},
+        {"title":"중국이야기3", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223579976493.jpg", "id":"223579976493"},    
+        {"title":"중국이야기4", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/china.jpg", "id":"223591312357"},
         {"title":"호주무역전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/australia.jpg", "id":"223482242335", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/australia.txt"},
         {"title":"중동전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/middle_war.jpg", "id":"223532658365", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/middle_war.txt"},
         {"title":"게임이론", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/game.txt"}
