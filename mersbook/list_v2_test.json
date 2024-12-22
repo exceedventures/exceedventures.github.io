@@ -4,9 +4,19 @@
         {"title":"조선왕조실록설", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223702062111.jpg", "id":"223702062111"},
         {"title":"워렌버핏옥시덴탈", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223700927459.jpg", "id":"223700927459"} , 
         {"title":"한국은행금리인하", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223701231476.jpg", "id":"223701231476"},
+        {"title":"국민연금매수주식", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223700122055.jpg", "id":"223700122055"},
        
-        {"title":"3차전지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/fuel_cell.jpg", "id":"223503267808"},
-        {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hydrogen.jpg", "id":"223630421697", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hydrogen2.txt"}    
+       
+        {"title":"주절주절엔비디아", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223699795891.jpg", "id":"223699795891"},    
+        {"title":"구글양자컴퓨터", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223699243631.jpg", "id":"223699243631"},
+        {"title":"파월기자회견", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223698523151.jpg", "id":"223698523151"},
+        {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/hydrogen.jpg", "id":"223630421697"},
+        {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/hydrogen.jpg", "id":"223630421697"},
+        {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/hydrogen.jpg", "id":"223630421697"},
+        {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/hydrogen.jpg", "id":"223630421697"},
+        {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/hydrogen.jpg", "id":"223630421697"},
+        {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/hydrogen.jpg", "id":"223630421697"},
+        {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/hydrogen.jpg", "id":"223630421697"}
     ]},
     {"category":"인기글", "value": [
         {"title":"외국자본물류센터", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223690701530.jpg", "id":"223690701530"} , 
