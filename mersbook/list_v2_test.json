@@ -8,8 +8,7 @@
         {"title":"주절주절엔비디아", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223699795891.jpg", "id":"223699795891"},    
         {"title":"구글양자컴퓨터", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223699243631.jpg", "id":"223699243631"},
         {"title":"파월기자회견", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223698523151.jpg", "id":"223698523151"},
-        {"title":"콘크리트", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223697908949.jpg", "id":"223697908949"},
-        
+        {"title":"콘크리트", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223697908949.jpg", "id":"223697908949"},  
         {"title":"태영건설워크아웃", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223698097227.jpg", "id":"223698097227"},
         {"title":"중국경제근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223696497361.jpg", "id":"223696497361"},
         {"title":"국민연금자산매각", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223695993434.jpg", "id":"223695993434"},
@@ -44,8 +43,9 @@
         {"title":"화이트수소", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hydrogen.jpg", "id":"223630421697", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hydrogen2.txt"}    
     ]},
     {"category":"정치/외교/분쟁", "value": [
-        {"title":"희토류전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/rare_earth.jpg", "id":"223634392464", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/rare_earth2.txt"},
-        {"title":"시리아정권교체", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/siria.jpg", "id":"223687176019", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/siria.txt"},
+        {"title":"희토류전쟁1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223634392464.jpg", "id":"223634392464"},
+        {"title":"희토류전쟁2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223634410817.jpg", "id":"223634410817"},
+        {"title":"희토류전쟁3", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223634425887.jpg", "id":"223634425887"},
         {"title":"7광구이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/block7_mining.jpg", "id":"223597784869", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/block7_mining.txt"},
         {"title":"중국이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/china.jpg", "id":"223578603657", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/china.txt"},
         {"title":"호주무역전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/australia.jpg", "id":"223482242335", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/australia.txt"},
@@ -53,12 +53,13 @@
         {"title":"게임이론", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/game.txt"}
     ]},
     {"category":"주식/투자/기업", "value": [
+        {"title":"조선업근황1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223674818779.jpg", "id":"223674818779"}, 
+        {"title":"조선업근황2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223674846794.jpg", "id":"223674846794"}, 
         {"title":"은가격의비밀", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/silver.jpg", "id":"223406289613", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/silver.txt"}, 
         {"title":"신용정보사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/npl.jpg", "id":"223689777162", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/npl.txt"}, 
         {"title":"팔란티어", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/palantir.jpg", "id":"223680068815", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/palantir2.txt"}, 
         {"title":"롯데의비밀", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/lotte_cover.jpg", "id":"223317794428", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/lotte.txt"}, 
         {"title":"새넌의투자법", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/shannon.jpg", "id":"223569961732", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shannon.txt"}, 
-        {"title":"조선업근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/shipbuild.jpg", "id":"223516127630", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shipbuild.txt"}, 
         {"title":"초단타거래", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hft.txt"},  
         {"title":"장단기금리역전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/canary.jpg", "id":"223576361606", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/canary.txt"}
     ]}, 
