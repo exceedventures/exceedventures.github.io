@@ -70,6 +70,7 @@
         {"title":"게임이론", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/game.txt"}
     ]},
     {"category":"주식/투자/기업", "value": [
+        {"title":"투기와투자", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223326005063.jpg", "id":"223326005063"}, 
         {"title":"조선업근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223701772922.jpg", "id":"223701772922"}, 
         {"title":"은가격의비밀", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/silver.jpg", "id":"223406289613", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/silver.txt"}, 
         {"title":"신용정보사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/npl.jpg", "id":"223689777162", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/npl.txt"}, 
