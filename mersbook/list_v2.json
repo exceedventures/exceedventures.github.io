@@ -1,5 +1,9 @@
 [
     {"category":"최신글 목록", "value": [
+        
+        {"title":"IMF외환위기2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223705091130.jpg", "id":"223705091130"} , 
+        {"title":"IMF외환위기1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223705076557.jpg", "id":"223705076557"} , 
+
         {"title":"카드사태이야기2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223704431953.jpg", "id":"223704431953"} , 
         {"title":"카드사태이야기1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223704331721.jpg", "id":"223704331721"} , 
         {"title":"중국반도체굴기2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223703137120.jpg", "id":"223703137120"} , 
@@ -71,7 +75,9 @@
         {"title":"호주무역전쟁2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223482283205.jpg", "id":"223482283205"},
         {"title":"중동전쟁1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223532660120.jpg", "id":"223532660120"},
         {"title":"중동전쟁2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223532658365.jpg", "id":"223532658365"},
-        {"title":"게임이론", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/game.jpg", "id":"223484101081", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/game.txt"}
+        {"title":"게임이론", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/game.jpg", "id":"223484101081"},
+        {"title":"IMF외환위기1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223705076557.jpg", "id":"223705076557"}, 
+        {"title":"IMF외환위기2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223705091130.jpg", "id":"223705091130"}
     ]},
     {"category":"주식/투자/기업", "value": [
         {"title":"투기와투자", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223326005063.jpg", "id":"223326005063"}, 
