@@ -52,6 +52,7 @@
             
     ]},
     {"category":"자연/과학", "value": [
+        {"title":"아토초근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223299727065.jpg", "id":"223299727065"}, 
         {"title":"인공석유이퓨얼", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223559671082.jpg", "id":"223559671082"}, 
         {"title":"뇌연구근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223339025633.jpg", "id":"223339025633"}, 
         {"title":"희귀금속과핵전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223580019268.jpg", "id":"223580019268"}, 
