@@ -109,6 +109,7 @@
        
     ]},
     {"category":"부동산/세금/절세", "value": [  
+        {"title":"농막,체류형쉼터", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223654624410.jpg", "id":"223654624410"},
         {"title":"세금이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223517943243.jpg", "id":"223517943243"},
         {"title":"부동산의기초", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/realty.jpg", "id":"222956559031", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/realty.txt"},
         {"title":"생활형숙박시설", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/regidence.jpg", "id":"223353712000", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/regidence.txt"},
