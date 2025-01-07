@@ -1,6 +1,6 @@
 [
-    {"id":"appLink", "wording":"원서한권 ........ ", "color":"0xff9a671a", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/tulip_banner.png", "ios":"https://apps.apple.com/kr/app/%EC%9B%90%EC%84%9C%ED%95%9C%EA%B6%8C/id6504731039", "android":"https://play.google.com/store/apps/details?id=co.kr.exceedventures.onebook"},
-    {"id":"223092022005", "wording":"비트코인, 튤립 버블, 유대인, 투기와 투자", "color":"0xff9a671a", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/tulip_banner.png"},
+   
+    {"id":"223699243631", "wording":"구글이 발표한 양자컴퓨터이야기 (시커모어)", "color":"0xff662626", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/quantum_banner.png"},
     {"id":"223353712000", "wording":"생숙? 레지던스에 전입신고가 될까? 안될까?   ", "color":"0xff02023d", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/regidence_banner.png"}
     
 ]
