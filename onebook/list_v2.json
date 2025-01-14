@@ -21,6 +21,7 @@
         {"title":"모비딕", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/moby_dick.cover.jpg", "id":"c6", "name":"moby_dick"},  
         {"title":"미국의민주주의", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/democracy.cover.jpg", "id":"c22", "name":"democracy"},  
         {"title":"로미오와줄리엣", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/romeo.cover.jpg", "id":"c7", "name":"romeo"},     
+        {"title":"맥베스", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/macbeth.cover.jpg", "id":"c009", "name":"macbeth"},     
         {"title":"오만과편견", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/prejudice.cover.jpg", "id":"c8", "name":"prejudice"}             
     ]},
     {"category":"찰스 디킨스 컬렉션", "value": [
