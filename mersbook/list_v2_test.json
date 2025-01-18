@@ -162,11 +162,13 @@
     ]},
     {"category":"주절주절 카테고리", "value": [  
         {"title":"화이트크리스마스", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223350601684.jpg", "id":"223350601684"},
+        {"title":"승인안한투자건", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223487543956.jpg", "id":"223487543956"},
         {"title":"요리도구,강아지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223634006408.jpg", "id":"223634006408"} , 
         {"title":"조찬세미나", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223714404723.jpg", "id":"223714404723"} , 
         {"title":"블라인드펀드", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223713336221.jpg", "id":"223713336221"} , 
         {"title":"주린이딸의수익률", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223726410333.jpg", "id":"223726410333"}, 
         {"title":"아버지의서재", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223139765659.jpg", "id":"223139765659"} ,
+        {"title":"밀양상회곱창파이썬", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223196463002.jpg", "id":"223196463002"} ,
         {"title":"지역감정", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223191582508.jpg", "id":"223191582508"} 
 
     ]}
