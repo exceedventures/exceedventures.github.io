@@ -159,6 +159,16 @@
         {"title":"아파트이야기3", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/apart_c.jpg", "id":"223605670760", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/apart_c.txt"},
         {"title":"아파트이야기4", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/apart_d.jpg", "id":"223607414655", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/apart_d.txt"},
         {"title":"아파트외전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/brand_apart.jpg", "id":"223606243928", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/brand_apart.txt"}
+    ]},
+    {"category":"주절주절 카테고리", "value": [  
+        {"title":"화이트크리스마스", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223350601684.jpg", "id":"223350601684"},
+        {"title":"요리도구,강아지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223634006408.jpg", "id":"223634006408"} , 
+        {"title":"조찬세미나", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223714404723.jpg", "id":"223714404723"} , 
+        {"title":"블라인드펀드", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223713336221.jpg", "id":"223713336221"} , 
+        {"title":"주린이딸의수익률", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223726410333.jpg", "id":"223726410333"}, 
+        {"title":"아버지의서재", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223139765659.jpg", "id":"223139765659"} ,
+        {"title":"지역감정", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223191582508.jpg", "id":"223191582508"} 
+
     ]}
 
    
