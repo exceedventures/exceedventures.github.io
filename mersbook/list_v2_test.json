@@ -97,6 +97,8 @@
         {"title":"화이트수소2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223630459496.jpg", "id":"223630459496"}
     ]},
     {"category":"정치/외교/분쟁", "value": [
+
+        {"title":"사우디에대한오해", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223414927037.jpg", "id":"223414927037"},
         {"title":"KF-21개발근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223441494866.jpg", "id":"223441494866"},
         {"title":"화교이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223356610566.jpg", "id":"223356610566"},
         {"title":"파나마운하근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223143712226.jpg", "id":"223143712226"},
@@ -118,7 +120,6 @@
     ]},
     {"category":"주식/투자/기업", "value": [
         {"title":"소형원전(SMR)", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223476113587.jpg", "id":"223476113587"}, 
-       
         {"title":"엔캐리트레이드", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223527387311.jpg", "id":"223527387311"}, 
         {"title":"채권이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223243422617.jpg", "id":"223243422617"}, 
         {"title":"투기와투자", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223326005063.jpg", "id":"223326005063"}, 
