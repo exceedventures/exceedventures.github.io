@@ -1,5 +1,6 @@
 [   
     {"category":"최신글 목록", "value": [
+        {"title":"밀양상회,순영찻집", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223735872747.jpg", "id":"223735872747"} ,      
         {"title":"미세먼지의원인?", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223732131078.jpg", "id":"223732131078"} ,      
         {"title":"트럼프,파나마운하", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223732911319.jpg", "id":"223732911319"} ,      
         {"title":"OFAC블랙리스트", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223729467876.jpg", "id":"223729467876"} , 
@@ -169,6 +170,7 @@
         {"title":"아파트외전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/brand_apart.jpg", "id":"223606243928", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/brand_apart.txt"}
     ]},
     {"category":"주절주절 카테고리", "value": [  
+        {"title":"밀양상회,순영찻집", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223735872747.jpg", "id":"223735872747"} ,  
         {"title":"화이트크리스마스", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223350601684.jpg", "id":"223350601684"},
         {"title":"승인안한투자건", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223487543956.jpg", "id":"223487543956"},
         {"title":"요리도구,강아지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223634006408.jpg", "id":"223634006408"} , 
