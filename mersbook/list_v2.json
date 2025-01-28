@@ -1,5 +1,6 @@
 [   
     {"category":"최신글 목록", "value": [
+        {"title":"딥시크개인정보수집", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223740917492.jpg", "id":"223740917492"} ,       
         {"title":"AI패권전쟁2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223740031427.jpg", "id":"223740031427"} ,       
         {"title":"AI패권전쟁1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223739761028.jpg", "id":"223739761028"} ,       
         {"title":"콜롬비아관세전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223740215716.jpg", "id":"223740215716"} ,       
@@ -185,6 +186,7 @@
         {"title":"아파트외전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/brand_apart.jpg", "id":"223606243928", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/brand_apart.txt"}
     ]},
     {"category":"주절주절 카테고리", "value": [  
+        {"title":"딥시크개인정보수집", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223740917492.jpg", "id":"223740917492"} ,       
         {"title":"미세먼지,게시중단", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223737564971.jpg", "id":"223737564971"} ,      
         {"title":"밀양상회,순영찻집", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223735872747.jpg", "id":"223735872747"} ,  
         {"title":"화이트크리스마스", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223350601684.jpg", "id":"223350601684"},
