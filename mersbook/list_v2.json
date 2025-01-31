@@ -1,7 +1,7 @@
 [   
     {"category":"최신글 목록", "value": [
+        {"title":"미중반도체전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223742878807.jpg", "id":"223742878807"} ,              
         {"title":"직장썰,분식회계", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223743319573.jpg", "id":"223743319573"} ,       
-       
         {"title":"양자컴,양자통신", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223742398365.jpg", "id":"223742398365"} ,       
         {"title":"파월,각을세우다", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223742107913.jpg", "id":"223742107913"} ,       
         {"title":"AI와뇌연구근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223741392717.jpg", "id":"223741392717"} ,         
@@ -112,6 +112,7 @@
 
     ]},
     {"category":"자연/과학", "value": [
+        {"title":"양자컴,양자통신", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223742398365.jpg", "id":"223742398365"} ,            
         {"title":"미국의비밀무기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223710592171.jpg", "id":"223710592171"} , 
         {"title":"아토초근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223299727065.jpg", "id":"223299727065"}, 
         {"title":"인공석유이퓨얼", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223559671082.jpg", "id":"223559671082"}, 
@@ -193,6 +194,7 @@
         {"title":"아파트외전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/brand_apart.jpg", "id":"223606243928", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/brand_apart.txt"}
     ]},
     {"category":"주절주절 카테고리", "value": [  
+        {"title":"직장썰,분식회계", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223743319573.jpg", "id":"223743319573"} ,       
         {"title":"딥시크개인정보수집", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223740917492.jpg", "id":"223740917492"} ,       
         {"title":"미세먼지,게시중단", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223737564971.jpg", "id":"223737564971"} ,      
         {"title":"밀양상회,순영찻집", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223735872747.jpg", "id":"223735872747"} ,  
