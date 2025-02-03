@@ -1,5 +1,7 @@
 [   
     {"category":"최신글 목록", "value": [
+        {"title":"마지막휴먼투자", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223744804833.jpg", "id":"223744804833"} ,              
+        {"title":"TSMC의고민", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223744781363.jpg", "id":"223744781363"} ,              
         {"title":"젠슨황트럼프만남", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223744819608.jpg", "id":"223744819608"} ,              
         {"title":"24년기부인증", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223743907111.jpg", "id":"223743907111"} ,              
         {"title":"아파트,애완동물", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223744042877.jpg", "id":"223744042877"} ,              
@@ -213,6 +215,4 @@
         {"title":"지역감정", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223191582508.jpg", "id":"223191582508"} 
 
     ]}
-
-   
 ]
