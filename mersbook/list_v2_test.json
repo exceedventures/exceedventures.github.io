@@ -175,7 +175,8 @@
         {"title":"IMF외환위기2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223705091130.jpg", "id":"223705091130"}
     ]},
     {"category":"주식/투자/기업", "value": [
-        {"title":"소형원전(SMR)", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223476113587.jpg", "id":"223476113587"}, 
+        {"title":"팔란티어", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223757596628.jpg", "id":"223757596628"} ,              
+        {"title":"소형원전(오클로)", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223754851608.jpg", "id":"223754851608"} ,              
         {"title":"엔캐리트레이드", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223527387311.jpg", "id":"223527387311"}, 
         {"title":"채권이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223243422617.jpg", "id":"223243422617"}, 
         {"title":"투기와투자", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223326005063.jpg", "id":"223326005063"}, 
@@ -185,7 +186,6 @@
         {"title":"커버드콜", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223512199557.jpg", "id":"223512199557"}, 
         {"title":"은가격의비밀", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/silver.jpg", "id":"223406289613", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/silver.txt"}, 
         {"title":"신용정보사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/npl.jpg", "id":"223689777162", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/npl.txt"}, 
-        {"title":"팔란티어", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/palantir.jpg", "id":"223680068815", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/palantir2.txt"}, 
         {"title":"롯데의비밀", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/lotte_cover.jpg", "id":"223317794428", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/lotte.txt"}, 
         {"title":"새넌의투자법", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/shannon.jpg", "id":"223569961732", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/shannon.txt"}, 
         {"title":"초단타거래", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/hft.jpg", "id":"223504345832", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/hft.txt"},  
