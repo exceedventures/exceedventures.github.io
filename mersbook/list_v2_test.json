@@ -1,5 +1,7 @@
 [   
     {"category":"최신글 목록", "value": [
+        {"title":"금을다시사는이유", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223777578817.jpg", "id":"223777578817"} ,              
+        {"title":"에너지패권전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223776683758.jpg", "id":"223776683758"} ,              
         {"title":"주식매도타이밍", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223776616712.jpg", "id":"223776616712"} ,              
         {"title":"건강기능식품", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223775063362.jpg", "id":"223775063362"} ,              
         {"title":"우크라이나와대만", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223773428715.jpg", "id":"223773428715"} ,              
@@ -249,6 +251,7 @@
         {"title":"아파트외전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/brand_apart.jpg", "id":"223606243928", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/brand_apart.txt"}
     ]},
     {"category":"주절주절 카테고리", "value": [  
+        {"title":"금을다시사는이유", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223777578817.jpg", "id":"223777578817"} ,              
         {"title":"주식매도타이밍", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223776616712.jpg", "id":"223776616712"} ,              
         {"title":"25년2월기부인증", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223763722615.jpg", "id":"223763722615"} ,              
         {"title":"부산의노포맛집", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223761248538.jpg", "id":"223761248538"} ,              
