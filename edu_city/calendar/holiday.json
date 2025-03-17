@@ -1,0 +1,10 @@
+{
+    "2025-01-01": "New Year's Day",
+    "2025-02-10": "Lunar New Year",
+    "2025-05-05": "Children's Day",
+    "vacation": {
+      "start_date": "2025-07-20",
+      "end_date": "2025-08-25",
+      "name": "Summer Vacation"
+    }
+  }
