@@ -1,5 +1,6 @@
 [   
     {"category":"최신글 목록", "value": [
+        {"title":"그회사 근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223803205755.jpg", "id":"223803205755"} ,              
         {"title":"일본부동산매수", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223802449020.jpg", "id":"223802449020"} ,              
         {"title":"부채한도,백종원", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223801865766.jpg", "id":"223801865766"} ,              
         {"title":"중국주식상승이유", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223800231421.jpg", "id":"223800231421"} ,              
@@ -294,6 +295,7 @@
         {"title":"아파트외전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/brand_apart.jpg", "id":"223606243928", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/brand_apart.txt"}
     ]},
     {"category":"주절주절 카테고리", "value": [  
+        {"title":"그회사 근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223803205755.jpg", "id":"223803205755"} ,              
         {"title":"주택연금이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223796709230.jpg", "id":"223796709230"} ,              
         {"title":"계산기세워서쓰기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223788381693.jpg", "id":"223788381693"} ,              
         {"title":"주린이딸과의대화", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223784150010.jpg", "id":"223784150010"} ,              
