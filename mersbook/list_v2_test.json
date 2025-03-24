@@ -1,5 +1,7 @@
 [   
     {"category":"최신글 목록", "value": [
+        {"title":"스트레스DSR", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223808233603.jpg", "id":"223808233603"} ,              
+        {"title":"신상태양전지AS", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223808192009.jpg", "id":"223808192009"} ,              
         {"title":"한화에어로유증", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223806941122.jpg", "id":"223806941122"} ,              
         {"title":"네마녀의날근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223806607205.jpg", "id":"223806607205"} ,              
         {"title":"새로운태양전지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223806114288.jpg", "id":"223806114288"} ,              
@@ -289,6 +291,7 @@
        
     ]},
     {"category":"부동산/세금/절세", "value": [  
+        {"title":"스트레스DSR", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223808233603.jpg", "id":"223808233603"} ,              
         {"title":"농막,체류형쉼터", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223654624410.jpg", "id":"223654624410"},
         {"title":"세금이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223517943243.jpg", "id":"223517943243"},
         {"title":"부동산의기초", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/realty.jpg", "id":"222956559031", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/realty.txt"},
