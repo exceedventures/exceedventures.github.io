@@ -1,5 +1,6 @@
 [   
     {"category":"최신글 목록", "value": [
+        {"title":"올해는금은보다동", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223810645252.jpg", "id":"223810645252"} ,              
         {"title":"사내유보금2천조", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223810137105.jpg", "id":"223810137105"} ,              
         {"title":"트럼프,현대차!", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223808807557.jpg", "id":"223808807557"} ,              
         {"title":"명일동대형싱크홀", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223808908069.jpg", "id":"223808908069"} ,              
@@ -216,8 +217,7 @@
         {"title":"위기징후외환보유", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223688757397.jpg", "id":"223688757397"},
         {"title":"시리아정권교체2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223687826208.jpg", "id":"223687826208"},
         {"title":"시리아정권교체1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223687176019.jpg", "id":"223687176019"},         
-        {"title":"중국의반도체반격", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223682470159.jpg", "id":"223682470159"},
-        {"title":"상법개정의비밀", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223686170336.jpg", "id":"223686170336"}       
+        {"title":"중국의반도체반격", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223682470159.jpg", "id":"223682470159"}     
 
     ]},
     {"category":"자연/과학", "value": [
