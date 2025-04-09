@@ -1,5 +1,6 @@
 [   
     {"category":"최신글 목록", "value": [
+        {"title":"포트폴리오근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223827584911.jpg", "id":"223827584911"},
         {"title":"중국미국보복6안", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223827030555.jpg", "id":"223827030555"},
         {"title":"미국채낮추는법", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223823505663.jpg", "id":"223823505663"},
         {"title":"미국채폭락이유", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223825857956.jpg", "id":"223825857956"},
@@ -297,6 +298,7 @@
         {"title":"IMF외환위기2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223705091130.jpg", "id":"223705091130"}
     ]},
     {"category":"주식/투자/기업", "value": [
+        {"title":"포트폴리오근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223827584911.jpg", "id":"223827584911"},
         {"title":"늦생시4,조선업", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223762176604.jpg", "id":"223762176604"} ,                    
         {"title":"국민연금매수종목", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223758859351.jpg", "id":"223758859351"} ,              
         {"title":"일라이릴리", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223758808702.jpg", "id":"223758808702"} ,              
