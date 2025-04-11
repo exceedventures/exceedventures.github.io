@@ -1,7 +1,7 @@
 [   
     {"category":"최신글 목록", "value": [
         {"title":"미국채금리장단기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223829362020.jpg", "id":"223829362020"},
-        {"title":"조선업근황업데이트", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223826853817.jpg", "id":"223826853817"},
+        {"title":"조선업근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223826853817.jpg", "id":"223826853817"},
         {"title":"트럼프중국만팬다", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223828084854.jpg", "id":"223828084854"},
         {"title":"WGBI편입연기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223827789174.jpg", "id":"223827789174"},
         {"title":"포트폴리오근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223827584911.jpg", "id":"223827584911"},
@@ -182,8 +182,8 @@
         {"title":"IMF외환위기2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223705091130.jpg", "id":"223705091130"}
     ]},
     {"category":"주식/투자/기업", "value": [
-        {"title":"포트폴리오근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223827584911.jpg", "id":"223827584911"},
-        {"title":"늦생시4,조선업", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223762176604.jpg", "id":"223762176604"} ,                    
+        {"title":"조선업근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223826853817.jpg", "id":"223826853817"},
+        {"title":"포트폴리오근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223827584911.jpg", "id":"223827584911"},                  
         {"title":"국민연금매수종목", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223758859351.jpg", "id":"223758859351"} ,              
         {"title":"일라이릴리", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223758808702.jpg", "id":"223758808702"} ,              
         {"title":"팔란티어", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223757596628.jpg", "id":"223757596628"} ,              
@@ -191,7 +191,6 @@
         {"title":"엔캐리트레이드", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223527387311.jpg", "id":"223527387311"}, 
         {"title":"채권이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223243422617.jpg", "id":"223243422617"}, 
         {"title":"투기와투자", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223326005063.jpg", "id":"223326005063"}, 
-        {"title":"조선업근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223701772922.jpg", "id":"223701772922"}, 
         {"title":"환율과선물환매도", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223708254560.jpg", "id":"223708254560"} , 
         {"title":"공헌이익", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223645847853.jpg", "id":"223645847853"}, 
         {"title":"커버드콜", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223512199557.jpg", "id":"223512199557"}, 
