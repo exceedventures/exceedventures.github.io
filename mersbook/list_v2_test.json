@@ -1,5 +1,7 @@
 [   
     {"category":"최신글 목록", "value": [
+        {"title":"중국산우회수출", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223842160057.jpg", "id":"223842160057"},
+        {"title":"후티반군나비효과", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223841046679.jpg", "id":"223841046679"},
         {"title":"알래스카프로젝트", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223840861084.jpg", "id":"223840861084"},
         {"title":"중국증시선방이유", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223840792511.jpg", "id":"223840792511"},
         {"title":"네이버블로그순위", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223833521022.jpg", "id":"223833521022"},
@@ -179,6 +181,7 @@
         {"title":"화이트수소2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223630459496.jpg", "id":"223630459496"}
     ]},
     {"category":"정치/외교/분쟁", "value": [
+        {"title":"후티반군나비효과", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223841046679.jpg", "id":"223841046679"},
         {"title":"일본부동산경제", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223802449020.jpg", "id":"223802449020"} ,              
         {"title":"화교이야기1", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223738046169.jpg", "id":"223738046169"} ,      
         {"title":"화교이야기2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223737838127.jpg", "id":"223737838127"} ,      
@@ -206,6 +209,8 @@
         {"title":"IMF외환위기2", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223705091130.jpg", "id":"223705091130"}
     ]},
     {"category":"주식/투자/기업", "value": [
+        {"title":"먹는비만치료제", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223839451946.jpg", "id":"223839451946"},
+        {"title":"한국인많이산주식", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223830824144.jpg", "id":"223830824144"},
         {"title":"ETF의함정", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223832802614.jpg", "id":"223832802614"},
         {"title":"조선업근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223826853817.jpg", "id":"223826853817"},
         {"title":"포트폴리오근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223827584911.jpg", "id":"223827584911"},                  
