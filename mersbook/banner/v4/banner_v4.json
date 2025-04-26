@@ -1,10 +1,8 @@
 
 [
     {"id":"223847251650", "user":"exven", "wording":"[AD] 알뜰폰 요금제 20G + 밀리의서재 구독권 = 18,900원", "color":"0xff938201", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/mili_banner.png" },
-    {"id":"223031448252", "user":"ranto28", "wording":"뭐? 내가 연지벌레를 먹고 있었다고?", "color":"0xff5737a0", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/food_banner.png" },
     {"id":"223630421697", "user":"ranto28", "wording":"꿈의 에너지, 화이트 수소를 아시나요?", "color":"0xff02023d", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/hydrogen_banner.png" },     
     {"id":"appLink", "wording":"[AD] 원서한권, 영어 원서를 사전과 번역기 없이 편하게..", "color":"0xff1f2123", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/onebook2_banner.png", "ios":"https://apps.apple.com/kr/app/%EC%9B%90%EC%84%9C%ED%95%9C%EA%B6%8C/id6504731039", "android":"https://play.google.com/store/apps/details?id=co.kr.exceedventures.onebook"},
     {"id":"appLink", "wording":"[AD] 비타민E,스타틴을 먹거나 40세 이후로 코엔자임큐텐 ", "color":"0xff664c26", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/q10_banner.png", "ios":"https://link.coupang.com/a/b1kDL9", "android":"https://link.coupang.com/a/b1kDL9"},
-    {"id":"appLink", "wording":"[AD] 지금 다시 읽어 봐도 좋은, 1%를 읽는 힘 ", "color":"0xff1f2123", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/1pro_banner.png", "ios":"https://link.coupang.com/a/b1khFh", "android":"https://link.coupang.com/a/b1khFh"},
     {"id":"appLink", "wording":"[AD] 칼슘과 마그네슘을 한번에 같이 먹을수 있는 영양제 ", "color":"0xff1f2123", "img":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/banner/img/kmg_banner.png", "ios":"https://link.coupang.com/a/b1Kn03", "android":"https://link.coupang.com/a/b1Kn03"}
 ]
