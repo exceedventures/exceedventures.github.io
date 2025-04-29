@@ -1,4 +1,17 @@
 [
+    {"category":"레전드 연설문", "value": [
+        {"title":"스티브잡스연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/jobs.cover.jpg", "id":"s011", "name":"jobs"},
+        {"title":"오바마취임연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/obama.cover.jpg", "id":"s022", "name":"obama"},
+        {"title":"케빈파이기연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/kevin.cover.jpg", "id":"s033", "name":"kevin"},
+        {"title":"JK롤링at하버드", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/jkrowling.cover.jpg", "id":"s004", "name":"jkrowling"},
+        {"title":"존F케네디연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/johnf.cover.jpg", "id":"s044", "name":"johnf"},      
+        {"title":"빌게이츠연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/bill_gates.cover.jpg", "id":"s001", "name":"bill_gates"},
+        {"title":"로저페더러축사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/roger.cover.jpg", "id":"s002", "name":"roger"},
+        {"title":"수잔케인atTED", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/susan_cain.cover.jpg", "id":"s003", "name":"susan_cain"},
+        {"title":"덴젤워싱턴연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/denzel.cover.jpg", "id":"s055", "name":"denzel"},
+        {"title":"코난오브라이언", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/conan.cover.jpg", "id":"s066", "name":"conan"}        
+    ]},
+
     {"category":"칼리지보드 추천서", "value": [
         {"title":"죄와벌", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/crime.cover.jpg", "id":"c1", "name":"crime"},  
         {"title":"라스트모히칸", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/mohicans.cover.jpg", "id":"c5", "name":"mohicans"},  
@@ -108,17 +121,6 @@
         {"title":"춘향전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/chunyang.cover.jpg", "id":"kor03", "name":"chunyang"},
         {"title":"흥부와놀부", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/hyungbu.cover.jpg", "id":"kor04", "name":"hyungbu"},
         {"title":"별주부전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/rabbit.cover.jpg", "id":"kor05", "name":"rabbit"}
-    ]},
-    {"category":"레전드 연설문", "value": [
-        {"title":"빌게이츠연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/bill_gates.cover.jpg", "id":"s001", "name":"bill_gates"},
-        {"title":"로저페더러축사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/roger.cover.jpg", "id":"s002", "name":"roger"},
-        {"title":"수잔케인atTED", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/susan_cain.cover.jpg", "id":"s003", "name":"susan_cain"},
-        {"title":"JK롤링at하버드", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/jkrowling.cover.jpg", "id":"s004", "name":"jkrowling"},
-        {"title":"스티브잡스연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/jobs.cover.jpg", "id":"s011", "name":"jobs"},
-        {"title":"오바마취임연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/obama.cover.jpg", "id":"s022", "name":"obama"},
-        {"title":"케빈파이기연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/kevin.cover.jpg", "id":"s033", "name":"kevin"},
-        {"title":"존F케네디연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/johnf.cover.jpg", "id":"s044", "name":"johnf"},
-        {"title":"덴젤워싱턴연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/denzel.cover.jpg", "id":"s055", "name":"denzel"},
-        {"title":"코난오브라이언", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/conan.cover.jpg", "id":"s066", "name":"conan"}        
     ]}
+   
 ]
