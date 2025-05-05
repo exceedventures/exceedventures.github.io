@@ -1,7 +1,5 @@
 [  
-    {"category":"[공지] 앱 업데이트를 받으셔야 최신 컨텐츠가 갱신 됩니다. !!", "value": [ ]},
-
-    {"category":"자연/과학", "value": [
+    {"category":"[공지] 앱 업데이트를 받으셔야 최신 컨텐츠가 갱신 됩니다. !!", "value": [
         {"title":"뇌임플란트근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223854917447.jpg", "id":"223854917447"},
         {"title":"새로운태양전지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223806114288.jpg", "id":"223806114288"} ,              
         {"title":"우주태양광발전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223776683758.jpg", "id":"223776683758"} ,              
