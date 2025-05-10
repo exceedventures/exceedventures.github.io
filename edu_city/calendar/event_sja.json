@@ -43,131 +43,96 @@
         "start": "2025-06-13"
     },    
     {
-        "title": "SJA - Leadership Team Starts",
-        "start": "2025-07-28"
-      },
-      {
-        "title": "SJA - New Faculty Arrival, Medical and Immigration Trip with HR",
-        "start": "2025-07-28",
-        "end": "2025-07-31"
-      },
-      {
-        "title": "SJA - New Faculty Orientation",
-        "start": "2025-08-01"
-      },
-      {
-        "title": "SJA - New Faculty Orientation",
-        "start": "2025-08-04",
-        "end": "2025-08-05"
-      },
-      {
-        "title": "SJA - All Faculty In-Service Days",
-        "start": "2025-08-06",
-        "end": "2025-08-08"
-      },
-      {
-        "title": "SJA - All Faculty In-Service Days",
-        "start": "2025-08-11"
-      },
-      {
-        "title": "SJA - Dorm Students Move-In Day",
-        "start": "2025-08-10"
-      },
-      {
-        "title": "SJA - First Day of School",
-        "start": "2025-08-12"
-      },
-      {
-        "title": "SJA - Start of Semester 1",
-        "start": "2025-08-12"
-      },
-      {
-        "title": "SJA - Full School Day/No Late Start",
-        "start": "2025-08-13"
-      },
-      {
-        "title": "SJA - Late Start Wednesday\nSchool Begins at 10:15",
-        "start": "2025-08-20"
-      },
-      {
-        "title": "SJA - All Faculty In-Service Day (No School for Students)",
-        "start": "2025-10-03"
-      },
-      {
-        "title": "SJA - Chuseok Holiday",
-        "start": "2025-10-04",
-        "end": "2025-10-12"
-      },
-      {
-        "title": "SJA - ES Fall Parent Teacher Conference",
-        "start": "2025-10-17"
-      },
-      {
-        "title": "SJA - MS Fall Parent Teacher Conference",
-        "start": "2025-10-24"
-      },
-      {
-        "title": "SJA - HS Fall Parent Teacher Conference",
-        "start": "2025-10-31"
-      },
-      {
-        "title": "SJA - Fall Break",
-        "start": "2025-11-15",
-        "end": "2025-11-23"
-      },
-      {
-        "title": "SJA - Winter Break",
-        "start": "2025-12-20",
-        "end": "2026-01-11"
-      },
-      {
-        "title": "SJA - End of Semester 1",
-        "start": "2026-01-20"
-      },
-      {
-        "title": "SJA - Start of Semester 2",
-        "start": "2026-01-21"
-      },
-      {
-        "title": "SJA - All Faculty In-Service Day (No School for Students)",
-        "start": "2026-02-13"
-      },
-      {
-        "title": "SJA - Seollal Break",
-        "start": "2026-02-14",
-        "end": "2026-02-22"
-      },
-      {
-        "title": "SJA - ES Spring Parent Teacher Conference",
-        "start": "2026-03-13"
-      },
-      {
-        "title": "SJA - MS Spring Parent Teacher Conference",
-        "start": "2026-03-20"
-      },
-      {
-        "title": "SJA - HS Spring Parent Teacher Conference",
-        "start": "2026-03-27"
-      },
-      {
-        "title": "SJA - All Faculty In-Service Day (No School for Students)",
-        "start": "2026-04-10"
-      },
-      {
-        "title": "SJA - Spring Break",
-        "start": "2026-04-11",
-        "end": "2026-04-19"
-      },
-      {
-        "title": "SJA - Graduation Day",
-        "start": "2026-06-06"
-      },
-      {
-        "title": "SJA - Last Day of School (Half Day Students)",
-        "start": "2026-06-11"
-      },
-      {
-        "title": "SJA - All Faculty In-Service Day\nHalf Day in the afternoon",
-        "start": "2026-06-11"
-      }
+    "title": "SJA - Dorm Students Move-In Day",
+    "start": "2025-08-10"
+    },
+    {
+    "title": "SJA - Start of Semester 1",
+    "start": "2025-08-12"
+    },
+    {
+    "title": "SJA - Full School Day / No Late Start",
+    "start": "2025-08-13"
+    },
+    {
+    "title": "SJA - Late Start Wednesday (School Begins at 10:15)",
+    "start": "2025-08-20"
+    },
+    {
+    "title": "SJA - All Faculty In-Service Day (No School for Students)",
+    "start": "2025-10-03"
+    },
+    {
+    "title": "SJA - Chuseok Holiday",
+    "start": "2025-10-04",
+    "end": "2025-10-12"
+    },
+    {
+    "title": "SJA - ES Fall Parent Teacher Conference",
+    "start": "2025-10-17"
+    },
+    {
+    "title": "SJA - MS Fall Parent Teacher Conference",
+    "start": "2025-10-24"
+    },
+    {
+    "title": "SJA - HS Fall Parent Teacher Conference",
+    "start": "2025-10-31"
+    },
+    {
+    "title": "SJA - Fall Break",
+    "start": "2025-11-15",
+    "end": "2025-11-23"
+    },
+    {
+    "title": "SJA - Winter Break",
+    "start": "2025-12-20",
+    "end": "2026-01-11"
+    },
+    {
+    "title": "SJA - End of Semester 1",
+    "start": "2026-01-20"
+    },
+    {
+    "title": "SJA - Start of Semester 2",
+    "start": "2026-01-21"
+    },
+    {
+    "title": "SJA - All Faculty In-Service Day (No School for Students)",
+    "start": "2026-02-13"
+    },
+    {
+    "title": "SJA - Seollal Break",
+    "start": "2026-02-14",
+    "end": "2026-02-22"
+    },
+    {
+    "title": "SJA - ES Spring Parent Teacher Conference",
+    "start": "2026-03-13"
+    },
+    {
+    "title": "SJA - MS Spring Parent Teacher Conference",
+    "start": "2026-03-20"
+    },
+    {
+    "title": "SJA - HS Spring Parent Teacher Conference",
+    "start": "2026-03-27"
+    },
+    {
+    "title": "SJA - All Faculty In-Service Day (No School for Students)",
+    "start": "2026-04-10"
+    },
+    {
+    "title": "SJA - Spring Break",
+    "start": "2026-04-11",
+    "end": "2026-04-19"
+    },
+    {
+    "title": "SJA - Graduation Day",
+    "start": "2026-06-06"
+    },
+    {
+    "title": "SJA - Last Day of School (Half Day Students)",
+    "start": "2026-06-11"
+    }
   ]
