@@ -1,10 +1,193 @@
 [
-    {
-      "title": "학비 마감",
-      "start": "2025-05-05"
-    },
-    {
-      "title": "스프링 콘서트",
-      "start": "2025-05-16"
-    }
-  ]
+  {
+    "title": "KIS - First day of Q3 / Semester 2",
+    "start": "2025-01-13"
+  },
+  {
+    "title": "KIS - Lunar New Year Break",
+    "start": "2025-01-25",
+    "end": "2025-02-02"
+  },
+  {
+    "title": "KIS - Late Start for Students at 10am / Faculty PD",
+    "start": "2025-02-17"
+  },
+  {
+    "title": "KIS - SAT at KISJ",
+    "start": "2025-03-08"
+  },
+  {
+    "title": "KIS - End of Quarter 3 / Early Dismissal for Students",
+    "start": "2025-03-14"
+  },
+  {
+    "title": "KIS - March Break",
+    "start": "2025-03-15",
+    "end": "2025-03-23"
+  },
+  {
+    "title": "KIS - March Start of Quarter 4",
+    "start": "2025-03-24"
+  },
+  {
+    "title": "KIS - Late Start for Students at 10am / Faculty PD",
+    "start": "2025-04-14"
+  },
+  {
+    "title": "KIS - May Break",
+    "start": "2025-05-01",
+    "end": "2025-05-04"
+  },
+  {
+    "title": "KIS - AP Exams",
+    "start": "2025-05-05",
+    "end": "2025-05-09"
+  },
+  {
+    "title": "KIS - Late Start for Students at 10am / Faculty PD",
+    "start": "2025-05-19"
+  },
+  {
+    "title": "KIS - AP Exams",
+    "start": "2025-05-12",
+    "end": "2025-05-16"
+  },
+  {
+    "title": "KIS - HS Graduation",
+    "start": "2025-05-24"
+  },
+  {
+    "title": "KIS - Last day of School / Early Dismissal for students",
+    "start": "2025-06-06"
+  },
+  {
+    "title": "KIS - Boarding Students Arrive",
+    "start": "2025-08-12"
+  },
+  {
+    "title": "KIS - First Day of School",
+    "start": "2025-08-13"
+  },
+  {
+    "title": "KIS - SAT at KISJ",
+    "start": "2025-08-23"
+  },
+  {
+    "title": "KIS - Late Start for Students 10:00am/Faculty PD",
+    "start": "2025-08-29"
+  },
+  {
+    "title": "KIS - Parent Information Night",
+    "start": "2025-09-04"
+  },
+  {
+    "title": "KIS - SAT at KISJ",
+    "start": "2025-09-13"
+  },
+  {
+    "title": "KIS - Late Start for Students 10:00am/Faculty PD",
+    "start": "2025-09-26"
+  },
+  {
+    "title": "KIS - End of Quarter 1",
+    "start": "2025-10-02"
+  },
+  {
+    "title": "KIS - PD Day (Faculty Only)/National Foundation Day (No School for Students)",
+    "start": "2025-10-03"
+  },
+  {
+    "title": "KIS - Chuseok Break",
+    "start": "2025-10-04",
+    "end": "2025-10-12"
+  },
+  {
+    "title": "KIS - Late Start for Students 10:00am/Faculty PD",
+    "start": "2025-10-31"
+  },
+  {
+    "title": "KIS - SAT at KISJ",
+    "start": "2025-11-08"
+  },
+  {
+    "title": "KIS - PD Day (Faculty Only-No School for Students)",
+    "start": "2025-11-14"
+  },
+  {
+    "title": "KIS - Fall Break",
+    "start": "2025-11-15",
+    "end": "2025-11-23"
+  },
+  {
+    "title": "KIS - Late Start for Students 10:00am/Faculty PD",
+    "start": "2025-11-28"
+  },
+  {
+    "title": "KIS - SAT. at KISJ",
+    "start": "2025-12-06"
+  },
+  {
+    "title": "KIS - End of Semester 1 / Early Dismissal for Students",
+    "start": "2025-12-19"
+  },
+  {
+    "title": "KIS - Winter Break",
+    "start": "2025-12-20",
+    "end": "2026-01-11"
+  },
+  {
+    "start": "2026-01-30",
+    "title": "KIS - Late Start for Students 10:00am/Faculty PD"
+  },
+  {
+    "start": "2026-02-13",
+    "title": "KIS - PD Day (Faculty Only-No School for Students)"
+  },
+  {
+    "start": "2026-02-14",
+    "end": "2026-02-22",
+    "title": "KIS - Lunar New Year Break"
+  },
+  {
+    "start": "2026-02-27",
+    "title": "KIS - Late Start for Students 10:00am/Faculty PD"
+  },
+  {
+    "start": "2026-03-13",
+    "title": "KIS - End of Quarter 3"
+  },
+  {
+    "start": "2026-03-14",
+    "title": "KIS - SAT at KISJ"
+  },
+  {
+    "start": "2026-03-27",
+    "title": "KIS - Late Start for Students 10:00am/Faculty PD"
+  },
+  {
+    "start": "2026-04-11",
+    "end": "2026-04-19",
+    "title": "KIS - Spring Break"
+  },
+  {
+    "start": "2026-04-24",
+    "title": "KIS - Late Start for Students 10:00am/Faculty PD"
+  },
+  {
+    "start": "2026-05-02",
+    "title": "KIS - SAT at KISJ"
+  },
+  {
+    "start": "2026-05-04",
+    "end": "2026-05-15",
+    "title": "KIS - AP Exams"
+  },
+  {
+    "start": "2026-05-23",
+    "title": "KIS - Graduation"
+  },
+  {
+    "start": "2026-06-12",
+    "title": "KIS - Last Day of School / Early Dismissal for Students"
+  }
+]
