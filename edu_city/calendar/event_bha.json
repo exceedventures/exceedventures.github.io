@@ -1,0 +1,60 @@
+[
+    {
+      "title": "BHA - Lunar New Year Break",
+      "start": "2025-01-25",
+      "end": "2025-02-01"
+    },
+    {
+      "title": "BHA - Spring Break",
+      "start": "2025-03-29",
+      "end": "2025-04-06"
+    },
+    {
+      "title": "BHA - Last Day of School",
+      "start": "2025-06-06"
+    },
+    {
+      "title": "BHA - New Boarding Student Arrival",
+      "start": "2025-08-10"
+    },
+    {
+      "title": "BHA - Returning Boarding Student Arrival",
+      "start": "2025-08-11"
+    },
+    {
+      "title": "BHA - First Day of School",
+      "start": "2025-08-12"
+    },
+    {
+      "title": "BHA - Semester 2 Starts",
+      "start": "2026-01-19"
+    },
+    {
+      "title": "BHA - Student Last Day",
+      "start": "2026-06-05"
+    },
+    {
+      "title": "BHA - Chuseok Break",
+      "start": "2025-10-02",
+      "end": "2025-10-12"
+    },
+    {
+      "title": "BHA - December Break",
+      "start": "2025-12-13",
+      "end": "2026-01-04"
+    },
+    {
+      "title": "BHA - Lunar New Year Break",
+      "start": "2026-02-14",
+      "end": "2026-02-24"
+    },
+    {
+      "title": "BHA - Spring Break",
+      "start": "2026-04-04",
+      "end": "2026-04-12"
+    },
+    {
+      "title": "BHA - Graduation",
+      "start": "2026-05-23"
+    }
+  ]
