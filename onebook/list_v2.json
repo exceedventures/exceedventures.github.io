@@ -14,6 +14,8 @@
 
     {"category":"칼리지보드 추천서", "value": [
         {"title":"죄와벌", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/crime.cover.jpg", "id":"c1", "name":"crime"},  
+        {"title":"오디세이", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/odyssey.cover.jpg", "id":"c02", "name":"odyssey"},  
+        {"title":"로미오와줄리엣", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/romeo.cover.jpg", "id":"c7", "name":"romeo"},     
         {"title":"라스트모히칸", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/mohicans.cover.jpg", "id":"c5", "name":"mohicans"},  
         {"title":"변신", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/metamorphosis.cover.jpg", "id":"c05", "name":"metamorphosis"},  
         {"title":"도리안그레이의초상", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/dorian.cover.jpg", "id":"c16", "name":"dorian"}, 
@@ -22,7 +24,6 @@
         {"title":"아서왕의죽음", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/arthur.cover.jpg", "id":"c17", "name":"arthur"},  
         {"title":"상식", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/common_sense.cover.jpg", "id":"c18", "name":"common_sense"}, 
         {"title":"연방주의자논문집", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/federalist.cover.jpg", "id":"c24", "name":"federalist"}, 
-        {"title":"오디세이", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/odyssey.cover.jpg", "id":"c02", "name":"odyssey"},  
         {"title":"파우스트", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/faust.cover.jpg", "id":"c10", "name":"faust"},
         {"title":"드라큘라", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/dracula.cover.jpg", "id":"c26", "name":"dracula"},
         {"title":"허클베리핀", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/huckleberry.cover.jpg", "id":"c30", "name":"huckleberry"},
@@ -33,7 +34,6 @@
         {"title":"나사의회전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/screw.cover.jpg", "id":"c2", "name":"screw"},     
         {"title":"모비딕", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/moby_dick.cover.jpg", "id":"c6", "name":"moby_dick"},  
         {"title":"미국의민주주의", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/democracy.cover.jpg", "id":"c22", "name":"democracy"},  
-        {"title":"로미오와줄리엣", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/romeo.cover.jpg", "id":"c7", "name":"romeo"},     
         {"title":"맥베스", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/macbeth.cover.jpg", "id":"c009", "name":"macbeth"},     
         {"title":"오만과편견", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/prejudice.cover.jpg", "id":"c8", "name":"prejudice"}             
     ]},
@@ -79,21 +79,21 @@
         {"title":"헨젤과그레텔", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/hansel.cover.jpg", "id":"ch17", "name":"hansel"}   
     ]},
     {"category":"인기 고전", "value": [
-        {"title":"빨간머리앤", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/anne.cover.jpg", "id":"a001", "name":"anne"},
+        {"title":"이솝우화", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/esop.cover.jpg", "id":"a22", "name":"esop"},
         {"title":"셜록홈즈의모험", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/holmes.cover.jpg", "id":"a003", "name":"holmes"},
-        {"title":"피터팬원작", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/peter_pan.cover.jpg", "id":"a004", "name":"peter_pan"},
-        {"title":"오즈의마법사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/oz.cover.jpg", "id":"a23", "name":"oz"},
         {"title":"이상한나라의앨리스", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/alice.cover.jpg", "id":"a002", "name":"alice"},
         {"title":"그림형제동화", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/grimms.cover.jpg", "id":"a13", "name":"grimms"}, 
+        {"title":"작은아씨들", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/women.cover.jpg", "id":"a18", "name":"women"},        
+        {"title":"피터팬원작", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/peter_pan.cover.jpg", "id":"a004", "name":"peter_pan"},
+        {"title":"오즈의마법사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/oz.cover.jpg", "id":"a23", "name":"oz"},
         {"title":"전망좋은방", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/room.cover.jpg", "id":"a14", "name":"room"},
         {"title":"블루캐슬", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/blue_castle.cover.jpg", "id":"a15", "name":"blue_castle"},
         {"title":"우주전쟁", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/worldwar.cover.jpg", "id":"a16", "name":"worldwar"},  
         {"title":"걸리버여행기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/gulliver.cover.jpg", "id":"a17", "name":"gulliver"},   
-        {"title":"작은아씨들", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/women.cover.jpg", "id":"a18", "name":"women"},        
         {"title":"매혹적인4월", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/april.cover.jpg", "id":"a19", "name":"april"},
         {"title":"프랑켄쉬타인", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/frankenstein.cover.jpg", "id":"a20", "name":"frankenstein"},
         {"title":"보물섬", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/treasure.cover.jpg", "id":"a21", "name":"treasure"},
-        {"title":"이솝우화", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/esop.cover.jpg", "id":"a22", "name":"esop"}
+        {"title":"빨간머리앤", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/anne.cover.jpg", "id":"a001", "name":"anne"}
     ]},
     {"category":"경제학 원서", "value": [
         {"title":"부의황금률", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/art_of_money.cover.jpg", "id":"e01", "name":"art_of_money"},
