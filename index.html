@@ -5,69 +5,147 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@1.*/css/pico.min.css">
-    <title>Exceed Ventures Inc.</title>
+    <title>Exceed Ventures Inc. - 혁신적인 AI 학습 솔루션</title>
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
+    <style>
+        /* 커스텀 CSS (Pico.css 위에 추가) */
+        body {
+            font-family: 'Noto Sans KR', sans-serif; /* 한글 폰트 지정 (필요 시 외부 폰트 링크 추가) */
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+
+        header {
+            text-align: center;
+            padding: 3rem 0;
+            background-color: var(--pico-background-color); /* Pico.css 변수 활용 */
+        }
+
+        header img.logo {
+            max-width: 150px;
+            margin-bottom: 1rem;
+        }
+
+        h1, h2 {
+            margin-bottom: 1.5rem;
+            color: var(--pico-h1-color);
+        }
+
+        article {
+            padding: 2rem;
+            margin-bottom: 2rem;
+            background-color: var(--pico-card-background-color);
+            border-radius: var(--pico-border-radius);
+            box-shadow: var(--pico-box-shadow);
+        }
+
+        article img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto 1.5rem auto; /* 이미지 중앙 정렬 및 하단 여백 */
+        }
+
+        .product-section .product-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .product-section .product-item img {
+            max-width: 400px;
+            width: 100%; /* 반응형 이미지 */
+            height: auto;
+            border-radius: var(--pico-border-radius);
+            margin-bottom: 1rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem 0;
+            margin-top: 3rem;
+            border-top: 1px solid var(--pico-border-color);
+            color: var(--pico-secondary-text-color);
+        }
+
+        /* 반응형 디자인 */
+        @media (min-width: 768px) {
+            .product-section .product-item {
+                flex-direction: row; /* 데스크탑에서 가로 배치 */
+                text-align: left;
+            }
+            .product-section .product-item:nth-child(even) {
+                flex-direction: row-reverse; /* 짝수 번째 아이템은 이미지와 텍스트 순서 변경 */
+            }
+            .product-section .product-item img {
+                margin: 0 2rem 0 0; /* 이미지 우측 여백 */
+            }
+            .product-section .product-item:nth-child(even) img {
+                margin: 0 0 0 2rem; /* 이미지 좌측 여백 */
+            }
+        }
+    </style>
 </head>
-    <body>
-        
 
-        <main class="container">
-            <article>
-                <img src="./img/logo.png">
-                <p>익시드벤처스(Exceed Ventures Inc.) 는 2024년 5월에 설립한 소프트웨어 개발 전문 스타트업 입니다. <br>
-                혁신적인 학습용 AI 제품을 연구 하고 있으며, 기술적 한계를 극복하고, 고객 중심의 더 나은 서비스를 제공 하기 위해 끊임 없이 노력 하고 있습니다. </p>
-                <img src="./img/ci.png">
-                
-            </article>
+<body>
+    <main class="container">
+        <header>
+            <img src="./img/logo.png" alt="Exceed Ventures Logo" class="logo">
+            <h1>익시드벤처스(Exceed Ventures Inc.)</h1>
+            <p>2024년 5월 설립된 익시드벤처스(Exceed Ventures Inc.)는 혁신적인 학습용 AI 제품 개발에 앞장서는 소프트웨어 전문 스타트업입니다. 우리는 기술적 한계를 뛰어넘어 사용자 중심의 가치 있는 서비스를 제공하기 위해 끊임없이 연구하고 발전합니다.</p>
+            <img src="./img/ci.png" alt="Exceed Ventures CI">
+        </header>
 
+        <section class="product-section">
             <article>
                 <h2>제품 소개</h2>
-
-               
-                    
-                        <p>익시드벤처스에 첫번째 개발 앱인 원서한권은 AI 기반의 리딩 앱 으로  
-                            <br>원서 독서 습관을 통해 영어 실력을 향상 시키는데 도움이 될것입니다.  
-                        </p>
-                    
-                   
-                        <img src="./img/onebook1.jpg" width="400">
-
-                        <p>&nbsp;</p>
+                <div class="product-item">
+                    <img src="./img/onebook1.jpg" alt="원서한권 앱 스크린샷">
+                    <div>
+                        <h3>원서한권 - AI 기반 리딩 앱</h3>
+                        <p>익시드벤처스의 첫 번째 앱, '원서한권'은 AI 기반의 혁신적인 리딩 솔루션입니다. 원서 독서 습관을 통해 자연스럽게 영어 실력을 향상시키고, 학습의 즐거움을 경험할 수 있도록 돕습니다.</p>
                         <p><a href="/onebook/privacy.html">개인정보처리방침</a></p>
-
-                  
+                    </div>
                 </div>
-                
             </article>
+        </section>
+
+        <section>
             <article>
                 <h2>찾아오시는 길</h2>
                 <p>
-                    제주특별자치도 제주시 월랑로8길 1, 4층 402-이16호(노형동, 아란야 플라자)  
+                    제주특별자치도 제주시 월랑로8길 1, 4층 402-이16호(노형동, 아란야 플라자)
                 </p>
-                <img src="./img/map2.png">
-
-                
+                <img src="./img/map2.png" alt="오시는 길 지도">
             </article>
+        </section>
 
+        <section>
             <article>
                 <h2>업무 제휴</h2>
                 <p>
-                    Exceed Ventures 와 함께 하시겠습니까? <br>
-                    우리는 항상 새로운 파트너쉽을 환영하며, 
-                    상호 협력을 통해 더 큰 가치를 창출하고자 합니다.  
+                    Exceed Ventures는 언제나 새로운 협력의 기회를 환영합니다. 상호 존중과 신뢰를 바탕으로 더 큰 시너지를 창출하고, 함께 성장할 파트너를 찾습니다.
                 </p>
-
-                <p>e-mail : exceed@exceedventures.co.kr</p>
-                <img src="./img/contact.jpg">               
+                <p><strong>e-mail : </strong> <a href="mailto:exceed@exceedventures.co.kr">exceed@exceedventures.co.kr</a></p>
+                <img src="./img/contact.jpg" alt="문의 및 제휴">
             </article>
+        </section>
+    </main>
 
-            <div class="container">
-                © 2024 Exceed Ventures all right reserved.
-            </div>
-           
-            
-        </main>
-    </body>
+    <footer>
+        <div class="container">
+            © 2024 Exceed Ventures all rights reserved.
+        </div>
+    </footer>
+</body>
+
 </html>
