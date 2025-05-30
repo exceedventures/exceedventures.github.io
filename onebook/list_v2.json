@@ -1,15 +1,16 @@
 [
     {"category":"레전드 연설문", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/jobs.cover.jpg", "id":"s011", "name":"jobs"},
-        {"title":"오바마취임연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/obama.cover.jpg", "id":"s022", "name":"obama"},
         {"title":"케빈파이기연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/kevin.cover.jpg", "id":"s033", "name":"kevin"},
+        {"title":"코난오브라이언", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/conan.cover.jpg", "id":"s066", "name":"conan"},   
+        {"title":"덴젤워싱턴연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/denzel.cover.jpg", "id":"s055", "name":"denzel"},
         {"title":"JK롤링at하버드", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/jkrowling.cover.jpg", "id":"s004", "name":"jkrowling"},
         {"title":"존F케네디연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/johnf.cover.jpg", "id":"s044", "name":"johnf"},      
         {"title":"빌게이츠연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/bill_gates.cover.jpg", "id":"s001", "name":"bill_gates"},
         {"title":"로저페더러축사", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/roger.cover.jpg", "id":"s002", "name":"roger"},
         {"title":"수잔케인atTED", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/susan_cain.cover.jpg", "id":"s003", "name":"susan_cain"},
-        {"title":"덴젤워싱턴연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/denzel.cover.jpg", "id":"s055", "name":"denzel"},
-        {"title":"코난오브라이언", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/conan.cover.jpg", "id":"s066", "name":"conan"}        
+        {"title":"오바마취임연설문", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/onebook/covers/obama.cover.jpg", "id":"s022", "name":"obama"}
+            
     ]},
 
     {"category":"칼리지보드 추천서", "value": [
