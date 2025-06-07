@@ -1,5 +1,6 @@
 [   
     {"category":"자연/과학", "value": [
+        {"title":"3차전지업데이트", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223885639142.jpg", "id":"223885639142"},
         {"title":"뇌임플란트근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223854917447.jpg", "id":"223854917447"},
         {"title":"새로운태양전지", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223806114288.jpg", "id":"223806114288"} ,              
         {"title":"우주태양광발전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223776683758.jpg", "id":"223776683758"} ,              
@@ -95,6 +96,7 @@
         {"title":"아파트외전", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/brand_apart.jpg", "id":"223606243928", "content":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/content/brand_apart.txt"}
     ]},
     {"category":"주절주절 카테고리", "value": [  
+        {"title":"돈가방,회초리", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223890575103.jpg", "id":"223890575103"},
         {"title":"화이트크리스마스", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223818880877.jpg", "id":"223818880877"},
         {"title":"그회사 근황", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223803205755.jpg", "id":"223803205755"} ,              
         {"title":"주택연금이야기", "thumb":"https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/mersbook/cover/new/223796709230.jpg", "id":"223796709230"} ,              
