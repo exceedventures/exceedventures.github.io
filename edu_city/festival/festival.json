@@ -69,48 +69,6 @@
         "userName":"htaed",
         "blogKey":"223545274985",
         "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/festival/images/waterworld.jpg"
-    },       
-    {
-        "title":"표선해변 하얀모래축제", 
-        "when":"일정 발표 전",
-        "where":"표선해변 일대",
-        "userName":"pinkplum80",
-        "blogKey":"223571363051"
-    },
-    {
-        "title":"쇠소깍 축제", 
-        "when":"일정 발표 전",
-        "where":"하효항 일대",
-        "userName":"",
-        "blogKey":""
-    },
-    {
-        "title":"예래생태 축제", 
-        "when":"일정 발표 전",
-        "where":"논짓물 및 예래동 일원",
-               "userName":"",
-        "blogKey":""
-    },
-    {
-        "title":"서귀포칠십리 축제", 
-        "when":"일정 발표 전",
-        "where":"제주월드컵경기장 일대",
-               "userName":"",
-        "blogKey":""
-    },
-    {
-        "title":"중문칠선녀 축제", 
-        "when":"일정 발표 전",
-        "where":"중문관광단지내 테디베엄뮤지엄 앞",
-               "userName":"",
-        "blogKey":""
-    },
-    {
-        "title":"겨울바다 국제펭귄수영대회", 
-        "when":"일정 발표 전",
-        "where":"중문색달해수욕장",
-               "userName":"",
-        "blogKey":""
     }
 
 ]
