@@ -48,6 +48,13 @@
         "userName":"htaed",
         "blogKey":"223545274985",
         "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/festival/images/dron.jpg"
+    },
+
+     {
+        "title":"제2회 모모해변가요제", 
+        "when":"8.15(금) ~ 8.16(토), 2일간",
+        "where":"구좌읍 세화야시장",
+        "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/festival/images/momo.jpg"
     }
 
 ]
