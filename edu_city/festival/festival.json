@@ -23,6 +23,15 @@
         "where":"렛츠런파크 제주",
         "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/festival/images/waterworld.jpg"
     },    
+    {
+        "title":"우도 하고수동 썸머페스티벌", 
+        "when":"8.2일(토) 10:00-22:00",
+        "where":"우도 하고수동 해수욕장",
+        "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/festival/images/udo.jpg",
+        "userName": "exven",  
+        "blogKey":"223938346060"
+       
+    }, 
  {
         "title":"JDFF, 국제드론필름페스티벌", 
         "when":"8.9(토) ~ 8.10(일), 2일간",
