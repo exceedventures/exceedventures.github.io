@@ -15,7 +15,14 @@
         "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/festival/images/waterworld.jpg",
         "userName":"letsrun2014",
         "blogKey":"223939357696"
-    },    
+    },  
+      {
+        "title":"이호테우축제", 
+        "when":".08.02 (금) ~ 08.04 (일), 3일간",
+        "where":"이호테우해수욕장",
+        "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/festival/images/ehoteu.jpg"
+       
+    },   
     {
         "title":"우도 하고수동 썸머페스티벌", 
         "when":"8.2일(토) 10:00-22:00",
