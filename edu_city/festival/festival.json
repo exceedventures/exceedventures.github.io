@@ -16,5 +16,12 @@
         "userName":"exven",
         "blogKey":"223928260231",
         "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/festival/images/momo.jpg"
+    },
+
+       {
+        "title":"탐라 문화제", 
+        "when":"10.10(금) ~ 10.14(5), 2일간",
+        "where":"제주도 일원",
+        "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/festival/images/tamna.jpg"
     }
 ]
