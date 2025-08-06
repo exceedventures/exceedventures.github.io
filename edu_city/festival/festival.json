@@ -23,5 +23,15 @@
         "when":"10.10(금) ~ 10.14(화), 5일간",
         "where":"제주도 일원",
         "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/festival/images/tamna.jpg"
+    },
+ 
+    {
+        "title":"제주올레걷기축제", 
+        "when":"11.6(목) ~ 11.8(토), 3일간",
+        "where":"올레길 2개코스 완주",
+        "userName":"exven",
+        "blogKey":"223961290429",
+        "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/festival/images/jeju_walk.jpg"
     }
+       
 ]
