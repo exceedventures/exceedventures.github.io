@@ -1,9 +1,4 @@
-[{
-        "title":"IB vs AP", 
-        "userName":"exven",
-        "blogKey":"223980063926",
-        "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/consult/images/ibap2.jpg"
-    },
+[
        {
         "title":"Jeju World University Fair", 
         "when":"2025년 9월 11일 (목) 4:30 pm",
@@ -31,5 +26,21 @@
         "userName":"bubuyuhak",
         "blogKey":"223959570916",
         "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/consult/images/yoondad2.jpg"
+    },
+
+       {
+        "title":"나무이민 학부모 영주권 & 자산 전략 설명회", 
+        "when":"2025년 9월 18일(목) 오전 10시",
+        "where":"제주 신화월드 우도룸",
+        "userName":"exven",
+        "blogKey":"223980383402",
+        "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/consult/images/namuimin.jpg"
+    },
+
+    {
+        "title":"IB vs AP", 
+        "userName":"exven",
+        "blogKey":"223980063926",
+        "image": "https://cdn.statically.io/gh/exceedventures/exceedventures.github.io/main/edu_city/consult/images/ibap2.jpg"
     }
 ]
