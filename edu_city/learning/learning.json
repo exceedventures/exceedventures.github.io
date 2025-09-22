@@ -1,0 +1,69 @@
+[
+	{
+		"title":"BBC 리얼 이지 잉글리시",
+		"category":"english",
+		"description":"BBC 에서 제작하는 초급자용 영어회화 자료, 영상으로 보는 팟캐스트 이며 매주 새로운 에피소드가 발행됩니다.",
+		"link":"https://www.bbc.co.uk/learningenglish/english/features/real-easy-english"
+	},
+	{
+		"title":"롱폼 팟캐스트",
+		"category":"english",
+		"description":"논픽션(nonfiction) 장르의 창작자들을 대상으로 그들의 글쓰기 과정 등을 길고 깊게 들어가는 대담 형식의 팟캐스트, 글쓰기나 언론, 스토리텔링을 배우고 싶은 사람에게 도움이 됩니다.",
+		"link":"https://longform.org/"
+	},	
+	{
+		"title":"더컨버세이션",
+		"category":"english",
+		"description":"전 세계의 학자와 연구자가 직접 기사를 작성하고 전문 언론인이 편집하는 비영리 독립 뉴스 및 분석 서비스, 영어는 물론 폭넓은 사고와 지식을 키우는데 도움이 됩니다.",
+		"link":"https://theconversation.com/"
+	},		
+	{
+		"title":"The Knowledge",
+		"category":"english",
+		"description":"소셜 미디어의 자극적인 뉴스에 대한 대안으로 호기심 많은 사람들을 위한 빠르고 간결한 뉴스 요약을 제공합니다. 무료 뉴스레터와 웹사이트를 제공 합니다.",
+		"link":"https://www.theknowledge.com/"
+	},
+	{
+		"title":"그래마걸",
+		"category":"english",
+		"description":"글쓰기 실력 향상을 위한 짧고 유용한 문법 팁을 제공합니다. 문법, 구두점, 스타일 및 비즈니스 글쓰기에 대한 쉽고 친근한 설명을 통해 더 나은 글쓰기를 할수 있도록 도와줍니다.",
+		"link":"https://www.quickanddirtytips.com/grammar-girl/"
+	},	
+	{
+		"title":"스마트붐베스트",
+		"category":"english",
+		"description":"각 에피소드 마다 두가지 흥미로운 주제를 두고 누가 더 나은지 토론 하는 팟캐스트, 재미난 주제로 리스닝 훈련에도 도움이 되지만 자신의 의견을 뒷받침하는 디베이팅 기술을 습득 하는데 많은 도움을 줍니다. ",
+		"link":"https://www.quickanddirtytips.com/grammar-girl/"
+	},	
+	{
+		"title":"일일수학",
+		"category":"math",
+		"description":"초등 교과서 진도에 맞춘 전학년 연산문제지를 무료로 프린트해서 풀수 있습니다. QR코드로 답안지도 함께 제공 됩니다.",
+		"link":"https://11math.com/"
+	},
+	{
+		"title":"DW Documentary",
+		"category":"english",
+		"description":"독일 방송국에서 제작하는 고품질 다큐멘터리, 흥미로운 주제와 영어자막으로 재미있게 영어공부 하기 좋은 유튜브 채널입니다. ",
+		"link":"https://www.youtube.com/@DWDocumentary"
+	},
+	{
+		"title":"칸아카데미 - 파이썬 코딩",
+		"category":"coding",
+		"description":"칸아카데미 에서 제공하는 초보자도 쉽게 배울수 있는 파이썬 기초 강의",
+		"link":"https://www.khanacademy.org/computing/intro-to-python-fundamentals"
+	},
+	{
+		"title":"노마드코더",
+		"category":"coding",
+		"description":"기초 부터 고급까지 풀스택으로 제대로 배울수 있는 무료 온라인 코딩 강의 (일부 유료강의도 포함됨)",
+		"link":"https://nomadcoders.co/courses"
+	}
+
+]
+
+ 
+ 
+
+
+
