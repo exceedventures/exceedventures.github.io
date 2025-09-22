@@ -1,6 +1,6 @@
 [
 	{
-		"title":"BBC 리얼 이지 잉글리시",
+		"title":"BBC 이지 잉글리시",
 		"category":"english",
 		"description":"BBC 에서 제작하는 초급자용 영어회화 자료, 영상으로 보는 팟캐스트 이며 매주 새로운 에피소드가 발행됩니다.",
 		"link":"https://www.bbc.co.uk/learningenglish/english/features/real-easy-english"
@@ -36,17 +36,23 @@
 		"link":"https://www.quickanddirtytips.com/grammar-girl/"
 	},	
 	{
-		"title":"일일수학",
-		"category":"math",
-		"description":"초등 교과서 진도에 맞춘 전학년 연산문제지를 무료로 프린트해서 풀수 있습니다. QR코드로 답안지도 함께 제공 됩니다.",
-		"link":"https://11math.com/"
-	},
-	{
 		"title":"DW Documentary",
 		"category":"english",
 		"description":"독일 방송국에서 제작하는 고품질 다큐멘터리, 흥미로운 주제와 영어자막으로 재미있게 영어공부 하기 좋은 유튜브 채널입니다. ",
 		"link":"https://www.youtube.com/@DWDocumentary"
 	},
+	{
+		"title":"일일수학",
+		"category":"math",
+		"description":"초등 교과서 진도에 맞춘 전학년 연산문제지를 무료로 프린트해서 풀수 있습니다. QR코드로 답안지도 함께 제공 됩니다.",
+		"link":"https://11math.com/"
+	},	
+	{
+		"title":"칸아카데미 - 초중등 수학",
+		"category":"coding",
+		"description":"칸아카데미 에서 제공하는 킨더 부터 8학년 까지 수학 과정",
+		"link":"https://www.khanacademy.org/math/k-8-grades"
+	},	
 	{
 		"title":"칸아카데미 - 파이썬 코딩",
 		"category":"coding",
