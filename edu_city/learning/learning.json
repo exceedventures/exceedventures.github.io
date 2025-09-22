@@ -54,6 +54,12 @@
 		"link":"https://www.khanacademy.org/math/k-8-grades"
 	},	
 	{
+		"title":"칸아카데미 - AP calculus-ab",
+		"category":"math",
+		"description":"미국에서 대학 수준의 미적분학(Calculus) 입문 과정, AP 시험을 대비하기 위한 필수 학습 코스로 추천 됩니다. ",
+		"link":"https://www.khanacademy.org/math/ap-calculus-ab"
+	},		
+	{
 		"title":"칸아카데미 - 파이썬 코딩",
 		"category":"coding",
 		"description":"칸아카데미 에서 제공하는 초보자도 쉽게 배울수 있는 파이썬 기초 강의",
@@ -64,7 +70,13 @@
 		"category":"coding",
 		"description":"기초 부터 고급까지 풀스택으로 제대로 배울수 있는 무료 온라인 코딩 강의 (일부 유료강의도 포함됨)",
 		"link":"https://nomadcoders.co/courses"
-	}
+	},
+	{
+		"title":"LeetCode",
+		"category":"coding",
+		"description":"코딩 실력을 향상시키고 기술 면접을 준비할 수 있도록 돕는 온라인 플랫폼, 다양한 난이도의 프로그래밍 문제를 제공하며, 사용자는 여러 프로그래밍 언어로 문제를 풀고 자신의 코드를 제출할 수 있습니다.",
+		"link":"https://leetcode.com/"
+	}	
 
 ]
 
