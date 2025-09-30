@@ -48,6 +48,12 @@
 		"link":"https://www.youtube.com/@DWDocumentary"
 	},
 	{
+		"title":"인사이드 Mathematics",
+		"category":"math",
+		"description":"G2 부터 High Algebra2 까지 학년별 수행평가 과제를 제공합니다. 각 과제에는 채점 루브릭과 학생 답안 사례 및 해설이 함께 제공됩니다.",
+		"link":"https://www.insidemathematics.org/performance-assessment-tasks"
+	},	
+	{
 		"title":"일일수학",
 		"category":"math",
 		"description":"초등 교과서 진도에 맞춘 전학년 연산문제지를 무료로 프린트해서 풀수 있습니다. QR코드로 답안지도 함께 제공 됩니다.",
