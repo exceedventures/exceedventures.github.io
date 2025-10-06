@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>단어킹 - 필수 영어 단어 암기 앱</title>
+    <style>
+        /* 기본 스타일 설정 */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7f6; /* 밝은 배경색 */
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+
+        /* 헤더 섹션 */
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px 20px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            border-radius: 15px;
+            margin-bottom: 40px;
+        }
+
+        .app-icon {
+            width: 80px;
+            height: 80px;
+            border-radius: 20%; /* 모서리 라운딩 */
+            margin-right: 20px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .app-name {
+            font-size: 3.5em;
+            font-weight: 800;
+            color: #4a90e2; /* 브랜드 컬러 */
+            letter-spacing: -1px;
+        }
+
+        /* 섹션 스타일 */
+        .section {
+            padding: 50px 20px;
+            margin-bottom: 40px;
+            background-color: #ffffff;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+        }
+
+        .section h2 {
+            font-size: 2em;
+            color: #333;
+            margin-bottom: 30px;
+            font-weight: 700;
+            position: relative;
+        }
+
+        .section h2::after {
+            content: '';
+            display: block;
+            width: 60px;
+            height: 4px;
+            background: #4a90e2;
+            margin: 10px auto 0;
+            border-radius: 2px;
+        }
+
+        .section p {
+            max-width: 800px;
+            margin: 0 auto 20px;
+            font-size: 1.1em;
+            color: #555;
+        }
+
+        /* 앱 샘플 이미지 */
+        .app-sample-img {
+            width: 100%;
+            max-width: 900px;
+            height: auto;
+            margin: 40px auto;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            display: block;
+        }
+
+        /* 다운로드 링크 섹션 */
+        .download-links {
+            padding: 50px 20px;
+            background-color: #ffffff;
+            border-radius: 15px;
+        }
+
+        .download-links h2 {
+            color: #1a73e8;
+        }
+
+        .app-stores {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+
+        .app-store-link img {
+            transition: transform 0.3s ease;
+        }
+
+        .app-store-link img:hover {
+            transform: translateY(-5px);
+        }
+
+        /* 강조 텍스트 */
+        .highlight {
+            color: #d9534f;
+            font-weight: bold;
+        }
+
+        /* 모바일 반응형 */
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column;
+                padding: 30px 15px;
+            }
+            .app-icon {
+                margin: 0 0 15px 0;
+            }
+            .app-name {
+                font-size: 2.5em;
+            }
+            .section {
+                padding: 30px 15px;
+            }
+            .section h2 {
+                font-size: 1.6em;
+            }
+            .section p {
+                font-size: 1em;
+            }
+            .app-store-link img {
+                height: 50px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        
+        <header class="header">
+            <img src="app_icon.png" alt="단어킹 앱 아이콘" class="app-icon">
+            <h1 class="app-name">단어킹</h1>
+        </header>
+
+
+        <section class="section">
+            <h2>핵심 영어 단어 암기의 중요성</h2>
+            <p>
+                영어 실력 향상의 가장 기본은 <span class="highlight"><strong>핵심 단어</strong></span>를 탄탄하게 익히는 것입니다.
+                <br>원활한 독해와 회화의 기초가 되기 때문에 필수 단어를 확실하게 암기하는 것이 무엇보다 중요합니다.
+            </p>
+        </section>
+        <img src="app_sample.jpg" alt="단어킹 앱 샘플 이미지" class="app-sample-img">
+
+        
+
+        <section class="section">
+            <h2>플래시 카드와 퀴즈로 확실한 암기</h2>
+            <p>
+                단어킹 앱은 <span class="highlight"><strong>플래시 카드 모드</strong></span>를 통해 빠르고 효율적인 단어 노출 및 복습을 제공하며,
+                <span class="highlight"><strong>퀴즈 모드</strong></span>를 통해 학습한 단어를 테스트하고 암기 상태를 확실하게 점검할 수 있도록 도와줍니다.
+                지루함 없이 반복 학습을 통해 장기 기억으로 전환됩니다.
+            </p>
+            <p>
+                또한, 플래시 카드만으로 학습이 부족하다면 <span class="highlight"><strong>AI 튜터 모드</strong></span>를 활용해보세요.
+                단어의 <span class="highlight"><strong>어원, 상세한 예문, 관련 숙어</strong></span> 등을 심화 학습하여 단어에 대한 이해도를 극대화할 수 있습니다.
+            </p>
+        </section>
+        
+        <section class="download-links">
+            <h2>지금 바로 다운로드 받으세요!</h2>
+            <div class="app-stores">
+                <a href="https://apps.apple.com/kr/app/%EB%8B%A8%EC%96%B4%ED%82%B9/id6752490497" target="_blank" class="app-store-link">
+                    <img src="appstore.png" alt="앱스토어에서 다운로드">
+                </a>
+                <a href="https://play.google.com/store/apps/details?id=co.kr.exceedventures.wordking" target="_blank" class="app-store-link">
+                    <img src="googleplay.png" alt="구글 플레이에서 다운로드">
+                </a>
+            </div>
+        </section>
+
+    </div>
+
+</body>
+</html>
