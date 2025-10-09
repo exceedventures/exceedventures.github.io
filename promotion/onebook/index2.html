@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>원서한권</title>
+    <style>
+        /* 기본 스타일 초기화 */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Noto Sans KR', sans-serif;
+        }
+
+        body {
+            background-color: #f9f9f9;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 40px;
+        }
+
+        header img {
+            width: 80px;
+            height: 80px;
+            border-radius: 20px; /* 앱스토어 스타일 라운딩 */
+            margin-right: 20px;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            color: #1a73e8;
+        }
+
+        .app-sample {
+            width: 100%;
+            max-width: 600px;
+            border-radius: 15px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+            margin-bottom: 40px;
+        }
+
+        .description {
+            max-width: 700px;
+            text-align: center;
+            font-size: 1.1rem;
+            line-height: 1.8;
+            margin-bottom: 50px;
+        }
+
+        .download-buttons {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .download-buttons a img {
+            width: 150px;
+            transition: transform 0.3s;
+        }
+
+        .download-buttons a img:hover {
+            transform: scale(1.05);
+        }
+
+        @media (max-width: 480px) {
+            header {
+                flex-direction: column;
+            }
+
+            header img {
+                margin-right: 0;
+                margin-bottom: 10px;
+            }
+
+            header h1 {
+                font-size: 2rem;
+            }
+
+            .download-buttons a img {
+                width: 120px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- 헤더: 앱 아이콘 + 앱 이름 -->
+    <header>
+        <img src="app_icon.jpg" alt="원서한권 아이콘">
+        <h1>원서한권</h1>
+    </header>
+
+    <!-- 앱 샘플 이미지 -->
+    <img class="app-sample" src="app_sample.jpg" alt="앱 샘플 이미지">
+
+    <!-- 앱 소개 텍스트 -->
+    <div class="description">
+        <p>영어원서를 읽는것은 영어를 공부하는 방법중에 가장 효율적인 방법이야.</p>
+        <p>백설공주 같은 어린이 동화 부터 칼리지보드 추천서 까지 영어원서로 된 도서를 모두 무료로 읽을수 있어.</p>
+        <p>모르는 단어는 클릭 한번으로 영어사전을 찾아볼수 있고 AI 튜터를 통해서 문맥상 이해하기 어려운 부분도 쉽게 이해할수 있어.</p>
+        <p>장소와 시간에 구애받지 않고 언제 어디서나 쉽게 영어원서를 읽을수 있어.</p>
+    </div>
+
+    <!-- 다운로드 버튼 -->
+    <div class="download-buttons">
+        <a href="https://apps.apple.com/kr/app/%EC%9B%90%EC%84%9C%ED%95%9C%EA%B6%8C/id6504731039" target="_blank">
+            <img src="appstore.png" alt="앱스토어 다운로드">
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=co.kr.exceedventures.onebook" target="_blank">
+            <img src="googleplay.png" alt="구글 플레이 다운로드">
+        </a>
+    </div>
+  <footer>
+    © 2025 Exceed Ventures. All rights reserved.
+  </footer>
+</body>
+</html>
