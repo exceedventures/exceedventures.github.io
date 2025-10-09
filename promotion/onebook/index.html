@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>원서한권 - 영어 원서 리딩 앱</title>
+    <style>
+        /* 전역 스타일 */
+        body {
+            font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', 'Nanum Gothic', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+
+        /* 헤더 (앱 아이콘 및 이름) */
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px 0;
+            margin-bottom: 20px;
+            background-color: #ffffff;
+            border-bottom: 1px solid #eee;
+        }
+
+        .app-icon {
+            width: 80px;
+            height: 80px;
+            border-radius: 20%; /* 앱스토어 스타일 라운딩 */
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            margin-right: 20px;
+            object-fit: cover;
+        }
+
+        .app-name {
+            font-size: 2.5em;
+            font-weight: 700;
+            color: #1a73e8; /* 브랜드 컬러 느낌 */
+        }
+
+        /* 소개 섹션 */
+        .introduction-section {
+            padding: 40px 20px;
+            background-color: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+            margin-bottom: 40px;
+        }
+
+        .introduction-section h2 {
+            font-size: 1.8em;
+            color: #333;
+            margin-bottom: 30px;
+            font-weight: 600;
+        }
+
+        .feature-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .feature-item {
+            flex: 1 1 45%; /* 두 개씩 가로로 배치 */
+            background-color: #e8f0fe;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: left;
+            min-width: 300px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            font-size: 1.05em;
+            font-weight: 500;
+        }
+        
+        .feature-item strong {
+            color: #1a73e8;
+            font-weight: 700;
+        }
+
+        /* 샘플 이미지 */
+        .sample-image-container {
+            margin: 40px 0;
+        }
+
+        .app-sample-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        /* 다운로드 섹션 */
+        .download-section {
+            padding: 40px 0;
+            background-color: #ffffff;
+            border-radius: 12px;
+            margin-top: 40px;
+        }
+
+        .download-links {
+            display: flex;
+            justify-content: center;
+            gap: 25px;
+            margin-top: 20px;
+        }
+
+        .download-links a img {
+            width: 160px; /* 아이콘 크기 조정 */
+            height: auto;
+            transition: transform 0.2s;
+        }
+
+        .download-links a img:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <img src="app_icon.jpg" alt="원서한권 앱 아이콘" class="app-icon">
+        <h1 class="app-name">원서한권</h1>
+    </div>
+
+    <div class="container">
+
+        <section class="introduction-section">
+            <h2>📚 영어 원서, 가장 효율적인 영어 공부법</h2>
+            <ul class="feature-list">
+                <li class="feature-item">
+                    영어 원서를 읽는 것은 영어를 공부하는 방법 중에 가장 효율적인 방법 입니다.
+                </li>
+                <li class="feature-item">
+                    백설공주 같은 어린이 동화부터 칼리지보드 추천 도서까지 영어 원서를 모두 무료로 읽을 수 있습니다.
+                </li>
+                <li class="feature-item">
+                    모르는 단어는 클릭 한 번으로 한글 뜻을 찾아볼 수 있고, AI 튜터를 통해서 보다 상세한 설명을 찾아볼수 있습니다.
+                </li>
+                <li class="feature-item">
+                    장소와 시간에 구애받지 않고 언제 어디서나 쉽게 영어 원서를 읽을 수 있습니다.
+                </li>
+            </ul>
+        </section>
+
+        <section class="sample-image-container">
+            <h2>📱 앱 미리보기</h2>
+            <img src="app_sample.jpg" alt="원서한권 앱 샘플 이미지" class="app-sample-image">
+        </section>
+
+        <section class="download-section">
+            <h2>지금 바로 다운로드 하세요!</h2>
+            <div class="download-links">
+                <a href="https://apps.apple.com/kr/app/%EC%9B%90%EC%84%9C%ED%95%9C%EA%B6%8C/id6504731039" target="_blank" title="App Store에서 다운로드">
+                    <img src="appstore.png" alt="App Store 다운로드">
+                </a>
+                <a href="https://play.google.com/store/apps/details?id=co.kr.exceedventures.onebook" target="_blank" title="Google Play에서 다운로드">
+                    <img src="googleplay.png" alt="Google Play 다운로드">
+                </a>
+            </div>
+        </section>
+
+    </div>
+
+</body>
+</html>
