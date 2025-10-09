@@ -1,127 +1,277 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>원서한권</title>
-    <style>
-        /* 기본 스타일 초기화 */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Noto Sans KR', sans-serif;
-        }
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>원서한권 – 앱 소개</title>
+  <style>
+    :root{
+      --bg:#f4f7fb;
+      --card:#ffffff;
+      --accent:#3b82f6;
+      --muted:#667085;
+      --radius-lg:20px;
+      --container-width:1100px;
+      --glass: rgba(255,255,255,0.7);
+    }
 
-        body {
-            background-color: #f9f9f9;
-            color: #333;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 20px;
-        }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0;
+      font-family: "Inter", "Noto Sans KR", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      -webkit-font-smoothing:antialiased;
+      background:
+        linear-gradient(180deg, rgba(59,130,246,0.06), rgba(59,130,246,0.00)),
+        var(--bg);
+      color:#0f172a;
+      display:flex;
+      align-items:flex-start;
+      justify-content:center;
+      padding:40px 20px;
+    }
 
-        header {
-            display: flex;
-            align-items: center;
-            margin-bottom: 40px;
-        }
+    .wrap{
+      width:100%;
+      max-width:var(--container-width);
+      background: linear-gradient(180deg, rgba(255,255,255,0.85), rgba(255,255,255,0.95));
+      border-radius:18px;
+      box-shadow: 0 10px 30px rgba(2,6,23,0.08);
+      padding:36px;
+      overflow:hidden;
+    }
 
-        header img {
-            width: 80px;
-            height: 80px;
-            border-radius: 20px; /* 앱스토어 스타일 라운딩 */
-            margin-right: 20px;
-        }
+    /* Header: icon + app name */
+    .hero{
+      display:flex;
+      align-items:center;
+      gap:22px;
+      margin-bottom:28px;
+    }
 
-        header h1 {
-            font-size: 2.5rem;
-            color: #1a73e8;
-        }
+    .app-icon{
+      width:96px;
+      height:96px;
+      flex:0 0 96px;
+      border-radius:22px; /* 앱스토어 스타일 라운드 */
+      overflow:hidden;
+      box-shadow: 0 6px 18px rgba(15,23,42,0.08);
+      background:var(--card);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+    }
 
-        .app-sample {
-            width: 100%;
-            max-width: 600px;
-            border-radius: 15px;
-            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
-            margin-bottom: 40px;
-        }
+    .app-icon img{
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      display:block;
+    }
 
-        .description {
-            max-width: 700px;
-            text-align: center;
-            font-size: 1.1rem;
-            line-height: 1.8;
-            margin-bottom: 50px;
-        }
+    .title-wrap{
+      display:flex;
+      flex-direction:column;
+      gap:6px;
+    }
 
-        .download-buttons {
-            display: flex;
-            gap: 20px;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
+    .app-title{
+      font-size:2.1rem;
+      line-height:1;
+      color:var(--accent);
+      font-weight:700;
+      letter-spacing:-0.02em;
+    }
+    .subtitle{
+      color:var(--muted);
+      font-size:0.96rem;
+    }
 
-        .download-buttons a img {
-            width: 150px;
-            transition: transform 0.3s;
-        }
+    /* Main content */
+    .content{
+      display:grid;
+      grid-template-columns: 1fr 380px;
+      gap:28px;
+      align-items:start;
+    }
 
-        .download-buttons a img:hover {
-            transform: scale(1.05);
-        }
+    /* Left: description + sample image */
+    .left{
+      display:flex;
+      flex-direction:column;
+      gap:20px;
+    }
 
-        @media (max-width: 480px) {
-            header {
-                flex-direction: column;
-            }
+    .sample-card{
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      background: linear-gradient(180deg, rgba(255,255,255,0.6), rgba(250,250,252,0.8));
+      border-radius:14px;
+      padding:18px;
+      box-shadow: 0 8px 24px rgba(2,6,23,0.04);
+    }
 
-            header img {
-                margin-right: 0;
-                margin-bottom: 10px;
-            }
+    .sample-card img{
+      width:100%;
+      max-width:760px;
+      height:auto;
+      border-radius:12px;
+      object-fit:cover;
+      display:block;
+    }
 
-            header h1 {
-                font-size: 2rem;
-            }
+    .description{
+      background:var(--glass);
+      border-radius:12px;
+      padding:18px;
+      font-size:1.02rem;
+      color:#0f172a;
+      line-height:1.75;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.6);
+    }
 
-            .download-buttons a img {
-                width: 120px;
-            }
-        }
-    </style>
+    .description p{margin:8px 0}
+
+    /* Right column: download and quick info */
+    .right{
+      display:flex;
+      flex-direction:column;
+      gap:18px;
+    }
+
+    .download {
+      background:linear-gradient(180deg, #fff, #fbfcff);
+      border-radius:12px;
+      padding:16px;
+      box-shadow: 0 8px 20px rgba(11,24,40,0.04);
+      display:flex;
+      flex-direction:column;
+      gap:12px;
+      align-items:center;
+    }
+
+    .download h3{
+      margin:0;
+      font-size:1.05rem;
+      color:#0f172a;
+    }
+
+    .store-links{
+      display:flex;
+      gap:12px;
+      width:100%;
+      justify-content:center;
+      align-items:center;
+      flex-wrap:wrap;
+    }
+
+    .store-links a{
+      display:inline-block;
+      text-decoration:none;
+      transition:transform .18s ease, box-shadow .18s ease;
+      border-radius:10px;
+      overflow:hidden;
+    }
+
+    .store-links a img{display:block; width:160px; height:auto}
+
+    .store-links a:hover{transform:translateY(-6px); box-shadow: 0 10px 30px rgba(59,130,246,0.12)}
+
+    .meta{
+      font-size:0.92rem;
+      color:var(--muted);
+      text-align:center;
+      padding:6px 8px;
+    }
+
+    footer{
+      margin-top:22px;
+      text-align:center;
+      color:var(--muted);
+      font-size:0.88rem;
+    }
+
+    /* Responsive */
+    @media (max-width:980px){
+      .content{grid-template-columns: 1fr}
+      .right{order:2}
+      .left{order:1}
+    }
+
+    @media (max-width:480px){
+      .hero{gap:12px}
+      .app-title{font-size:1.6rem}
+      .app-icon{width:76px;height:76px;border-radius:18px}
+      .store-links a img{width:140px}
+      .wrap{padding:20px}
+    }
+  </style>
 </head>
 <body>
-
-    <!-- 헤더: 앱 아이콘 + 앱 이름 -->
-    <header>
-        <img src="app_icon.jpg" alt="원서한권 아이콘">
-        <h1>원서한권</h1>
+  <div class="wrap" role="main">
+    <!-- Header: 아이콘 + 앱 이름 -->
+    <header class="hero" role="banner">
+      <div class="app-icon" aria-hidden="true">
+        <img src="app_icon.jpg" alt="원서한권 앱 아이콘">
+      </div>
+      <div class="title-wrap">
+        <div class="app-title">원서한권</div>
+        <div class="subtitle">언제 어디서나, 부담 없이 읽는 영어 원서</div>
+      </div>
     </header>
 
-    <!-- 앱 샘플 이미지 -->
-    <img class="app-sample" src="app_sample.jpg" alt="앱 샘플 이미지">
+    <!-- 본문: 샘플 이미지 + 소개 + 다운로드 -->
+    <section class="content" aria-label="앱 소개">
+      <div class="left">
+        <!-- 샘플 이미지 (중앙 배치) -->
+        <div class="sample-card" aria-hidden="false">
+          <img src="app_sample.jpg" alt="원서한권 앱 샘플 이미지">
+        </div>
 
-    <!-- 앱 소개 텍스트 -->
-    <div class="description">
-        <p>영어원서를 읽는것은 영어를 공부하는 방법중에 가장 효율적인 방법이야.</p>
-        <p>백설공주 같은 어린이 동화 부터 칼리지보드 추천서 까지 영어원서로 된 도서를 모두 무료로 읽을수 있어.</p>
-        <p>모르는 단어는 클릭 한번으로 영어사전을 찾아볼수 있고 AI 튜터를 통해서 문맥상 이해하기 어려운 부분도 쉽게 이해할수 있어.</p>
-        <p>장소와 시간에 구애받지 않고 언제 어디서나 쉽게 영어원서를 읽을수 있어.</p>
-    </div>
+        <!-- 소개 문구 -->
+        <div class="description" aria-label="앱 특징">
+          <p>• 영어원서를 읽는것은 영어를 공부하는 방법중에 가장 효율적인 방법 입니다.</p>
+          <p>• 백설공주 같은 어린이 동화 부터 칼리지보드 추천서 까지 영어원서로 된 도서를 모두 무료로 읽을수 있어요.</p>
+          <p>• 모르는 단어는 클릭 한번으로 영어사전을 찾아볼수 있고 AI 튜터를 통해서 문맥상 이해하기 어려운 부분도 쉽게 이해할수 있어요.</p>
+          <p>• 장소와 시간에 구애받지 않고 언제 어디서나 쉽게 영어 원서한권!</p>
+        </div>
+      </div>
 
-    <!-- 다운로드 버튼 -->
-    <div class="download-buttons">
-        <a href="https://apps.apple.com/kr/app/%EC%9B%90%EC%84%9C%ED%95%9C%EA%B6%8C/id6504731039" target="_blank">
-            <img src="appstore.png" alt="앱스토어 다운로드">
-        </a>
-        <a href="https://play.google.com/store/apps/details?id=co.kr.exceedventures.onebook" target="_blank">
-            <img src="googleplay.png" alt="구글 플레이 다운로드">
-        </a>
-    </div>
-  <footer>
-    © 2025 Exceed Ventures. All rights reserved.
-  </footer>
+      <!-- 우측: 다운로드 버튼 + 간단 메타 -->
+      <aside class="right" aria-label="다운로드">
+        <div class="download" role="region" aria-labelledby="download-title">
+          <h3 id="download-title">지금 다운로드하세요</h3>
+          <div class="store-links" role="group" aria-label="앱스토어 링크">
+            <a href="https://apps.apple.com/kr/app/%EC%9B%90%EC%84%9C%ED%95%9C%EA%B6%8C/id6504731039" target="_blank" rel="noopener noreferrer">
+              <img src="appstore.png" alt="App Store에서 다운로드">
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=co.kr.exceedventures.onebook" target="_blank" rel="noopener noreferrer">
+              <img src="googleplay.png" alt="Google Play에서 다운로드">
+            </a>
+          </div>
+          <div class="meta">iOS와 Android에서 모두 사용 가능 • 무료</div>
+        </div>
+
+        <div class="download" style="align-items:flex-start;">
+          <h3 style="margin:0 0 6px 0">앱 정보</h3>
+          <div style="font-size:0.95rem; color:var(--muted); line-height:1.6">
+            <div><strong>앱 이름:</strong> 원서한권</div>
+            <div><strong>제공자:</strong> Exceed Ventures</div>
+            <div><strong>지원 언어:</strong> 한국어, 영어</div>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <footer>
+      © <span id="year"></span> 원서한권 — 영어 원서, 한 권으로 시작하세요.
+    </footer>
+  </div>
+
+  <script>
+    // 연도 자동 삽입
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
 </body>
 </html>
