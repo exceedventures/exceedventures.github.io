@@ -20,37 +20,22 @@
     header {
       display: flex;
       align-items: center;
-      justify-content: center;
       margin-top: 40px;
-      flex-wrap: wrap; /* 화면이 좁을 경우 자동 줄바꿈 */
-      text-align: center;
-      padding: 0 20px;
-      max-width: 90%;
+      gap: 20px;
     }
 
     .app-icon {
-      width: 90px;
-      height: 90px;
-      border-radius: 20px;
+      width: 100px;
+      height: 100px;
+      border-radius: 22px;
       object-fit: cover;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-      margin: 0 auto;
     }
 
     .app-title {
-      font-size: 1.8rem;
+      font-size: 2rem;
       font-weight: 700;
       color: #111;
-      margin-left: 20px;
-    }
-
-    /* 화면이 작아지면 제목이 아래로 내려감 */
-    @media (max-width: 600px) {
-      .app-title {
-        margin-left: 0;
-        margin-top: 10px;
-        font-size: 1.5rem;
-      }
     }
 
     .content {
@@ -59,13 +44,11 @@
       padding: 30px 20px;
       line-height: 1.8;
       font-size: 1.05rem;
-      box-sizing: border-box;
     }
 
     .app-sample {
       width: 90%;
-      max-width: 400px;
-      height: auto;
+      max-width: 420px;
       border-radius: 20px;
       margin: 30px 0;
       box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
@@ -74,17 +57,13 @@
     .download-links {
       display: flex;
       justify-content: center;
-      align-items: center;
       gap: 20px;
       margin: 30px 0 60px 0;
       flex-wrap: wrap;
-      width: 100%;
-      box-sizing: border-box;
     }
 
     .download-links a img {
-      width: 140px;
-      max-width: 40%;
+      width: 150px;
       height: auto;
       transition: transform 0.2s ease, box-shadow 0.2s ease;
     }
@@ -101,7 +80,6 @@
       padding: 20px;
       border-top: 1px solid #e5e5e5;
       width: 100%;
-      box-sizing: border-box;
     }
   </style>
 </head>
@@ -117,7 +95,7 @@
       경제 분야 인플루언서 <strong>메르</strong>의 콘텐츠를<br>
       이제 <strong>앱에서 음성으로</strong> 편하게 보고 들을 수 있습니다.
     </p>
-     <img src="app_sample.jpg" alt="앱 샘플 이미지">
+<img src="app_sample.jpg" alt="앱 샘플 이미지">
     <p>
       자연/과학, 정치/외교, 주식/투자 등<br>
       다양한 카테고리의 <strong>알짜 지식</strong>을 언제 어디서든 쉽게 꺼내 읽고,<br>
@@ -125,7 +103,7 @@
       자신의 지식으로 <strong>완벽히 습득</strong>해 보세요.
     </p>
 
-   
+    
   </section>
 
   <div class="download-links">
