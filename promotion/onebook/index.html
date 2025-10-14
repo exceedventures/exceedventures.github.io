@@ -28,7 +28,7 @@
       display:flex;
       align-items:flex-start;
       justify-content:center;
-      padding:40px 20px;
+      padding:40px 20px; /* 좌우 20px 패딩은 유지 */
     }
 
     .wrap{
@@ -39,6 +39,7 @@
       box-shadow: 0 10px 30px rgba(2,6,23,0.08);
       padding:36px;
       overflow:hidden;
+      /* 최소 너비를 별도로 지정하지 않아 콘텐츠에 따라 유연하게 줄어듬 */
     }
 
     /* Header: icon + app name */
@@ -52,8 +53,8 @@
     .app-icon{
       width:96px;
       height:96px;
-      flex:0 0 96px;
-      border-radius:22px; /* 앱스토어 스타일 라운드 */
+      flex:0 0 96px; /* 고정 크기 유지 */
+      border-radius:22px; 
       overflow:hidden;
       box-shadow: 0 6px 18px rgba(15,23,42,0.08);
       background:var(--card);
@@ -73,6 +74,7 @@
       display:flex;
       flex-direction:column;
       gap:6px;
+      min-width: 0; /* 제목이 아이콘에 의해 잘리지 않도록 추가 */
     }
 
     .app-title{
@@ -81,10 +83,12 @@
       color:var(--accent);
       font-weight:700;
       letter-spacing:-0.02em;
+      word-break: break-word; /* 긴 제목 대비 */
     }
     .subtitle{
       color:var(--muted);
       font-size:0.96rem;
+      word-break: break-word;
     }
 
     /* Main content */
@@ -114,7 +118,7 @@
 
     .sample-card img{
       width:100%;
-      max-width:760px;
+      max-width:100%; /* 부모 너비에 맞춰 유동적으로 */
       height:auto;
       border-radius:12px;
       object-fit:cover;
@@ -138,6 +142,7 @@
       display:flex;
       flex-direction:column;
       gap:18px;
+      min-width: 0; /* 그리드 내에서 잘리지 않도록 추가 */
     }
 
     .download {
@@ -172,9 +177,15 @@
       transition:transform .18s ease, box-shadow .18s ease;
       border-radius:10px;
       overflow:hidden;
+      flex-grow: 1; /* 링크가 너비를 차지하도록 설정 */
+      max-width: 160px; /* 버튼의 최대 너비 제한 */
     }
 
-    .store-links a img{display:block; width:160px; height:auto}
+    .store-links a img{
+      display:block; 
+      width:100%; /* 부모 링크의 너비에 맞춤 */
+      height:auto
+    }
 
     .store-links a:hover{transform:translateY(-6px); box-shadow: 0 10px 30px rgba(59,130,246,0.12)}
 
@@ -194,23 +205,34 @@
 
     /* Responsive */
     @media (max-width:980px){
+      /* 태블릿/모바일 환경에서 1단 레이아웃으로 변경 */
       .content{grid-template-columns: 1fr}
       .right{order:2}
       .left{order:1}
     }
 
     @media (max-width:480px){
-      .hero{gap:12px}
+      .hero{gap:12px} /* 아이콘과 제목 사이 간격 줄임 */
       .app-title{font-size:1.6rem}
-      .app-icon{width:76px;height:76px;border-radius:18px}
-      .store-links a img{width:140px}
-      .wrap{padding:20px}
+      .app-icon{
+        width:76px;
+        height:76px;
+        border-radius:18px;
+        flex: 0 0 76px; /* 아이콘 크기 고정 및 줄임 */
+      }
+      .subtitle{font-size:0.85rem;}
+      
+      .store-links{gap: 8px;} /* 버튼 간격 줄임 */
+      .store-links a{
+        max-width: 140px; /* 버튼 최대 크기 줄임 */
+      }
+      
+      .wrap{padding:20px 16px;} /* 전체 컨테이너 내부 패딩을 더 줄임 */
     }
   </style>
 </head>
 <body>
   <div class="wrap" role="main">
-    <!-- Header: 아이콘 + 앱 이름 -->
     <header class="hero" role="banner">
       <div class="app-icon" aria-hidden="true">
         <img src="app_icon.jpg" alt="원서한권 앱 아이콘">
@@ -221,15 +243,12 @@
       </div>
     </header>
 
-    <!-- 본문: 샘플 이미지 + 소개 + 다운로드 -->
     <section class="content" aria-label="앱 소개">
       <div class="left">
-        <!-- 샘플 이미지 (중앙 배치) -->
         <div class="sample-card" aria-hidden="false">
           <img src="app_sample.jpg" alt="원서한권 앱 샘플 이미지">
         </div>
 
-        <!-- 소개 문구 -->
         <div class="description" aria-label="앱 특징">
           <p>• 영어원서를 읽는것은 영어를 공부하는 방법중에 가장 효율적인 방법 입니다.</p>
           <p>• 백설공주 같은 어린이 동화 부터 칼리지보드 추천서 까지 영어원서로 된 도서를 모두 무료로 읽을수 있어요.</p>
@@ -238,7 +257,6 @@
         </div>
       </div>
 
-      <!-- 우측: 다운로드 버튼 + 간단 메타 -->
       <aside class="right" aria-label="다운로드">
         <div class="download" role="region" aria-labelledby="download-title">
           <h3 id="download-title">지금 다운로드하세요</h3>
@@ -258,7 +276,7 @@
           <div style="font-size:0.95rem; color:var(--muted); line-height:1.6">
             <div><strong>앱 이름:</strong> 원서한권</div>
             <div><strong>제공자:</strong> Exceed Ventures</div>
-            <div><strong>지원 언어:</strong> 한국어, 영어</div>
+
           </div>
         </div>
       </aside>
