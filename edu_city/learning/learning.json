@@ -1,5 +1,11 @@
 [
 	{
+		"title":"6 Minute English",
+		"category":"english",
+		"description":"BBC 에서 제작하는 중급자용 영어 자료, 음성 팟캐스트 이며 매주 새로운 에피소드가 발행됩니다.",
+		"link":"https://www.bbc.co.uk/learningenglish/english/features/6-minute-english"
+	},
+	{
 		"title":"BBC 이지 잉글리시",
 		"category":"english",
 		"description":"BBC 에서 제작하는 초급자용 영어회화 자료, 영상으로 보는 팟캐스트 이며 매주 새로운 에피소드가 발행됩니다.",
