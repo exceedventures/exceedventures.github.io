@@ -142,5 +142,87 @@
     {
     "title": "SJA - Last Day of School (Half Day Students)",
     "start": "2026-06-11"
+    },
+
+    {
+        "title": "SJA - New Boarding Students Move-In Day",
+        "start": "2026-08-08"
+    },
+    {
+        "title": "SJA - Returning Boarding Students Move-In Day",
+        "start": "2026-08-09"
+    },
+    {
+        "title": "SJA - First Day of School (Special Schedule), Start of Semester 1",
+        "start": "2026-08-10"
+    },
+    {
+        "title": "SJA - Late Start Wednesday (School Starts at 10:15)",
+        "start": "2026-08-12"
+    },
+
+    {
+        "title": "SJA - Chuseok Holiday",
+        "start": "2026-09-19",
+        "end": "2026-09-27"
+    },
+
+    {
+        "title": "SJA - ES/MS/HS Fall Parent Teacher Conference",
+        "start": "2026-10-16"
+    },
+
+    {
+        "title": "SJA - Fall Break",
+        "start": "2026-10-31",
+        "end": "2026-11-08"
+    },
+
+    {
+        "title": "SJA - Winter Break",
+        "start": "2026-12-19",
+        "end": "2027-01-10"
+    },
+    {
+        "title": "SJA - End of Semester 1",
+        "start": "2027-01-15"
+    },
+    {
+        "title": "SJA - Start of Semester 2",
+        "start": "2027-01-18"
+    },
+
+    {
+        "title": "SJA - Seollal Break",
+        "start": "2027-02-06",
+        "end": "2027-02-14"
+    },
+
+    {
+        "title": "SJA - March Break",
+        "start": "2027-03-20",
+        "end": "2027-03-28"
+    },
+
+    {
+        "title": "SJA - ES/MS/HS Spring Parent Teacher Conference",
+        "start": "2027-04-09"
+    },
+    {
+        "title": "SJA - Spring Break",
+        "start": "2027-04-24",
+        "end": "2027-05-01"
+    },
+
+
+    {
+        "title": "SJA - Graduation Day",
+        "start": "2027-05-29"
+    },
+
+    {
+        "title": "SJA - Last Day of School (Half Day for students)",
+        "start": "2027-06-11"
     }
+
   ]
