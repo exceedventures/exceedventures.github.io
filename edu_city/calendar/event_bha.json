@@ -56,5 +56,55 @@
     {
       "title": "BHA - Graduation",
       "start": "2026-05-23"
-    }
+    },
+
+    {
+      "title": "BHA - New Boarding Student Arrival",
+      "start": "2026-08-02"
+    },
+    {
+      "title": "BHA - Returning Boarding Student Arrival",
+      "start": "2026-08-03"
+    },
+    {
+      "title": "BHA - First Day of School",
+      "start": "2026-08-04"
+    },
+    {
+      "title": "BHA - Chuseok Break",
+      "start": "2026-09-19",
+      "end": "2026-09-29"
+    },
+    {
+      "title": "BHA - Fall Break",
+      "start": "2026-10-31",
+      "end": "2026-11-08"
+    },
+    {
+      "title": "BHA - December Break",
+      "start": "2026-12-12",
+      "end": "2027-01-03"
+    },
+    {
+      "title": "BHA - Semester 2 Starts",
+      "start": "2027-01-25"
+    },
+    {
+      "title": "BHA - Lunar New Year Break",
+      "start": "2027-02-04",
+      "end": "2027-02-14"
+    },
+    {
+      "title": "BHA - Spring Break",
+      "start": "2027-04-03",
+      "end": "2027-04-11"
+    },
+    {
+      "title": "BHA - Graduation",
+      "start": "2027-05-22"
+    },
+    {
+      "title": "BHA - Student Last Day",
+      "start": "2027-06-04"
+    }    
   ]
