@@ -1,10 +1,5 @@
 [
     {
-        "title":"단어킹",
-        "img":"https://exceedventures.github.io/promotion/wordking/wordking_banner2.jpg",
-        "link":"https://exceedventures.github.io/promotion/wordking/index.html"
-    },
-    {
         "title":"원서한권",
         "img":"https://exceedventures.github.io/promotion/onebook/onebook_banner5.jpg",
         "link":"https://exceedventures.github.io/promotion/onebook/index.html"
@@ -13,11 +8,5 @@
         "title":"코큐텐",
         "img":"https://exceedventures.github.io/promotion/coq10/coq10_banner8.jpg",
         "link":"https://exceedventures.github.io/promotion/coq10/index.html"
-    },
-    {
-        "title":"ktm모바일",
-        "img":"https://exceedventures.github.io/promotion/ktm/ktm_banner.jpg",
-        "link":"http://www.ktmmobile.com/m/event/eventDetail.do?ntcartSeq=866&sbstCtg=E&pageNo=1&recommend=A6678"
-
-    }        
+    }     
 ]

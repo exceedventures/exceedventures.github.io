@@ -13,16 +13,5 @@
         "title":"코큐텐",
         "img":"https://exceedventures.github.io/promotion/coq10/coq10_banner8.jpg",
         "link":"https://exceedventures.github.io/promotion/coq10/index.html"
-    },
-    {
-        "title":"ktm모바일",
-        "img":"https://exceedventures.github.io/promotion/ktm/ktm_banner.jpg",
-        "link":"http://www.ktmmobile.com/m/event/eventDetail.do?ntcartSeq=866&sbstCtg=E&pageNo=1&recommend=A6678"
-
-    },
-    {
-        "title":"윈세프",
-        "img":"https://exceedventures.github.io/promotion/winsef/winsef_banner.jpg",
-        "link":"https://exceedventures.github.io/promotion/winsef/index.html"
-    }    
+    }
 ]
