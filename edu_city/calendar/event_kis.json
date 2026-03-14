@@ -189,5 +189,52 @@
   {
     "start": "2026-06-12",
     "title": "KIS - Last Day of School / Early Dismissal for Students"
-  }
+  },
+
+  { "start": "2026-08-09", "title": "KIS - Boarding Students Arrive" },
+  { "start": "2026-08-10", "title": "KIS - First Day of School" },
+  { "start": "2026-08-15", "title": "KIS - SAT at KISJ" },
+  { "start": "2026-08-17", "title": "KIS - Liberation Day Observed (No School)" },
+  { "start": "2026-08-28", "title": "KIS - Late Start for Students (10 AM) / Faculty PD" },
+
+  { "start": "2026-09-02", "title": "KIS - Parent Information Night (ES)" },
+  { "start": "2026-09-03", "title": "KIS - Parent Information Night (MS/HS)" },
+  { "start": "2026-09-12", "title": "KIS - SAT at KISJ" },
+  { "start": "2026-09-19", "end": "2026-09-28", "title": "KIS - Chuseok Holiday (No School)" },
+  { "start": "2026-09-28", "title": "KIS - PD Day (No Students)" },
+
+  { "start": "2026-10-03", "title": "KIS - National Foundation Day (Korean Holiday)" },
+  { "start": "2026-10-16", "title": "KIS - End of Quarter 1 (Early Dismissal for Students)" },
+  { "start": "2026-10-30", "title": "KIS - Fall Festival, Late Start for Students (10 AM)" },
+
+  { "start": "2026-10-31", "end": "2026-11-09", "title": "KIS - Fall Break (No School)" },
+  { "start": "2026-11-27", "title": "KIS - Late Start for Students (10 AM) / Faculty PD" },
+
+  { "start": "2026-12-05", "title": "KIS - SAT at KISJ" },
+  { "start": "2026-12-18", "title": "KIS - Last Day of Semester 1 (Early Dismissal)" },
+  { "start": "2026-12-19", "end": "2027-01-10", "title": "KIS - Winter Break (No School)" },
+
+  { "start": "2027-01-11", "title": "KIS - Start of Semester 2 / Late Start (10 AM)" },
+  { "start": "2027-01-18", "title": "KIS - Martin Luther King Jr. Day" },
+  { "start": "2027-01-29", "title": "KIS - Late Start for Students (10 AM) / Faculty PD" },
+
+  { "start": "2027-02-06", "end": "2027-02-14", "title": "KIS - Lunar New Year Break" },
+  { "start": "2027-02-26", "title": "KIS - Late Start for Students (10 AM) / Faculty PD" },
+
+  { "start": "2027-03-01", "title": "KIS - Independence Day (Korean Holiday)" },
+  { "start": "2027-03-02", "title": "KIS - PD Day (No Students)" },
+  { "start": "2027-03-13", "title": "KIS - SAT at KISJ" },
+  { "start": "2027-03-19", "title": "KIS - End of Quarter 3 (Early Dismissal)" },
+  { "start": "2027-03-26", "title": "KIS - Late Start for Students (10 AM) / Faculty PD" },
+
+  { "start": "2027-04-03", "end": "2027-04-11", "title": "KIS - Spring Break" },
+  { "start": "2027-04-30", "title": "KIS - Late Start for Students (10 AM) / Faculty PD" },
+
+  { "start": "2027-05-01", "title": "KIS - SAT at KISJ" },
+  { "start": "2027-05-03", "end": "2027-05-14", "title": "KIS - AP Testing" },
+  { "start": "2027-05-22", "title": "KIS - High School Graduation (Teacher Work Day)" },
+  { "start": "2027-05-28", "title": "KIS - Late Start for Students (10 AM) / Faculty PD" },
+
+  { "start": "2027-06-11", "title": "KIS - Last Day of School (Early Dismissal)" }
+
 ]
