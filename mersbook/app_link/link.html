@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    function redirect() {
+      var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+      // iOS
+      if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+        window.location.href = "https://apps.apple.com/kr/app/%EB%A9%94%EB%A5%B4%EC%9D%98%EC%A7%80%EC%8B%9D%ED%95%9C%EA%B6%8C/id6730119514";
+      }
+      // Android
+      else if (/android/i.test(userAgent)) {
+        window.location.href = "https://play.google.com/store/apps/details?id=co.kr.exceedventures.mersbook";
+      }
+      // 기타 (PC 등)
+      else {
+        document.getElementById("fallback").style.display = "block";
+      }
+    }
+  </script>
+</head>
+<body onload="redirect()">
+
+<div id="fallback" style="display:none; text-align:center; margin-top:50px;">
+  <h2>앱을 다운로드하세요</h2>
+  <p>
+    <a href="https://apps.apple.com/kr/app/%EB%A9%94%EB%A5%B4%EC%9D%98%EC%A7%80%EC%8B%9D%ED%95%9C%EA%B6%8C/id6730119514">App Store</a><br><br>
+    <a href="https://play.google.com/store/apps/details?id=co.kr.exceedventures.mersbook">Google Play</a>
+  </p>
+</div>
+
+</body>
+</html>
