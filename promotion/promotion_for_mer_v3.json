@@ -1,0 +1,19 @@
+[
+    {
+        "title":"원서한권",
+        "img":"https://exceedventures.github.io/promotion/onebook/onebook_banner5.jpg",
+        "link":"https://exceedventures.github.io/onebook/app_link/link.html"
+    },
+    {
+        "title":"코큐텐",
+        "img":"https://exceedventures.github.io/promotion/coq10/coq10_banner8.jpg",
+        "link":"https://blog.naver.com/qola/224249075096",
+        "item_link":"https://link.coupang.com/a/emOc70"
+    },   
+    {
+        "title":"배너광고",
+        "img":"https://raw.githubusercontent.com/exceedventures/exceedventures.github.io/main/edu_city/banner/banner_ad.jpg",
+        "link":"https://blog.naver.com/exven/224241939398"
+    }       
+    
+]
