@@ -1,0 +1,155 @@
+단어학습 >
+* microbiologist — 미생물학자
+* outbreak — (질병) 발생
+* paralyze — 마비시키다
+* bacterium — 세균
+* organism — 유기체
+* toxin — 독소
+* disperse — 살포하다, 퍼뜨리다
+* inhale — 흡입하다
+* respiratory — 호흡의
+* dilute — 희석하다
+* strabismus — 사시
+* neurotransmitter — 신경전달물질
+* acetylcholine — 아세틸콜린
+* arrhythmia — 부정맥
+* pharmaceutical — 제약의
+* manufacturer — 제조업체
+* patent — 특허
+* clinical — 임상의
+* dispute — 분쟁
+* lawsuit — 소송
+* allegation — 주장, 혐의
+* derive from — ~에서 유래하다
+* thrive — 번성하다
+* multiply — 번식하다
+* reveal — 밝혀내다
+* eliminate — 제거하다
+* exposure — 노출
+* oxidation — 산화
+* effectiveness — 효과
+* unpredictably — 예측 불가능하게
+* limitation — 한계
+* obstacle — 장애물
+* precise — 정밀한
+* ban — 금지하다
+* possess — 보유하다
+* isolate — 분리하다
+* smuggle — 밀반입하다
+* reckless — 무모한
+* probability — 확률
+* identical — 동일한
+* catastrophic — 재앙적인
+* persistent — 끈질긴
+* intense — 치열한
+* expand — 확장되다
+* surge — 급증하다
+* alleviate — 완화하다
+* excessive — 과도한
+* drawback — 단점
+* advantage — 장점
+* cost-effective — 가성비가 좋은
+
+
+It seems like it’s time for some “after-service,” so I’ve put together a summary.
+
+In 1895, a Belgian microbiologist investigated a mass outbreak of food poisoning at a rural funeral.
+Many people had died after eating spoiled sausages, as their muscles became paralyzed.
+The condition was named “botulism,” derived from the Latin word Botulus, meaning sausage.
+
+During the investigation, the microbiologist discovered a bacterium believed to be the cause of the outbreak.
+It was an organism that thrives in oxygen-free environments and multiplies in foods like sausages and canned goods.
+Because it was discovered while studying botulism, it was named botulinum.
+
+Further research revealed just how dangerous this bacterium is.
+It was found that dispersing just 1 gram into the air could kill 1.5 million people, and 4 kilograms could potentially wipe out humanity.
+In terms of toxicity alone, it is considered a “dream-level” biological weapon, which is why the U.S. Army began researching it as a bioweapon in 1944.
+
+Although botulinum is considered an ideal biochemical weapon by terrorist groups, it has never been used due to practical limitations.
+To be weaponized, it must be effectively dispersed in the air, which is far more difficult than it sounds.
+It’s not as simple as spraying it with a nozzle—there are many obstacles.
+
+Botulinum toxin is not a living organism but a protein, making it highly sensitive to environmental changes.
+Exposure to sunlight quickly destroys its protein structure, eliminating its toxicity, and contact with oxygen causes oxidation, reducing its effectiveness.
+Since it can drift unpredictably in the wind, it cannot be used as a precise weapon targeting only enemies.
+It’s best understood simply as an extremely potent toxin.
+
+When inhaled, botulinum can paralyze respiratory muscles, preventing breathing and leading to death.
+
+At one point, an American doctor wondered whether its muscle-paralyzing properties could be weakened and used as medicine.
+By heavily diluting the toxin, it was used to treat strabismus (crossed eyes).
+Further research led to the idea of using it for wrinkle treatment.
+
+By paralyzing the muscles around wrinkles, it smooths them out.
+This led to the commercialization of Botox, which received approval from the U.S. FDA.
+
+The method of producing Botox was published in academic papers in the 1970s, and since the patent has expired, it is not particularly difficult to manufacture Botox if botulinum is available.
+
+However, the bacterium itself is extremely dangerous.
+In 1974, the United Nations banned its transfer between countries.
+This is why only about eight countries in the world possess botulinum strains: the United States, Germany, China, Russia, Israel, France, Japan, and South Korea.
+
+Despite this, Korean companies began to emerge in the 1990s to produce Botox using this rare and dangerous bacterium.
+There are now eight Botox manufacturers in Korea, and including companies conducting clinical research, about 21 organizations possess botulinum strains.
+
+Among them, a company called Medytox has a relatively clear origin story.
+A botulinum research team at the University of Wisconsin successfully isolated the bacterium in 1908.
+It is said that a Korean researcher, Dr. Yang Gyu-hwan, brought the strain back to Korea in his bag after studying there.
+Smuggling such a dangerous organism on a plane could be seen as reckless bravery.
+
+Another company, Hugel, claimed to have discovered the bacterium in canned beans in 2002.
+Competitors argue this is unlikely, as modern canned foods are thoroughly sterilized.
+
+Daewoong Pharmaceutical reported discovering the bacterium in soil near livestock facilities.
+Rivals claim the probability of such a discovery is as unlikely as lightning striking the same place multiple times.
+
+There are tens of thousands of botulinum strains worldwide, yet the strain used by Daewoong is said to be nearly identical to Medytox’s.
+Medytox questions how such an identical strain could have been found, while Daewoong argues it is simply a common strain.
+
+The legal dispute between Medytox and Daewoong centers on allegations that a former employee stole botulinum strains and manufacturing technology and provided them to Daewoong.
+While such lawsuits between pharmaceutical companies are not unusual, the real concern is whether such dangerous materials could be obtained through improper channels.
+If control fails, it could lead to catastrophic consequences.
+
+This is why in Korea, the National Intelligence Service, rather than just regulators or police, is involved in investigating the origins of botulinum strains.
+
+There is also a hidden reason behind the intense competition among Botox companies.
+
+In 1992, a plastic surgeon in the United States noticed that patients receiving Botox for wrinkle treatment also experienced reduced headaches.
+The pharmaceutical company Allergan later proved that Botox could alleviate chronic migraines, leading to FDA approval.
+
+Botox was also found effective for treating overactive bladder, a condition causing frequent urination and incontinence.
+Additionally, it was approved for treating excessive sweating (hyperhidrosis).
+
+Muscles move when they receive signals from a neurotransmitter called acetylcholine.
+Botox blocks this signal, making it effective for conditions involving involuntary muscle movement.
+
+Ongoing research continues in several areas.
+One study by the University of Rochester Medical Center is exploring whether Botox can prevent arrhythmia after heart surgery.
+
+Other studies suggest potential use for premature ejaculation.
+In the U.S., doctors can prescribe drugs off-label, meaning Botox is already being used experimentally for conditions like dementia, depression, drooling, and teeth grinding.
+
+There is a view that the fierce legal battles among manufacturers are driven by the discovery of these expanding medical applications.
+
+In the U.S., Botox is primarily used for treatment, whereas in Korea, over 90% is used for cosmetic purposes.
+If medical use expands in Korea, sales for manufacturers could surge significantly.
+
+Botox does have limitations.
+It does not cure diseases but temporarily paralyzes muscles, with effects lasting from three months to about a year.
+This is a drawback, but also a major advantage for pharmaceutical companies, as patients must return for repeat treatments.
+
+The bacterium is so potent that just 0.1 grams can produce decades’ worth of Botox, making it extremely cost-effective.
+
+Pain from injections remains a barrier, but research is ongoing into topical Botox and longer-lasting next-generation treatments.
+
+Legal battles that began in 2016 are still ongoing.
+Medytox and Hugel’s dispute has largely concluded in favor of Hugel at the U.S. ITC, while Medytox and Daewoong’s case is still progressing and may take years to reach a final decision.
+
+These disputes have prompted Korean authorities to strengthen regulations on strain registration, management, and origin tracking.
+
+Stronger oversight is a positive development.
+By 2025, 2 million foreign patients are expected to spend 12 trillion KRW in Korean hospitals, with Botox-based lifting procedures becoming a key offering.
+Due to intense competition, pricing has become highly competitive, making Botox treatments a “must-do” procedure for visitors to Korea.
+
+One-line comment:
+As long as strict management is maintained, Botox has strong market potential. The outcome of ongoing legal battles among pharmaceutical companies will be worth watching.
