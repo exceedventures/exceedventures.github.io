@@ -1,0 +1,74 @@
+단어학습 >
+* burden — 부담
+* deduct — 공제하다
+* withhold — 원천징수하다
+* earned income tax — 근로소득세
+* local income tax — 지방소득세
+* taxable income — 과세소득
+* marginal tax rate — 한계세율
+* effective rate — 실효세율
+* tax bracket — 세율 구간
+* national pension — 국민연금
+* contribution — 납부금
+* diminish — 감소하다
+* negligible — 미미한
+* dividend — 배당금
+* interest — 이자
+* comprehensive income taxation — 종합과세
+* obligation — 의무
+* pile up — 쌓이다
+* persistent — 끈질긴
+* consent — 동의
+* favorable — 유리한
+* significant — 중요한, 상당한
+* boast — 자랑하다
+* backfire — 역효과가 나다
+
+
+
+Since it’s the weekend, this is a light topic.
+
+There are rumors that employees at Samsung Electronics and SK Hynix could receive performance bonuses of around 1.5 billion KRW next year.
+
+As income increases, the tax burden rises quickly.
+Although the bonus would likely be paid as a lump sum at the beginning of the year, let’s assume it is distributed evenly over 12 months and calculate what would be deducted in taxes and other charges.
+
+If 1.5 billion KRW is divided over 12 months, the monthly income would be about 125 million KRW.
+Out of that, approximately 50.2 million KRW would be withheld each month as earned income tax.
+On top of that, local income tax—10% of the income tax—adds another 5.02 million KRW.
+
+For taxable income exceeding 1 billion KRW, the top marginal tax rate of 45% applies, and when including local income tax (10% of income tax), the effective rate becomes 49.5%.
+While 49.5% of 125 million KRW is about 61.87 million KRW, the actual tax comes out to around 55.22 million KRW due to lower rates applied to lower tax brackets.
+
+The national pension contribution is lower than expected.
+There is a cap, so no matter how high the salary is, the monthly contribution is limited to about 310,000 KRW.
+Among all deductions, this is relatively favorable.
+
+Aside from income tax, insurance premiums are also significant.
+Health insurance (3.595% of income) would be about 4.49 million KRW per month, and long-term care insurance (13.14% of the health insurance premium) adds another 590,000 KRW.
+Employment insurance (0.9% of income) would also deduct about 1.12 million KRW.
+
+With a monthly income of 125 million KRW, a total of about 61.74 million KRW would be withheld for taxes and insurance, leaving a net income of roughly 63.26 million KRW.
+In other words, about half of the income goes to taxes and insurance.
+
+You might think that tax deductions could reduce this burden, but once income exceeds a certain level, the impact of deductions diminishes.
+Even if you receive deductions worth a few hundred thousand KRW, the effect becomes negligible, and some deductions become harder to qualify for.
+
+For example, once income exceeds a certain threshold, it becomes difficult to benefit from credit card spending deductions, so many people give up on them.
+These deductions only begin when credit card spending exceeds 25% of income.
+That means you would need to consistently spend over 31.25 million KRW per month on a credit card just to qualify.
+
+There are also considerations beyond earned income.
+You may invest leftover money in dividend-paying stocks or place it in savings.
+However, if dividend income or interest income exceeds 20 million KRW, it becomes subject to comprehensive income taxation at the top rate (49.5%), and additional health insurance premiums are imposed.
+
+In short, more and more deductions and obligations begin to pile up.
+You may also receive more requests for donations than expected.
+In some cases, people may even send handmade items like soap without prior consent and then ask for donations.
+They can be surprisingly persistent.
+
+Lastly, it’s worth remembering that in Korean society, standing out too much can invite trouble.
+It’s wise to avoid excessive boasting and to be mindful of envy and jealousy from others.
+
+One-line comment:
+Once your income exceeds a certain level, you can assume that about half of your salary will go toward taxes and insurance. This is a good opportunity to fully realize how significant these burdens can be. Personally, I think it’s fine whether these individuals earn 1 billion or 1.5 billion KRW. Cases like this can encourage some talent to choose science and engineering over medical school. However, I’d prefer not to see excessive demands. Looking greedy ultimately backfires.
