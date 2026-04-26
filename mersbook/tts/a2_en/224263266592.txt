@@ -1,0 +1,85 @@
+어휘 정리
+* sufficient : 충분한
+* asteroid : 소행성
+* lumpy : 울퉁불퉁한
+* composition : 구성, 성분
+* orbit (verb) : 궤도를 돌다
+* quintillion : 100경 (10¹⁸)
+* collision : 충돌
+* formation : 형성
+* feasibility : 실현 가능성
+* in-situ : 현지의
+* facility : 시설
+* concentration : 농도
+* ingot : 금속 덩어리(주괴)
+* altitude : 고도
+* recover : 회수하다
+* comet : 혜성
+* malfunction : 고장
+* setback : 좌절, 실패
+* precious metals : 귀금속
+
+
+Since it’s Friday night, here’s something light.
+
+On May 15, 2026, NASA’s Psyche spacecraft is scheduled to arrive near Mars and begin a gravity assist maneuver.
+A gravity assist is a technique used to increase a spacecraft’s speed by using a planet’s gravity, since it cannot carry enough fuel to travel deep into space on its own.
+It works like throwing a ball toward an oncoming train—the ball rebounds at high speed, gaining energy from the train’s motion.
+
+The Psyche spacecraft was launched in October 2023 aboard SpaceX’s Falcon Heavy rocket, and its destination is the asteroid Psyche.
+This asteroid, shaped somewhat like a lumpy potato and about the size of Korea’s Gyeongsang region, is located approximately 512.6 million kilometers from Earth.
+
+Asteroids are broadly classified into three types based on their composition: C-type (carbon-rich), S-type (rocky), and M-type (metal-rich).
+About 75% of asteroids are C-type, while only 38 out of roughly 1.5 million known asteroids in the solar system are M-type.
+
+Psyche is the largest of these 38 M-type asteroids, essentially making it a massive chunk of metal.
+
+The spacecraft is expected to arrive at Psyche in August 2029 and will orbit it for 26 months, sending various data back to Earth.
+The estimated value of the metals contained in Psyche is said to be around $1 quintillion.
+That amount is enough to pay off the U.S.
+national debt of $34 trillion about 294,117 times.
+
+Unlike most asteroids, which are primarily composed of rock or ice, Psyche consists largely of metals such as gold, platinum, nickel, and iron.
+Scientists believe it may be the exposed core of a protoplanet that lost its outer layers (mantle) due to massive collisions during the early formation of the solar system.
+
+By studying Psyche, scientists hope to gain insights into the composition of Earth’s core.
+
+Of course, the mission is not just about observation and research despite its $1.2 billion cost.
+Another goal is to evaluate the feasibility of in-situ resource utilization (ISRU)—mining metals directly on the asteroid and using them as construction materials for facilities such as Mars bases.
+
+Efforts to mine resources from near-Earth asteroids are also underway separately from the Psyche mission.
+In January 2022, former scientists from SpaceX, NASA, and Virgin Orbit founded AstroForge.
+AstroForge aims to mine platinum-group metals such as platinum and palladium from asteroids and bring them back to Earth by 2032.
+
+Even a relatively small M-type asteroid the size of a soccer field is said to contain about $50 billion worth of platinum-group metals.
+
+Among various metals, platinum was chosen for its cost-effectiveness.
+Its annual production is less than one-tenth that of gold, making it rare and essential for advanced industries.
+While it is scarce on Earth, it is often found in much higher concentrations on asteroids.
+
+Another reason for choosing platinum is its high melting point—1,768°C compared to gold’s 1,064°C.
+
+The plan is to refine the mined platinum aboard a spacecraft into high-purity ingots weighing 20–30 kg, place them in capsules, and send them back to Earth.
+The capsules would deploy parachutes at an altitude of 10 km, slow down, land in the ocean, and then be recovered using tracking devices.
+
+China launched the Tianwen-2 mission on May 28, 2025, aboard a Long March 3B rocket.
+This mission is heading to the near-Earth asteroid Kamoʻoalewa to collect samples and return them.
+
+While Psyche is over 500 million kilometers away, Kamoʻoalewa is only about 15 million kilometers from Earth, making it much quicker to reach.
+
+Tianwen-2 is expected to arrive at the asteroid in June 2026, collect samples, and send them back to Earth.
+However, the spacecraft itself will not return.
+After dropping the sample capsule to Earth, it will accelerate again and proceed to explore comet 311P/PANSTARRS between Mars and Jupiter as part of a “1+1” mission.
+
+AstroForge, the leading private asteroid mining company in the United States, has faced repeated failures.
+Its first spacecraft, launched in April 2023, failed to conduct in-space refining experiments due to communication issues.
+Its second spacecraft, launched in February 2025, also lost contact shortly after launch due to a technical malfunction.
+
+A third spacecraft is planned for launch in the second half of 2026, with the goal of actually landing on an asteroid.
+
+AstroForge operates under the motto “fail fast, fail often,” launching spacecraft annually and continuing its efforts despite setbacks.
+
+One-line comment:
+In the U.S., private companies are leading asteroid resource development, while in China, the government is taking the lead.
+It may not be the immediate future, but by the 2030s, we might start seeing precious metals mined from asteroids.
+Since industries like this can evolve unpredictably, it’s worth keeping an eye on them from time to time.
