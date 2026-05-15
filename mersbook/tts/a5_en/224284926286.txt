@@ -1,3 +1,49 @@
+
+ aggressive : 공격적인
+ blindly : 맹목적으로
+ reasoning : 추론, 판단 근거
+ institutional : 기관의
+ restrictions : 제한
+ exceptional : 뛰어난, 예외적인
+ instinctive : 본능적인
+ liquidity : 유동성
+ diversified : 분산된, 다각화된
+ allocation : 자산 배분.
+ equities : 주식
+ publicly listed : 상장된
+ winner-takes-all : 승자독식의
+ effectively : 사실상, 효과적으로
+ providers : 공급자들
+ competence : 역량
+ reflecting : 되돌아보다
+ fascinating : 매혹적인
+ fascinated : 매료된
+ unrealized gains : 평가이익
+ institutional investors : 기관투자자.
+ favorable : 유리한
+ drought : 가뭄
+ horizon : 기간, 시계(투자 기간)
+ discipline : 절제, 규율
+ voluntarily : 자발적으로
+ probability : 확률
+ comparison : 비교
+ intuition : 직감
+ securities : 증권
+ volatility : 변동성
+ conviction : 확신
+ resilience : 회복력
+ fundamentals : 기초체력, 펀더멘털.
+ speculation : 투기
+ profitable : 수익성 있는
+ innovation : 혁신
+ uncertainty : 불확실성
+ recession : 경기 침체
+ correlation : 상관관계
+ underestimate : 과소평가하다
+ overestimate : 과대평가하다
+
+
+
 < Mer’s Investment Advice… The Article Has Been Published. >
 
 연합 published an article.
@@ -181,47 +227,4 @@ One-line comment:
 It feels a little cringe-worthy.
 
 
-
- aggressive : 공격적인
- blindly : 맹목적으로
- reasoning : 추론, 판단 근거
- institutional : 기관의
- restrictions : 제한
- exceptional : 뛰어난, 예외적인
- instinctive : 본능적인
- liquidity : 유동성
- diversified : 분산된, 다각화된
- allocation : 자산 배분.
- equities : 주식
- publicly listed : 상장된
- winner-takes-all : 승자독식의
- effectively : 사실상, 효과적으로
- providers : 공급자들
- competence : 역량
- reflecting : 되돌아보다
- fascinating : 매혹적인
- fascinated : 매료된
- unrealized gains : 평가이익
- institutional investors : 기관투자자.
- favorable : 유리한
- drought : 가뭄
- horizon : 기간, 시계(투자 기간)
- discipline : 절제, 규율
- voluntarily : 자발적으로
- probability : 확률
- comparison : 비교
- intuition : 직감
- securities : 증권
- volatility : 변동성
- conviction : 확신
- resilience : 회복력
- fundamentals : 기초체력, 펀더멘털.
- speculation : 투기
- profitable : 수익성 있는
- innovation : 혁신
- uncertainty : 불확실성
- recession : 경기 침체
- correlation : 상관관계
- underestimate : 과소평가하다
- overestimate : 과대평가하다
 
