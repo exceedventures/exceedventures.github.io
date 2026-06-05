@@ -1,0 +1,108 @@
+prediction	예측	
+apparently	겉보기에, 알려진 바에 따르면	
+venue	행사 장소.	
+amusing	재미있는	
+representative	대표자	
+ntense	강렬한	
+implies	암시하다, 의미하다.	
+bonded	유대가 강한	
+interpreted	해석되다.	
+economic downturn	경기 침체	
+equivalent	동등한 것, 상당하는 것	
+establishments	업소, 시설	
+craving	갈망하는	
+marinated	양념에 재운	
+removed from	~에서 떨어진	
+executives	임원들	
+cautious	조심하는	
+slipping	하락하는, 약세를 보이는	
+pick up the bill	비용을 계산하다, 밥값을 내다.	
+carry symbolic meaning	상징적 의미를 지니다	
+hand over	넘겨주다	
+company dinner	회식
+interact directly with : ~와 직접 소통하다.
+
+
+
+
+The Secret Behind Jensen Huang’s Company Dinner (feat. “Hyungnim, Me!”)
+
+I previously commented on Jensen Huang’s gathering at a Korean pork belly restaurant in Seongsu-dong as follows:
+
+News reports were saying that Jensen Huang would have a pork belly dinner meeting in Seongsu-dong on the 5th with major Korean business leaders, including Chey Tae-won (SK), Chung Eui-sun (Hyundai Motor), Koo Kwang-mo (LG), and Lee Hae-jin (Naver).
+
+This time, instead of Kkanbu Chicken, it seems that pork belly and bomb shots (soju mixed with beer) will be the main topic of discussion.
+
+One-line comment: I had guessed it based on his appearance at the Doosan Bears’ ceremonial first pitch, and it seems I wasn’t wrong. My recent “brain-powered predictions” have had a surprisingly high batting average. If it’s pork belly in Seongsu-dong, Jamsoo Bridge House would be the obvious choice—but the name feels a little awkward. It makes me wonder, “Which restaurant will they choose?” and “Who will be in charge of grilling the pork?”
+
+Today, it seems the restaurant has finally been confirmed.
+
+Apparently, considering transportation routes and security concerns, the venue was changed from Seongsu-dong to Hongdae.
+
+The location is a restaurant called “Hyungnim, Me!” near Hongik University Station.
+
+In my earlier one-line comment, I mentioned that “Jamsoo Bridge House sounds a bit awkward.”
+
+The word jamsoo literally means “diving underwater,” which doesn’t give the best impression when viewed from a corporate perspective.
+
+As for “Hyungnim, Me!”, I’m not sure who exactly the “hyungnim” (big brother) is, but it’s certainly a memorable and amusing name.
+
+I wonder whether the message is:
+
+“Big brother, please sell some GPUs to me,”
+
+or
+
+“Brothers, please buy some of our GPUs.”
+
+When Jensen Huang had dinner with representatives of Korean companies in Taiwan, the venue was a place called Rechao (熱炒).
+
+The Chinese characters mean “hot stir-fry.”
+
+It refers to dishes made by quickly stir-frying ingredients such as garlic, chili peppers, basil, seafood, and meat over intense heat before serving them immediately.
+
+In Taiwan, if someone says, “He’s part of my Rechao group,” it implies a close, comfortable, and tightly bonded relationship.
+
+Just as Kkanbu Chicken carried symbolic meaning, choosing a Rechao restaurant for a company dinner could be interpreted as saying:
+
+“Let’s stick together tightly and passionately—centered around NVIDIA.”
+
+Rechao restaurants first gained popularity during economic downturns in Taiwan as representative “100 New Taiwan Dollar pubs.”
+
+Since 100 New Taiwan Dollars is roughly equivalent to 4,500 Korean won, these establishments offered inexpensive, simple dishes for around that price per plate, making them popular among ordinary people.
+
+Likewise, “Hyungnim, Me!”, where pork belly is sold for around 14,000 won even in Hongdae, is not considered an expensive restaurant.
+
+According to reports, Naver has agreed to pick up the bill.
+
+Usually, the person paying is the “hyungnim,” but that doesn’t seem to be the case this time.
+
+One advantage of “Hyungnim, Me!” is the open space directly in front of the restaurant where people can gather.
+
+It seems well suited to Jensen Huang’s style, as he enjoys interacting directly with people at events.
+
+Personally, when I’m in the Hongdae area and craving meat, I usually go to Cheonggiwa Galbi.
+
+A good combination is to start with premium Korean beef short ribs and then move on to marinated pork ribs.
+
+Back when company dinners were a regular occurrence, I held quite a few gatherings there.
+
+There are also decent group-dinner barbecue spots in Yeouido, such as Minso and Warehouse, but I generally prefer venues outside Yeouido.
+
+Cheonggiwa is just across Yanghwa Bridge, making it easy to reach while still feeling removed from the business district. And beef is always a safe choice for a company dinner.
+
+My usual routine was to start the dinner at 6 p.m. and leave with the team leaders before 7 p.m.
+
+As I handed over the corporate credit card, I would usually say something like:
+
+“The official company dinner ends here. Anyone who wants to go home can do so, and anyone who wants to continue to a second round is welcome. Just make sure the company card is used before 9 p.m.”
+
+I always felt it was better to hand over the corporate card and leave quickly with the managers.
+
+To me, a company dinner is not a place where senior executives deliver lectures or speeches.
+
+It’s a place where coworkers can freely share the thoughts and conversations they normally don’t get to have during work hours.
+
+One-line comment:
+
+I warned that we should be cautious after the election, and as expected, the market started slipping yesterday. Still, Friday night is here. Maybe this weekend I’ll head over to Yanghwajeong near Hapjeong Station and enjoy some grilled pork ribs.
