@@ -1,0 +1,195 @@
+organize : 정리하다
+implant : 이식(하다)
+paralysis : 마비
+spinal cord : 척수
+electrode : 전극
+motor cortex : 운동 피질
+capture : 포착하다
+transmit : 전달하다
+neuron : 신경세포
+theoretically : 이론적으로
+impractical : 비현실적인
+dedicated : 전용의
+precision : 정밀성
+surpass : 뛰어넘다
+surgeon : 외과의사
+procedure : 시술, 절차
+lasting : 지속적인
+inherently : 본질적으로
+craniotomy : 개두술
+restore : 복원하다
+quadriplegic : 사지마비 환자
+functionality : 기능성
+designation : 지정
+accelerate : 가속하다
+regulatory : 규제의
+advance : 발전하다
+adverse : 부정적인, 이상 반응의
+neuroscience : 뇌과학
+oversee : 총괄하다
+compensate : 보완하다, 보상하다
+expand : 확장하다
+manufacture : 제조하다
+mass production : 양산, 대량생산
+capability : 능력, 기능
+permanent : 영구적인
+reliability : 신뢰성
+deployment : 배치, 적용
+revenue : 매출
+meaningful : 의미 있는
+skepticism : 회의론
+momentum : 추진력, 상승세
+
+speech restoration : 음성 복원
+clinical trial : 임상시험
+breakthrough device : 혁신 의료기기
+regain the ability : 능력을 되찾다
+
+
+Title: Collaboration Between Elon Musk and Samsung Electronics? The Story of Neuralink
+
+This is an update to a topic I’ve been following for the past two years.
+Recently, there have been noticeable developments, so I decided to organize my thoughts.
+
+In 2016, Elon Musk founded Neuralink together with eight scientists and engineers.
+The company’s goal was to develop brain–computer interface (BCI) technology that directly connects the human brain to computers.
+Because the technology involves implanting chips into the brain, it is often referred to as a “brain implant.”
+
+The first objective of the brain implant was to develop a method that would allow people suffering from paralysis caused by spinal cord injuries or strokes—people whose minds remain intact but whose bodies cannot move—to communicate.
+
+The technology works by implanting electrodes thinner than a human hair into the motor cortex to capture electrical signals and transmit them externally to control devices.
+
+Neurons, which make up the brain, transmit data through electrical signals.
+These signals generate wave patterns, and if electrodes are implanted close enough to detect those waves, brain activity can be interpreted.
+
+In theory, if electrodes are placed within 0.006 centimeters of neurons, it becomes possible to capture their signals.
+
+Because the human brain contains enormous numbers of neurons, many electrodes are required.
+Neuralink currently uses 1,024 electrodes. Since manually implanting that many electrodes is impractical, dedicated robots perform the procedure.
+
+Elon Musk has stated that robots were necessary because humans could not achieve the speed and precision required for the operation.
+He has also claimed that robots will soon surpass excellent surgeons and could outperform the best surgeons within five years.
+
+During human procedures, the robot scans the brain using AI and successfully implants electrodes while avoiding blood vessels.
+
+Musk has compared the surgery to LASIK in terms of simplicity and has claimed there are no lasting side effects.
+
+However, even if the implantation process itself is streamlined, the surgery is not inherently simple.
+The procedure requires a craniotomy—creating a circular opening in the skull.
+
+A coin-sized section of the skull is removed, electrodes are inserted through the opening, and a wireless communication module is installed on top of the skull.
+
+Initially, the external unit was attached near the ear, but later designs improved this by embedding the module within the skull and restoring the scalp over it.
+
+Once covered by the scalp, it becomes difficult for outsiders to tell whether the person has undergone the procedure.
+
+Charging is performed wirelessly, similar to an Apple Watch.
+
+Neuralink introduced this product under the name “Telepathy.”
+
+In May 2023, the U.S. Food and Drug Administration (FDA) approved clinical trials involving implantation of Telepathy in patients with paralysis.
+
+Neuralink recruited participants and, eight months later, completed implantation in the first human subject.
+
+After surgery, Telepathy functioned successfully, transmitting neural signals to the Neuralink app, which began decoding them.
+
+If electrical brain signals can be received and interpreted, controlling electronic devices becomes possible.
+
+On January 28, 2024, Elon Musk announced on social media that the first patient had received a brain chip implant and was recovering well.
+
+The first patient was a 29-year-old quadriplegic man paralyzed below the shoulders after a diving accident.
+
+As of 2026, he reportedly continues using Telepathy for around ten hours a day to control computers, play games, and manage schedules.
+
+In interviews, he explained that after about a year of use, his control ability improved and operating Telepathy became more comfortable.
+
+The second Neuralink recipient was a fully paralyzed patient named Alex.
+
+Alex demonstrated himself playing Counter-Strike 2.
+He was not merely observing the game—he moved, aimed, and shot like a typical gamer.
+
+Alex was discharged one day after surgery and reportedly began controlling the cursor within minutes of connecting the chip to a computer.
+
+On August 22, 2024, Musk stated that he hoped millions of people would receive Neuralink chips within the next decade.
+
+The third patient, Smith, had ALS and had lost both mobility and speech. Through AI voice functionality, he regained the ability to communicate.
+
+The technology aims to help patients with ALS, stroke, spinal injuries, cerebral palsy, and other conditions that make communication difficult.
+
+The speech restoration device received FDA Breakthrough Device designation, which accelerates development and regulatory review of advanced medical technologies.
+
+Musk announced a goal of conducting roughly 30 additional implant procedures during 2025.
+
+China is also rapidly advancing in brain implant technology.
+
+The Chinese Institute for Brain Research (CIBR) and state-owned NewCyber NeuroTech jointly developed Beinao No.1, which completed its third human implantation in March 2025.
+
+NewCyber NeuroTech reportedly implanted three patients in March 2025 and planned a 50-person study in 2026.
+
+China is also exploring implantation in healthy individuals to allow control of robots and drones through thought alone, suggesting possible military applications.
+
+Musk has expressed plans to combine Neuralink technology with Tesla’s humanoid robot Optimus.
+
+By early 2026, 21 implant procedures had reportedly been completed—behind Musk’s announced schedule, in typical “Musk Time” fashion.
+
+So far, no major adverse events have been reported.
+
+One patient experienced reduced neural signal collection, but the issue was resolved through a software update without additional surgery.
+
+A patient implanted in January 2026 regained the ability to speak, and Musk shared video evidence on March 31.
+
+Rather than using an AI-generated voice, the system restored previously recorded speech so the patient could speak using their original voice.
+
+The product that enables device control through thought is Telepathy, while the speech-focused product is expected to be commercialized under the name Voice.
+
+One of Neuralink’s co-founders and current president is Dongjin Seo.
+
+Born in Korea and raised in the United States from age four, he reportedly became interested in neuroscience after seeing his grandparents experience dementia.
+
+Initially serving as Vice President overseeing implant development, he later became president and remains the only founding member besides Musk.
+
+Seo earned a bachelor’s degree in electrical engineering from Caltech in 2011 and a Ph.D. from UC Berkeley in 2016 before joining Neuralink.
+
+During graduate research, he developed wireless ultrasonic sensors small enough for use inside the body and was selected for MIT Technology Review’s TR35 Innovators Under 35.
+
+The current N1 implant (The Link) includes 1,024 electrodes distributed across 64 threads and is coin-sized with wireless charging.
+
+Musk outlined goals to increase electrode counts to 3,000 in 2026, 10,000 in 2027, and 25,000 in 2028.
+
+On December 31, 2025, Musk declared 2026 to be the year of “mass production and fully automated surgery.”
+
+Robotic systems would perform operations while eight specialized tomography cameras map brain tissue in 3D and compensate for movement caused by heartbeat and other factors.
+
+Musk’s stated target is more than 1,000 implants during 2026.
+
+He also outlined a long-term vision to expand beyond patients into consumer applications for healthy individuals beginning around 2030.
+
+Reports suggest that Samsung Electronics’ foundry division has been selected as a supplier for Neuralink’s fourth-generation chips.
+
+Samsung is reportedly developing Neuralink’s fourth-generation implant chips using a 4nm process beginning in late 2025.
+
+Trial production reportedly started in May 2026, with mass production expected in 2027.
+
+Neuralink’s first through third generations collaborated with TSMC, while Samsung appears to be joining for the fourth generation.
+
+Until now, Neuralink’s N1 chips have mainly been one-way systems that read signals from the brain and send commands to devices.
+
+Samsung’s fourth-generation chip is expected to introduce writing capability—sending information back into the brain and enabling two-way communication.
+
+If successful, this could potentially help restore vision to blind patients under a future product called Blindsight.
+
+The reason for using 4nm rather than leading-edge 2nm technology is reportedly reliability rather than peak performance.
+
+Because the implant becomes a permanent medical device inside the skull, safety takes priority, and 4nm is considered sufficient to process thousands to tens of thousands of electrodes.
+
+Samsung Foundry also secured a $16.5 billion contract from Tesla to manufacture next-generation AI6 chips at its Taylor, Texas facility.
+
+Together with plans to manufacture xAI Grok-related processors for NVIDIA platform deployment, Neuralink would become another area of collaboration.
+
+Although Neuralink chip supply alone may not dramatically impact revenue, the continued expansion of cooperation between Elon Musk and Samsung Electronics appears meaningful.
+
+One-line comment
+
+Early reactions to Telepathy were highly skeptical—many people dismissed it with comments like, “Elon Musk talks a lot, but most of it is nonsense.”
+“Musk Time” often means schedules slip beyond initial targets, but progress has continued regardless.
+Samsung Electronics’ foundry division, which has struggled financially, also seems to be gradually regaining momentum.
