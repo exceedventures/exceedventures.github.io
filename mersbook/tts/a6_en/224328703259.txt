@@ -1,0 +1,101 @@
+competitor — 경쟁자
+exposition — 박람회, 전시회
+drivetrain — 동력 전달 장치
+competitive — 경쟁력 있는
+passenger — 승객
+conquer — 장악하다, 정복하다
+ignition — 점화, 시동
+regulation — 규정, 규제
+portion — 일부, 비율
+emission — 배출
+fund — 자금을 지원하다
+unveil — 공개하다
+practical — 실용적인
+rotisserie — 전기구이 방식
+preserve — 유지하다, 보존하다
+crave — 갈망하다, 먹고 싶어 하다
+
+
+Title: Tesla and Chicken
+
+A light topic for the holiday.
+In 1900, Korea was known as the Land of the Morning Calm.
+During the same period, more electric cars than gasoline cars were driving through the streets of New York, and even sixty electric taxis were in operation.
+This was the era of the first generation of electric vehicles.
+At the 1900 Paris Exposition, the electric car Lohner-Porsche appeared.
+Lohner-Porsche introduced an in-wheel motor, placing electric motors inside the wheels themselves.
+At that time, the main problem with electric cars was their short driving range.
+Early electric vehicles could travel only about 12 kilometers on a single charge, but Lohner-Porsche extended that to around 50 kilometers by installing a large battery.
+Dr. Porsche continued improving the vehicle.
+He created a hybrid car by adding a gasoline engine to support the electric drivetrain and produced an electric vehicle capable of traveling 200 kilometers.
+Eventually, this led to the world’s first hybrid prototype called “Semper Vivus,” meaning “always alive” in Latin.
+Back then, gasoline-powered cars were less competitive than electric vehicles.
+To start a gasoline car, the driver had to manually crank a rotating handle with force.
+For wealthy car owners, it was both inconvenient and not exactly elegant.
+It seemed electric cars, which required no manual starting, would become the future of passenger transportation.
+But a powerful competitor appeared.
+That competitor was Ford’s Model T gasoline car.
+Many people think the Model T conquered the market simply because of low prices enabled by mass production.
+That is not wrong, but there was another advantage.
+Ford adopted the electric starter, first developed by Cadillac.
+Once automatic ignition became available, drivers no longer needed to crank engines by hand.
+The 1920s also marked the period when large-scale oil drilling began in West Texas.
+Gasoline became extremely cheap.
+With longer driving range and easier operation, gasoline vehicles took over the market.
+That is why the first generation of electric vehicles disappeared in America.
+In the 1990s, California experienced rapid population growth, and air pollution became a major social issue.
+California introduced regulations requiring that a certain portion of vehicles sold must produce zero carbon emissions.
+At the time, virtually no such vehicles existed, making the policy highly ambitious.
+General Motors invested one billion dollars into developing the two-seat electric vehicle EV1.
+But EV1 had limited range, and gasoline cost only about $1.30 per gallon, so sales never truly took off.
+In 2003, engineer JB Straubel and Elon Musk had lunch at a seafood restaurant in Los Angeles.
+At that time, Musk already had fame and wealth as the founder of PayPal.
+Straubel proposed an unmanned hydrogen-fuel electric aircraft.
+Musk interrupted him and said electric aircraft lacked potential and simply did not interest him.
+Running out of ideas, Straubel mentioned something he had been thinking about.
+Instead of one large battery:
+“What if we connected thousands of small lithium batteries—the kind used in mobile phones—and put them into an electric car?”
+Musk immediately became excited.
+People say this was the first time the famously frugal Musk paid for lunch himself.
+That was also when he began funding the idea.
+Straubel was a genius.
+At age thirteen, he demonstrated his talent by upgrading the performance of an electric golf cart.
+When he entered Stanford University, he designed his own major called Energy Systems Engineering, and the university created the department.
+He became its only student.
+After graduation, Straubel spent his time thinking about solar energy and electric vehicles until meeting Musk and finding his opportunity.
+Lithium-ion batteries had already been commercialized by Exxon in the mid-1970s.
+By the early 1990s, Sony had begun supplying batteries suitable for portable computers and phones.
+Straubel commercialized the idea of connecting thousands of small lithium batteries into one system with Musk’s support.
+In 2006, Tesla unveiled two prototype two-seat sports cars.
+They were called the Roadster.
+The Roadster also reflected Musk’s practical thinking.
+Because it only had two seats, the space where rear seats would normally go could be packed tightly with batteries.
+Anyway, it proved that lithium-ion batteries could power automobiles.
+Investment began flowing in, and Tesla’s growth started.
+You might wonder why this article is titled Chicken when it has only talked about electric vehicles.
+Before the 1960s, chicken in Korea was commonly eaten as baeksuk (boiled chicken soup) or dakgaejang (spicy chicken soup).
+Then American broiler breeds arrived in Korea.
+Broiler chickens reached 1.5 kg in only 30 days, while native chickens required seven months to reach similar weight.
+Chicken dishes suddenly became economical.
+In 1961, Myeongdong Yeongyang Center opened in central Seoul.
+The restaurant installed rotating electric rotisserie machines visible through large glass windows, displaying dozens of chickens spinning on metal skewers.
+The sight of golden-brown roasting chickens with dripping fat and the rich aroma became one of Myeongdong’s landmarks.
+It was the first moment many Koreans discovered the taste of roasted whole chicken instead of “chicken soaked in water.”
+The restaurant became known as one of the finest places in Seoul, where fashionable people dressed in suits and dresses went on dates or arranged meetings.
+They also say the tradition of serving roasted chicken in yellow paper bags started there.
+Back then, whole chicken in yellow paper bags was a luxury that fathers might bring home only on payday.
+In 1971, large-scale production of Haitai cooking oil began.
+Then in 1977, Lim’s Chicken, opened in the basement of Shinsegae Department Store in Myeongdong, introduced the method of cutting chicken into smaller pieces and deep-frying them in cooking oil.
+That became the beginning of franchise fried chicken.
+Just as electric vehicles disappeared when cheap gasoline became widely available, roasted whole chicken gradually gave way to fried chicken.
+Yet Yeongyang Center survived in Myeongdong.
+The reason the restaurant carries the name Yeongyang (“nutrition”) is that its signature dish was originally samgyetang served in stone pots.
+Today, Myeongdong Yeongyang Center has relocated and expanded over time and operates several directly managed branches, but the original flagship location remains.
+Its signature thin and crispy rotisserie skin and clean, mild flavor are still preserved.
+
+One-line comment
+Every once in a while, I crave electric rotisserie chicken too.
+Usually, I eat chicken from Bodram Chicken or Duldul Fried Chicken, but for electric rotisserie chicken I usually get takeout from Samwoo Chicken Center near Sindaebang Station.
+Myeongdong is a bit too far.
+This weekend, maybe I should eat either rotisserie chicken or baeksuk.
+Quite a drift—from electric vehicles to Tesla and then all the way back to Myeongdong Yeongyang Center.
