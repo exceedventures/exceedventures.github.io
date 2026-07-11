@@ -1,0 +1,128 @@
+Title: The Pros and Cons of Keeping Pets at Home
+
+Spring and early summer are the seasons when many people develop allergic rhinitis due to fine dust and pollen.
+Allergic rhinitis occurs when the lining inside the nose overreacts to certain substances. Typical symptoms include repeated sneezing, a runny nose with clear mucus, nasal congestion, and an itchy nose.
+As air pollution and fine dust have become more common, allergic rhinitis has become one of the most widespread diseases, affecting approximately 15–20% of the population.
+There are many causes of allergic rhinitis.
+The root cause is exposure to allergens—substances we inhale through the air every time we breathe.
+When the immune system reacts to an allergen, it produces an antibody called IgE (Immunoglobulin E) to remember that allergen.
+Once IgE has been produced, the cells that make it continue to exist. As a result, the next time the same allergen enters the body, it triggers another allergic reaction.
+Fine dust, pollen, fish, metals, and many other substances can all act as allergens. Since every person produces different types of IgE antibodies, allergic reactions also vary from person to person.
+Allergens exist both indoors and outdoors.
+Common indoor allergens that cause symptoms throughout the year include house dust mites and pet dander.
+Not only in Korea but around the world, house dust mites are considered the most important cause of allergic diseases.
+House dust mites are tiny arachnids that thrive in warm and humid environments.
+Since Korean apartments are generally warm and humid, they provide an ideal environment for house dust mites, even during winter.
+House dust mites mainly feed on dandruff, dead skin cells, and body debris shed by humans and pets.
+This is why they are heavily concentrated in bedding and living room sofas.
+House dust mites die at 60°C (140°F), so it is important to wash bedding in hot water at or above this temperature on a regular basis.
+If washing with hot water is difficult, there is another option.
+Dust mites also die after being exposed to temperatures below −20°C (−4°F) for at least 30 minutes.
+Items such as stuffed animals or pillows can be sealed in plastic bags, frozen overnight, and then shaken out to remove the dead mites.
+Pet dander from dogs and cats also serves as food for house dust mites.
+Even when pet dander is not eaten by mites, tiny particles remain suspended in the air and can enter the nose directly, triggering allergic symptoms.
+In other words, keeping dogs or cats in an apartment creates an ideal environment for house dust mites.
+While house dust mites cause allergic rhinitis throughout all four seasons, the main cause of seasonal allergic rhinitis in spring is pollen.
+
+Pollen can be divided into two types:
+* Insect-pollinated plants, whose pollen is carried by insects.
+* Wind-pollinated plants, whose pollen is carried by the wind.
+
+Bright ornamental flowers are usually pollinated by bees and other insects, so they rarely cause allergies.
+Instead, allergies are mainly triggered by the small, lightweight pollen from wind-pollinated trees, grasses, and weeds.
+In early spring, pollen from oak and birch trees fills the air.
+In late spring and early summer, pollen from grasses and weeds becomes more common.
+This is why dry, windy weather often leads to an increase in pollen allergy sufferers.
+However, pine trees are often unfairly blamed.
+The yellow pine pollen that is highly visible in spring attracts a lot of attention, but it rarely causes significant allergies.
+Pollen from broadleaf trees such as oak, birch, and alder is much smaller and lighter than pine pollen. It can be inhaled deep into the respiratory tract, and its rough surface irritates the nasal lining.
+Pine pollen, on the other hand, has a waxy outer coating that prevents it from easily reaching deep inside the nose.
+Since pollen from wind-pollinated plants can travel tens or even hundreds of kilometers on the wind, avoiding forests or grassy fields alone will not completely prevent exposure.
+The best treatment for allergic rhinitis is to avoid allergens whenever possible.
+That sounds simple, but it is often difficult in practice.
+Most people manage symptoms such as sneezing, runny nose, and nasal congestion with antihistamines or steroid nasal sprays.
+These treatments provide temporary relief, but symptoms usually return once the medication is stopped.
+For long-term improvement, allergen immunotherapy is recommended.
+The principle behind immunotherapy is straightforward.
+If someone is overly sensitive to house dust mites, tiny amounts of dust mite extract are introduced into the body at first, with the dose gradually increasing over time.
+Because the initial dose is extremely small, it does not trigger an allergic reaction. Instead, the immune system gradually learns that the substance is not dangerous.
+As a result, IgE—the antibody responsible for allergic reactions—decreases, and the body becomes much less likely to overreact when exposed to the allergen.
+Since immunotherapy essentially resets the immune system’s response, its benefits can last for many years.
+There are two main types of immunotherapy.
+The first is allergy shots.
+Patients receive injections every one to two weeks for three to six months. After that, the schedule is reduced to once a month, and treatment continues for at least three years.
+This method has been used for over a century and is highly effective, but it requires regular visits to the hospital.
+The second method is sublingual immunotherapy, in which a tablet is dissolved under the tongue.
+The tissue beneath the tongue contains many immune cells—including Langerhans cells and dendritic cells—making it an ideal place to teach the immune system that the allergen is harmless.
+Studies have shown that when children with house dust mite allergies receive immunotherapy, they are less likely to develop allergies to pollen, pet dander, and other allergens later in life.
+This is one reason allergy specialists often recommend immunotherapy for children.
+Managing allergic rhinitis starts with good everyday habits.
+Try to avoid dusty environments, ventilate your home frequently, and wash bedding regularly in hot water to reduce house dust mites.
+Ironically, our living environments have become extremely clean.
+In the past, children developed their immune systems through outdoor play and frequent exposure to nature.
+Today, many children grow up in clean urban apartments, giving their immune systems fewer opportunities to develop naturally.
+From this perspective, having a pet may not be entirely bad.
+Research suggests that children who grow up on farms or with pets during early childhood tend to have lower rates of allergies.
+Pets therefore have both advantages and disadvantages when it comes to allergies.
+Early exposure to pets may help prevent allergies from developing, but for people who already have allergies, pets can worsen symptoms by increasing both pet dander and the food supply for house dust mites.
+
+One-line summary
+If you keep pets in an apartment, managing house dust mites is essential.
+Wash bedding regularly in hot water, and bathe your pets on a regular basis to minimize dander buildup.
+
+
+
+
+allergic — 알레르기의
+rhinitis — 비염
+symptom — 증상
+congestion — (코 등의) 충혈, 막힘
+itchy — 가려운
+chronic — 만성의
+allergen — 알레르기 유발물질
+inhale — 흡입하다
+antibody — 항체
+particle — 입자
+vary — 다르다, 다양하다
+house dust mite — 집먼지진드기
+pet dander — 반려동물의 비듬
+arachnid — 거미류
+thrive — 잘 자라다, 번성하다
+environment — 환경
+humidity — 습도
+feed on — ~을 먹고 살다
+dandruff — 비듬
+bedding — 침구류
+regularly — 정기적으로
+airborne — 공기 중에 떠다니는
+pollen — 꽃가루
+insect-pollinated — 곤충에 의해 수분되는
+wind-pollinated — 바람에 의해 수분되는
+ornamental — 관상용의
+rarely — 거의 ~않다
+primarily — 주로
+lightweight — 가벼운
+grass — 잔디
+weed — 잡초
+oak — 참나무
+birch — 자작나무
+alder — 오리나무
+respiratory tract — 호흡기
+irritate — 자극하다
+lining — 점막, 내벽
+waxy — 왁스질의
+antihistamine — 항히스타민제
+steroid nasal spray — 스테로이드 비강 스프레이
+gradually — 점차적으로
+dose — 용량
+introduce — 주입하다, 투여하다
+harmless — 해롭지 않은
+essentially — 본질적으로
+injection — 주사
+effective — 효과적인
+sublingual — 설하의(혀 밑의)
+dissolve — 녹이다
+tissue — 조직
+Langerhans cells — 랑게르한스세포
+dendritic cells — 수지상세포
+suggest — 시사하다
