@@ -1,0 +1,147 @@
+Title: A New Stablecoin Emerges – What Is Open USD?
+
+A brand-new stablecoin has entered the market with a rather unique concept, so I decided to take a closer look.
+At the moment, the stablecoin market is essentially dominated by two major players: Tether and Circle.
+Their business model is actually quite simple.
+Using Tether as an example, the process works like this:
+If you deposit one U.S. dollar into Tether’s account, the company issues you one USDT in exchange.
+You can then use USDT to pay for goods or send money overseas—for example, to cover a child’s study-abroad expenses—without paying any special fee simply for using the stablecoin itself.
+The fees are not charged while you are transacting with USDT. They arise only when you convert USDT back into U.S. dollars.
+When you send 1 USDT back to Tether, the token is burned, and Tether deposits one U.S. dollar into your bank account.
+During this redemption process, Tether charges a 1% redemption fee.
+At first glance, this may not seem like a particularly profitable business.
+However, the real money comes from somewhere else.
+Tether invests most of the dollars it receives in U.S. Treasury securities.
+Currently, about 83% of its reserves (approximately $141 billion) are invested in short-term U.S. Treasuries, while the rest includes assets such as gold (around $20 billion) and Bitcoin (around $7 billion).
+Circle follows a similar strategy.
+Most of Circle’s reserves are placed in the Circle Reserve Fund, which is managed by BlackRock.
+Since the fund mainly consists of short-term U.S. Treasuries, repurchase agreements (repos), and cash, it is effectively backed by either U.S. government debt or cash.
+For companies like these, foreign exchange fees are only a minor source of income.
+Their real profits come from the interest earned on the reserve assets.
+That is why their earnings are closely tied to both the size of their reserve holdings and short-term U.S. Treasury yields.
+On June 30, 2026, a new stablecoin called Open USD (OUSD) was officially announced.
+The project aims for a full launch before the end of 2026.
+What immediately stands out is the impressive list of participants.
+The announced partners include BlackRock, Mastercard, Visa, IBM, Google, Stripe, Standard Chartered, Coinbase, and many other major companies.
+Notably absent from the list are Tether, Circle, and PayPal, meaning that the established issuers are not involved, while a new challenger is emerging to compete with them.
+The first competitive advantage that Open USD emphasizes is zero fees.
+No matter how many stablecoins are issued or redeemed, the project says it will charge no issuance or redemption fees at all.
+Its second major selling point is even more significant.
+Instead of keeping the interest income generated from reserve assets—the largest source of profit for Tether and Circle—Open USD plans to share that income with its partner companies.
+This is a dramatic departure from the existing business model.
+To understand the scale of this change, consider Circle’s financial results.
+In the first quarter of 2026, Circle generated $694 million in revenue, of which $653 million came from interest income alone.
+In other words, 94% of Circle’s revenue was generated from the interest earned on its reserve assets (often referred to as the “float”).
+Open USD proposes treating this interest as a shared incentive pool instead.
+The reserve assets would still be invested in short-term Treasuries and money market funds, but after operating costs and management fees are deducted, all remaining interest income would be distributed to partner companies.
+Its governance model is also different.
+Rather than being controlled by a single company, Open USD says it will establish an independent legal entity governed by a board composed of its partner companies.
+Naturally, this raises an obvious question:
+If Open Standard gives away both transaction fees and reserve interest, how does it make money?
+The answer is surprisingly simple:
+It barely does.
+The primary beneficiaries are the 140 partner companies.
+They will receive distributions from the reserve interest, effectively earning dividends, while also participating in governance as board members with voting rights.
+Circle’s CEO has criticized this model, arguing that if all of the interest income is distributed, there will be little money left to reinvest in product development, regulatory compliance, or liquidity management.
+Among the 140 participating organizations, 13 are South Korean companies.
+According to the announced list, they include Samsung Electronics, Dunamu, Shinhan Financial Group, KakaoBank, K Bank, Hyundai Card, KB Kookmin Card, BC Card, Hana Card, Samsung Card, Woori Card, NH Card, and Hanwha Life Insurance.
+However, it appears that these companies have merely expressed an interest in exploring the proposal rather than making any formal commitment.
+Samsung Electronics stated that there have been no official discussions whatsoever, adding that it does not even know what role it would be expected to play.
+Dunamu, Shinhan Financial Group, and K Bank also responded that they simply agreed to review the proposal, yet their names were included on the participant list.
+Several Korean credit card companies have said they are considering participation because Visa and Mastercard approached them with the proposal, suggesting that both payment giants are actively promoting the initiative.
+The organization behind OUSD is Open Standard, an independent entity led by Jack Abrams, the co-founder of Bridge.
+Since Bridge was acquired by Stripe for $1.1 billion in October 2024, many observers believe that the project is effectively being led by Stripe’s ecosystem.
+Bridge is an infrastructure company that enables businesses to settle real-world payments and cross-border transfers using stablecoins issued by companies such as Circle and Tether.
+Its clients have included not only stablecoin issuers but also organizations that move enormous amounts of money, including SpaceX, Coinbase, and even the U.S. Treasury.
+In other words, the company that built the infrastructure for stablecoin distribution has now decided to issue its own stablecoin.
+A simple analogy might help.
+Bridge built the roads and generated the traffic, yet the toll revenue went to the stablecoin issuers.
+Now, it has decided to compete directly by becoming an issuer itself.
+From the perspective of Circle and Tether, one of their own distribution partners has effectively copied their business model while adding a more competitive pricing structure.
+So why are so many large corporations interested in joining this project?
+The answer largely lies in the GENIUS Act, which was passed in July 2025.
+For the first time, the Act established a comprehensive legal framework governing stablecoin issuance.
+With much of the legal uncertainty removed, major corporations can now participate with significantly greater confidence.
+Before the GENIUS Act, there was considerable uncertainty surrounding stablecoins.
+It was unclear whether they should be treated as securities or commodities, which regulators had jurisdiction over them, and what legal obligations issuers would ultimately face.
+Because of these uncertainties, companies such as BlackRock, Visa, and Mastercard were reluctant to become deeply involved due to the risk of unexpected regulatory action.
+The new legislation changed that.
+It clearly established that as long as issuers comply with the prescribed requirements, stablecoin issuance is legal.
+However, the GENIUS Act also prohibits publicly listed non-financial companies—such as Google—from directly issuing stablecoins.
+Open USD was therefore structured so that issuance is handled by an independent legal entity, while companies such as Google, Visa, and Mastercard participate only as partners and shareholders rather than as the issuer itself.
+The Act recognizes three categories of eligible issuers.
+One of them is a non-bank institution that has obtained authorization from the Office of the Comptroller of the Currency (OCC).
+This structure makes it possible to establish an independent issuing entity—Open Standard—without operating through a traditional bank, allowing it to issue stablecoins directly.
+However, the GENIUS Act also contains an important restriction.
+Section 4 of the Act prohibits stablecoin issuers from paying interest or investment returns directly to stablecoin holders.
+In other words, the law prevents issuers from sharing the earnings generated by reserve assets with the people who actually hold the stablecoins.
+As a result, under the current framework, the issuer retains those profits.
+Open USD believes it has found a way around this restriction.
+Its argument is straightforward:
+The law says that stablecoin holders cannot receive interest.
+It does not say that partner companies helping distribute and operate the stablecoin cannot receive it.
+Based on this interpretation, Open USD plans to distribute the reserve interest to its ecosystem partners instead of to token holders.
+Whether regulators ultimately accept this interpretation remains to be seen.
+Another major variable is the banking industry.
+More than 40 organizations, including the American Bankers Association (ABA), have reportedly been lobbying lawmakers to eliminate what they describe as a loophole in the current law.
+Their position is that indirect distributions of reserve income should not be allowed, and they are pushing for legislation that would close this perceived gap.
+If their lobbying efforts succeed, Open USD’s revenue-sharing model could face significant legal challenges.
+
+
+One-Line Comment
+Open USD’s biggest selling point is that, rather than keeping all of the profits generated by its stablecoin business, it plans to share them with its participating companies. From the partners’ perspective, this is an attractive incentive structure. On the other hand, having such a large number of participants also means having many stakeholders with potentially different interests, raising the question of whether effective decision-making will be become difficult. It is also worth keeping in mind that lobbying efforts by U.S. banks could eventually make the current profit-sharing structure much harder—or even impossible—to maintain. Finally, with names like Open USD and Open Standard, I can’t help but think of OpenAI, which gives the whole branding a slightly uncanny feeling.
+
+
+
+
+essentially - 본질적으로
+redemption - 상환, 환매
+security - 증권
+Treasury - 미국 국채
+reserve - 준비금
+effectively - 사실상
+backed - 담보된, 뒷받침된
+yield - 수익률
+selling point - 강점
+departure - 탈피, 변화
+generate - 창출하다
+revenue - 매출
+float - 예치 준비금
+deduct - 공제하다
+governance - 지배구조
+legal entity - 법인
+compose - 구성하다
+beneficiary - 수혜자
+dividend - 배당금
+criticize - 비판하다
+reinvest - 재투자하다
+regulatory - 규제의
+compliance - 규정 준수
+liquidity - 유동성
+organization - 조직
+commitment - 공식 약속
+initiative - 계획, 프로젝트
+promote - 추진하다
+settle - 결제하다
+analogy - 비유
+toll - 통행료
+commodity - 상품
+jurisdiction - 관할권
+obligation - 의무
+reluctant - 꺼리는
+prescribed - 규정된
+prohibit - 금지하다
+shareholder - 주주
+authorization - 인가
+institution - 기관
+investment return - 투자수익
+retain - 유지하다
+ultimately - 결국
+regulator - 규제기관
+association - 협회
+legislation - 법률
+loophole - 법의 허점
+perceived - 인식된
+effort - 노력
+stakeholder - 이해관계자
+uncanny - 묘하게 이상한
