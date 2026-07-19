@@ -1,0 +1,65 @@
+Title: Which AI Models Do Americans Use the Most?
+
+There is a major marketplace for AI models called OpenRouter. It aggregates over 400 AI models from around the world, allowing users to select and use the most suitable model for their specific needs at any given moment. OpenRouter's business model relies on taking a commission of around 5.5% on the model usage fees paid by users. Founded in 2023, the company attracted investments from the venture arms of Alphabet, Nvidia, and others, reaching an estimated valuation of $1.3 billion as of May 2026. It has become a go-to platform for global developers who heavily utilize AI, boasting a user base of over 10 million.
+
+The significance of OpenRouter lies in its role as a representative public metric for comparing actual usage within the AI developer market. Because it operates as a neutral marketplace independent of any specific tech giant, it has earned a reputation for showing genuine usage trends rather than marketing hype or corporate promotion.
+
+Until now, comparisons between AI models were primarily driven by benchmark scores. However, while benchmark scores measure the theoretical performance of an AI model, OpenRouter offers a distinct difference: it tracks the actual volume of tokens that developers pay to use.
+
+Looking at the OpenRouter rankings as of June 2026, the company with the highest market share in token throughput is China's DeepSeek, capturing 16.3% of the market.
+(1st: DeepSeek 16.3%, 2nd: Anthropic 15.5%, 3rd: Alibaba 13.9%, 4th: Google 13.2%, 5th: OpenAI 8.4%, 6th: Tencent 7.8%)
+In terms of token market share, U.S. companies hold the 2nd, 4th, and 5th spots, while Chinese companies dominate the 1st, 3rd, and 6th positions.
+
+Since these rankings represent aggregate global usage, one might suspect that Chinese models rank high simply due to heavy usage by domestic users within China. To address this, OpenRouter released separate data specifically detailing the share of tokens that U.S. users consumed on Chinese AI models. In the first half of 2025, U.S. users allocated only about 4.5% of their token usage to Chinese AI models. However, by February 8, 2026, that figure surged to 30%, occasionally peaking as high as 46%. This means that even when isolating U.S. OpenRouter users, nearly half are relying on Chinese models.
+
+As the share of Chinese AI model usage rises rapidly, the political sphere is starting to react. In April 2026, the U.S. House Committee on Homeland Security and the Select Committee on the Chinese Communist Party launched a joint investigation into the expanding adoption of Chinese AI models.
+
+Experts point to cost-effectiveness as the primary driver behind this growing reliance on Chinese software. Looking at the pricing per 1 million tokens, OpenAI's GPT-5.5 and Anthropic's Claude 4.8 Opus cost around $5. In stark contrast, DeepSeek’s latest models are priced at $1.74 for V4 Pro and a mere $0.14 for V4 Flash. Compared to OpenAI's GPT-5.5, DeepSeek's V4 Flash costs just 1/36th of the price.
+
+This disparity is also reflected in actual revenue figures. According to June data from Vercel, another tracking source, DeepSeek's token market share skyrocketed from less than 1% to 17%, yet its share of total revenue remained under 1%. While U.S. AI models captured 95% of overall user spending, Chinese models took home less than 5%. In short, while Chinese AI models are being used extensively, they are generating very little revenue.
+
+The reason behind this surging usage is that users are adopting a highly rational, hybrid approach to AI. A clear pattern has emerged: users route simple queries to cheap Chinese models while reserving complex tasks for high-performance U.S. models.
+
+Several factors explain why token pricing for Chinese models is so drastically low. First and foremost are the disparities in electricity, water, labor, and construction costs:
+
+Industrial Electricity: Costs about 6 cents per kilowatt-hour (kWh) in China compared to 9 cents in the U.S., making it roughly 33% cheaper.
+
+Labor: The average annual salary for a data center operations employee is around $120,000 in the U.S., compared to just $22,000 in China.
+
+Water (for cooling): Costs $5.18 per 1,000 gallons in the U.S., whereas it is nearly half the price in China at $2.57 per 1,000 gallons.
+
+Construction: Building a data center costs about $10 million per megawatt (MW) in the U.S., while China keeps it lower at $6 million per MW.
+Furthermore, various state subsidies in China mean that actual out-of-pocket corporate expenditures are reportedly much lower than these figures suggest.
+
+China's clear vulnerability is its inability to import Nvidia GPUs, which significantly throttles its data center capabilities. While their raw performance lags behind top-tier U.S. models, Chinese firms are successfully competing purely on price-to-performance metrics.
+
+There are also unique architectural strategies on the software side that keep Chinese AI models cheap. Most of them heavily utilize a Mixture of Experts (MoE) approach. With MoE, the entire massive AI brain does not activate for every single query. Think of it like a patient with a mild cold walking into a large hospital—instead of the entire medical staff rushing over, a single internal medicine specialist treats the patient. For instance, while DeepSeek V4 Pro boasts a total of 1.6 trillion parameters, only 49 billion parameters actually activate per query. Since compute costs are only incurred for the activated parameters, the unit price drops dramatically.
+
+Other models, like MiniMax M3, apply sparse attention and advanced compression technologies. When processing lengthy documents, the system avoids re-reading the entire preceding context from scratch every single time; instead, it summarizes and compresses the data. Developers claim this technique cuts the cost of processing long-context windows by up to 1/20th.
+
+Additionally, "distillation"—a concept mentioned in previous articles—plays a massive role in cutting development costs. Distillation involves training one's own model using the outputs of incredibly expensive, highly intelligent flagship U.S. models (like GPT or Claude) as the textbook.
+
+One-line Comment:
+A dual-use pattern is cementing itself: users deploy top-tier U.S. models for performance-critical tasks like complex reasoning and coding, while routing simple queries and repetitive tasks to ultra-cheap Chinese models. However, caution remains necessary as persistent concerns surround Chinese models regarding personal data privacy, censorship, and data security.
+
+
+
+
+Aggregate : 모으다, 종합하다
+Disparity  : (특히 한쪽에 불공평한) 차이, 격차
+Expenditure : 지출, 비용
+Subsidy : 보조금
+Throughput : 처리량, 생산량 (컴퓨터가 일정 시간 내에 처리하는 데이터 양)
+Isolate  :  고립시키다 (본문에서는 특정 데이터만 따로 떼어놓는다는 의미)
+Incur : (비용을) 발생시키다, (물어내게) 되다
+Distillation : 증류, 정수 (AI에서는 거대 모델의 지식을 핵심만 추출해 작은 모델에 이식하는 기술)
+Neutral : 중립적인
+Hype : 과장 광고, 언론의 플레이
+Throttle : 목을 조르다, (행동·흐름을) 억제하다/제한하다
+Vulnerability : 취약성, 약점
+Cement : (관계를) 굳건히 하다, 결속시키다 (본문에서는 '트렌드가 굳어지다'로 사용)
+Persistent  : 끈질긴, 지속적인
+Censorship: 검열
+
+Tip: Aggregate(종합하다), Disparity(격차), Persistent(지속적인) 같은 단어들은 시사 경제 뉴스는 물론 공인 영어 시험에서도 오답률이 높은 단어들이니 눈여겨보시면 좋습니다!
+
