@@ -13,6 +13,14 @@
             
     ]},
 
+    {"category":"초급자용 영어원서", "value": [
+        {"title":"비밀의화원", "thumb":"https://exceedventures.github.io/onebook/covers/secret_garden.cover.jpg", "id":"j01", "name":"secret_garden"},
+        {"title":"오즈의마법사", "thumb":"https://exceedventures.github.io/onebook/covers/oz.cover.jpg", "id":"j02", "name":"oz"},
+        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"j03", "name":"women"},        
+        {"title":"크리스마스캐롤", "thumb":"https://exceedventures.github.io/onebook/covers/christmas_carol.cover.jpg", "id":"j04", "name":"christmas_carol"},
+        {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"a002", "name":"alice"}    
+    ]},    
+
     {"category":"칼리지보드 추천서", "value": [
         {"title":"죄와벌", "thumb":"https://exceedventures.github.io/onebook/covers/crime.cover.jpg", "id":"c1", "name":"crime"},  
         {"title":"오디세이", "thumb":"https://exceedventures.github.io/onebook/covers/odyssey.cover.jpg", "id":"c02", "name":"odyssey"},  
