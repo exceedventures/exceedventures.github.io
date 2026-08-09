@@ -15,10 +15,11 @@
 
     {"category":"초급자용 추천원서 ❤️", "value": [
         {"title":"비밀의화원", "thumb":"https://exceedventures.github.io/onebook/covers/secret_garden.cover.jpg", "id":"j01", "name":"secret_garden"},
-        {"title":"오즈의마법사", "thumb":"https://exceedventures.github.io/onebook/covers/oz.cover.jpg", "id":"j02", "name":"oz"},
-        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"j03", "name":"women"},        
-        {"title":"크리스마스캐롤", "thumb":"https://exceedventures.github.io/onebook/covers/christmas_carol.cover.jpg", "id":"j04", "name":"christmas_carol"},
-        {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"j05", "name":"alice"}    
+        {"title":"소공녀", "thumb":"https://exceedventures.github.io/onebook/covers/little_princess.cover.jpg", "id":"j02", "name":"little_princess"},
+        {"title":"오즈의마법사", "thumb":"https://exceedventures.github.io/onebook/covers/oz.cover.jpg", "id":"j03", "name":"oz"},
+        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"j04", "name":"women"},        
+        {"title":"크리스마스캐롤", "thumb":"https://exceedventures.github.io/onebook/covers/christmas_carol.cover.jpg", "id":"j05", "name":"christmas_carol"},
+        {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"j06", "name":"alice"}    
     ]},    
 
     {"category":"칼리지보드 추천서 🎓", "value": [
@@ -103,6 +104,7 @@
         {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"a20", "name":"frankenstein"},
         {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"a21", "name":"treasure"},
         {"title":"빨간머리앤", "thumb":"https://exceedventures.github.io/onebook/covers/anne.cover.jpg", "id":"a001", "name":"anne"},
+        {"title":"소공녀", "thumb":"https://exceedventures.github.io/onebook/covers/little_princess.cover.jpg", "id":"a098", "name":"little_princess"},
         {"title":"비밀의화원", "thumb":"https://exceedventures.github.io/onebook/covers/secret_garden.cover.jpg", "id":"a099", "name":"secret_garden"}
     ]},
     {"category":"경제학 원서", "value": [
