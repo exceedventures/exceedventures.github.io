@@ -15,9 +15,9 @@
 
     {"category":"초급자용 추천원서 ❤️", "value": [
         {"title":"비밀의화원", "thumb":"https://exceedventures.github.io/onebook/covers/secret_garden.cover.jpg", "id":"j01", "name":"secret_garden"},
-        {"title":"오즈의마법사", "thumb":"https://exceedventures.github.io/onebook/covers/oz.cover.jpg", "id":"j03", "name":"oz"},
+        {"title":"오즈의마법사", "thumb":"https://exceedventures.github.io/onebook/covers/oz2.cover.jpg", "id":"j03", "name":"oz"},
         {"title":"소공녀", "thumb":"https://exceedventures.github.io/onebook/covers/little_princess.cover.jpg", "id":"j02", "name":"little_princess"},
-        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"j04", "name":"women"},        
+        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women2.cover.jpg", "id":"j04", "name":"women"},        
         {"title":"크리스마스캐롤", "thumb":"https://exceedventures.github.io/onebook/covers/christmas_carol.cover.jpg", "id":"j05", "name":"christmas_carol"},
         {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"j06", "name":"alice"}    
     ]},    
@@ -93,9 +93,9 @@
         {"title":"셜록홈즈의모험", "thumb":"https://exceedventures.github.io/onebook/covers/holmes.cover.jpg", "id":"a003", "name":"holmes"},
         {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"a002", "name":"alice"},
         {"title":"그림형제동화", "thumb":"https://exceedventures.github.io/onebook/covers/grimms.cover.jpg", "id":"a13", "name":"grimms"}, 
-        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"a18", "name":"women"},        
+        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women2.cover.jpg", "id":"a18", "name":"women"},        
         {"title":"피터팬원작", "thumb":"https://exceedventures.github.io/onebook/covers/peter_pan.cover.jpg", "id":"a004", "name":"peter_pan"},
-        {"title":"오즈의마법사", "thumb":"https://exceedventures.github.io/onebook/covers/oz.cover.jpg", "id":"a23", "name":"oz"},
+        {"title":"오즈의마법사", "thumb":"https://exceedventures.github.io/onebook/covers/oz2.cover.jpg", "id":"a23", "name":"oz"},
         {"title":"전망좋은방", "thumb":"https://exceedventures.github.io/onebook/covers/room.cover.jpg", "id":"a14", "name":"room"},
         {"title":"블루캐슬", "thumb":"https://exceedventures.github.io/onebook/covers/blue_castle.cover.jpg", "id":"a15", "name":"blue_castle"},
         {"title":"우주전쟁", "thumb":"https://exceedventures.github.io/onebook/covers/worldwar.cover.jpg", "id":"a16", "name":"worldwar"},  
