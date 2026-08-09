@@ -1,5 +1,5 @@
 [
-    {"category":"레전드 연설문", "value": [
+    {"category":"레전드 연설문 📢", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s011", "name":"jobs"},
         {"title":"케빈파이기연설문", "thumb":"https://exceedventures.github.io/onebook/covers/kevin.cover.jpg", "id":"s033", "name":"kevin"},
         {"title":"코난오브라이언", "thumb":"https://exceedventures.github.io/onebook/covers/conan.cover.jpg", "id":"s066", "name":"conan"},   
@@ -13,7 +13,7 @@
             
     ]},
 
-    {"category":"초급자용 영어원서", "value": [
+    {"category":"초급자용 추천원서 ❤️", "value": [
         {"title":"비밀의화원", "thumb":"https://exceedventures.github.io/onebook/covers/secret_garden.cover.jpg", "id":"j01", "name":"secret_garden"},
         {"title":"오즈의마법사", "thumb":"https://exceedventures.github.io/onebook/covers/oz.cover.jpg", "id":"j02", "name":"oz"},
         {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women.cover.jpg", "id":"j03", "name":"women"},        
@@ -21,7 +21,7 @@
         {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"j05", "name":"alice"}    
     ]},    
 
-    {"category":"칼리지보드 추천서", "value": [
+    {"category":"칼리지보드 추천서 🎓", "value": [
         {"title":"죄와벌", "thumb":"https://exceedventures.github.io/onebook/covers/crime.cover.jpg", "id":"c1", "name":"crime"},  
         {"title":"오디세이", "thumb":"https://exceedventures.github.io/onebook/covers/odyssey.cover.jpg", "id":"c02", "name":"odyssey"},  
         {"title":"로미오와줄리엣", "thumb":"https://exceedventures.github.io/onebook/covers/romeo.cover.jpg", "id":"c7", "name":"romeo"},     
