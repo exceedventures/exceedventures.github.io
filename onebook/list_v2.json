@@ -95,7 +95,7 @@
         {"title":"프랑켄쉬타인", "thumb":"https://exceedventures.github.io/onebook/covers/frankenstein.cover.jpg", "id":"a20", "name":"frankenstein"},
         {"title":"보물섬", "thumb":"https://exceedventures.github.io/onebook/covers/treasure.cover.jpg", "id":"a21", "name":"treasure"},
         {"title":"빨간머리앤", "thumb":"https://exceedventures.github.io/onebook/covers/anne.cover.jpg", "id":"a001", "name":"anne"},
-        {"title":"비밀의화원", "thumb":"https://exceedventures.github.io/onebook/covers/secret_garden.cover.jpg", "id":"a001", "name":"secret_garden"}
+        {"title":"비밀의화원", "thumb":"https://exceedventures.github.io/onebook/covers/secret_garden.cover.jpg", "id":"a099", "name":"secret_garden"}
     ]},
     {"category":"경제학 원서", "value": [
         {"title":"부의황금률", "thumb":"https://exceedventures.github.io/onebook/covers/art_of_money.cover.jpg", "id":"e01", "name":"art_of_money"},
