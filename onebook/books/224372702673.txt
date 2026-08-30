@@ -1,0 +1,69 @@
+The Fascinating World of Anesthesia (feat. Propofol and Remifentanil)
+An electronic document arrived.
+The sender was Korea’s Ministry of Food and Drug Safety, and it was a notification about my history of receiving narcotic drugs for medical purposes.
+It said that I had received a medical narcotic drug on August 6, 2026.
+In Korea, you can check your history of receiving narcotic medications through a service called “My Medication History.” After downloading the app and going through a rather complicated identity-verification process, you can see your medication history.
+As it turned out, I had been given two narcotic drugs during the general anesthesia for my surgery on August 6: propofol and remifentanil.
+Propofol and remifentanil are a perfect pair for TIVA (Total Intravenous Anesthesia).
+There are two major approaches to general anesthesia.
+The first is inhalational anesthesia.
+This is the traditional method of putting a patient to sleep by having them breathe anesthetic gas through a mask or an endotracheal tube.
+The second is intravenous anesthesia (IVA).
+Instead of using gas, anesthetic drugs are delivered through an IV line to put the patient to sleep.
+When the word “total” is added to intravenous anesthesia, it becomes TIVA, Total Intravenous Anesthesia.
+In TIVA, no anesthetic gas is used at all. Anesthesia is maintained entirely with intravenous drugs from beginning to end.
+Propofol and remifentanil have different jobs.
+Propofol blocks consciousness and memory, putting the patient to sleep, while remifentanil blocks pain.
+TIVA has gradually become more widely used than inhalational anesthesia.
+It has many advantages: patients tend to experience less nausea and vomiting after surgery, wake up more clearly, and because no anesthetic gas is used, there is less air pollution in the operating room.
+TIVA has now become a widely used anesthetic technique, ranging from short procedures such as sedation for endoscopy to long and complicated surgeries.
+In 1972, a pharmacologist and former veterinarian named John Ian Glen joined the anesthesia research team at ICI, which is now AstraZeneca.
+The team's goal was to find an intravenous anesthetic that could put patients to sleep quickly without lingering in the body for a long time.
+According to the story, one of the team's chemists, Roger James, suggested, “Why don't we take another look at the anesthetics that had been discarded because they didn't dissolve well in water?”
+That was the moment propofol was rediscovered.
+The problem with propofol wasn't its effectiveness. It was how to dissolve it.
+Propofol is similar to oil, so it doesn't dissolve in water.
+After numerous experiments and failures, researchers found a solution.
+They dissolved propofol in soybean oil and then used an emulsifier to disperse it throughout water as extremely tiny oil droplets.
+The result is essentially hundreds of millions of microscopic oil droplets floating in water.
+These countless oil droplets scatter the light passing through them in all directions. When light of all wavelengths is scattered evenly, the mixture appears white to our eyes.
+It's similar to milk.
+Milk also contains tiny droplets of fat suspended in water, which is why it looks white. Fog and clouds appear white for essentially the same reason.
+This is why propofol is sometimes nicknamed the “milk injection.”
+Propofol was launched in the United Kingdom in 1986 and later received approval from the U.S. FDA, eventually becoming the world's top-selling anesthetic drug.
+Its advantages are impressive: patients can fall asleep within about 30 seconds, wake up quickly, feel relatively clear-headed afterward, and experience less nausea and vomiting.
+But it also has clear disadvantages.
+It has no pain-relieving effect at all, and it can cause respiratory depression and low blood pressure.
+Because of the relatively refreshing feeling people can experience when waking up from propofol, there were cases in which exhausted celebrities and businesspeople began receiving propofol simply as a way to rest.
+As this became a social issue, South Korea became the first country in the world to classify propofol as a controlled narcotic drug in 2011 and began strictly regulating it.
+Even today, propofol is not covered by the UN international drug-control conventions, and very few countries classify it as a narcotic drug.
+In most countries, it is generally regulated as a prescription-only medication.
+In South Korea, however, it is classified as a narcotic drug.
+Since propofol provides no pain relief, it needed a partner.
+That partner is remifentanil.
+Remifentanil was developed in 1991 by a research team led by Paul Feldman at Glaxo Wellcome.
+Opioid painkillers such as fentanyl are extremely powerful, but they have one major problem: they don't disappear from the body easily.
+They are mainly broken down by the liver, but the liver's processing speed is relatively slow and varies considerably from person to person.
+With fentanyl, the surgery could be over while the drug's effects were still lingering, making it difficult for anesthesiologists to predict exactly when a patient would wake up.
+Then someone came up with a clever solution.
+Researchers added a chemical bond called an ester to the fentanyl molecule.
+One characteristic of an ester bond is that it is relatively easy to break.
+It's like the difference between wrapping a package tightly with packing tape and attaching a Post-it note to it.
+Our bodies and blood contain enzymes called esterases in abundance.
+Their job is to break ester bonds.
+So the moment remifentanil enters the bloodstream, the ester bond starts being broken down by esterases throughout the body rather than waiting for the liver to process it.
+Because it doesn't rely primarily on the liver for breakdown, it can also be used in patients with impaired liver function.
+And because it is broken down so quickly, its effects largely disappear within 3–5 minutes after the infusion is stopped.
+Its analgesic potency is roughly 100 times that of morphine, yet it allows the anesthesiologist to control the level of anesthesia with remarkable precision, almost like turning a faucet on and off.
+But there is a problem after surgery.
+The moment remifentanil is stopped at the end of surgery, the pain can begin.
+That means a longer-acting traditional painkiller needs to be administered before the surgery is over.
+If the traditional painkiller is given too early or in too large a dose, the patient may have difficulty waking up from anesthesia.
+If it is given too late or at too low a dose, the patient may wake up and immediately suffer from significant pain.
+Getting this timing right is one of the skills that distinguishes a good anesthesiologist.
+One-line comment
+South Korea seems to have a tendency to respond excessively when something becomes a major social issue.
+I think regulating propofol is a good thing, but I hope the regulations don't go so far that they make legitimate medical treatment unnecessarily burdensome.
+Judging from my current condition, I think I'll probably be discharged early next week.
+Other than the hospital food, I have no complaints.
+The worst part was that waking up from anesthesia was pretty painful...
