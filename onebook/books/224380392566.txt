@@ -1,0 +1,53 @@
+The Secret Behind Korea’s CPI (feat. Will the Bank of Korea Raise Interest Rates Again?)
+There are a few things worth thinking about, so I decided to put them together.
+When you look at Korea’s Consumer Price Index (CPI), you might wonder, “How can inflation be this low when housing prices have risen so much?”
+The reason is that Korea’s CPI is more stable than you might expect.
+One of the biggest reasons Korea’s CPI looks relatively stable is the difference between Korea and the U.S. in how housing costs are measured.
+Home purchase prices are not included in Korea’s CPI.
+Since home prices are not part of the CPI, housing prices can rise dramatically while the CPI still appears relatively stable.
+What is included in Korea’s CPI are jeonse and monthly rent.
+Both jeonse and monthly rent are included in the CPI, but their weighting is relatively small. Housing rent, combining jeonse (5.4%) and monthly rent, accounts for only 9.91% of the CPI—less than 10%.
+Another factor is that changes in rent are reflected in the CPI very slowly.
+Even if market rents rise, rental prices usually do not change until the existing lease expires and the contract is renewed.
+Statistics Korea surveys rental prices across existing contracts, so even when market rents rise, the increase is not fully reflected until rental contracts are renewed.
+Since two-year leases are common in Korea, it can take quite a long time for rising jeonse and monthly rents to show up in the CPI.
+In other words, home prices themselves are not included in Korea’s CPI, while jeonse and monthly rent are included under housing rent—but their weighting is relatively small and changes are reflected slowly.
+The U.S. is different.
+In the U.S., there is a category called Owner’s Equivalent Rent (OER), which essentially asks homeowners, “If you were to rent out this home, how much rent could you receive each month?”
+Let’s say you own a 1 billion won apartment and live in it yourself.
+As the homeowner, you don’t actually pay rent. But from an economic perspective, you can look at it differently.
+The idea is: “I could rent this apartment out for 2.5 million won a month, but by living here myself, I am consuming 2.5 million won worth of housing services.”
+Even if the apartment’s market price rises from 1 billion won to 1.5 billion won, if its rental value rises from 2.5 million won to 2.7 million won per month, it is the latter increase that is reflected in inflation.
+When OER and actual rents from rental housing are combined, housing costs account for 35.6% of the U.S. CPI and 44.5% of core CPI.
+Korea has a much smaller housing-cost weighting in its CPI, and changes are reflected more slowly. However, if housing-related price increases become strong enough, they can still eventually affect the CPI.
+And this is where the August 13 comprehensive financial measures aimed at stabilizing the real estate market become an important variable.
+There are two key points that could affect the CPI.
+First, the household-loan growth target for each bank was doubled from 1.5% to 3.0%.
+Household-loan volume management is a system in which the government sets an annual ceiling in advance on how much each financial institution can increase its household lending.
+Banks have to allocate their lending capacity among mortgage loans, personal credit loans, and other products. Once the limit is used up, some borrowers may no longer be able to obtain loans.
+During the first half of the year, the stock market boom caused a surge in credit loans for leveraged stock investments, using up a significant portion of banks’ lending capacity. At the same time, the increase in housing transactions caused the remaining capacity to be depleted rapidly.
+The five major banks—KB Kookmin, Shinhan, Hana, Woori, and NongHyup—exceeded their limits in July, making it difficult for them to provide final-payment and interim-payment loans to approximately 70,000 households scheduled to move into new homes in the second half of the year.
+This led to situations described as “loan open runs” and a “final-payment loan crisis,” with actual homebuyers lining up at banks from early morning in an attempt to secure loans.
+To ease these difficulties for genuine homebuyers, the government doubled the lending limit.
+But it didn't stop there.
+Housing-related loans such as relocation loans, interim-payment loans, and final-payment loans will now be managed separately from the overall household-loan quota.
+Previously, providing a large amount of final-payment loans would reduce a bank’s capacity to provide other household loans. By treating these housing-related loans as an exception, the actual lending capacity effectively increases even further.
+The additional 1.5 percentage points amount to roughly 30 trillion won.
+However, because this money is primarily used to purchase homes, it has relatively little direct power to push up the CPI by stimulating consumer demand.
+Instead, it can affect inflation in another way.
+When credit becomes more readily available, people’s purchasing power in the housing market increases, putting upward pressure on home prices.
+Since home prices themselves are not included in Korea’s CPI, asset prices can surge while official inflation remains relatively stable.
+This can create a growing gap between people’s perception of inflation and the official inflation statistics.
+Second, the government restricted jeonse loans for non-resident single-home owners and encouraged them to actually live in their homes.
+If homeowners are encouraged to occupy their homes themselves while also facing restrictions on jeonse loans, fewer homes may be made available for rent.
+And when rental supply falls, prices tend to rise.
+This is why the Hyundai Research Institute warned that policies focused on owner-occupancy could worsen the supply-demand imbalance in the jeonse and rental markets and push inflation higher in the second half of the year.
+From the Bank of Korea’s perspective, the situation could become increasingly complicated.
+Household debt may grow faster than expected, while additional inflationary pressure from jeonse and monthly rents could emerge in the second half of the year with a time lag.
+The financial authorities want to loosen lending in order to support housing supply and genuine homebuyers.
+But the Bank of Korea has to manage the side effects of that policy—debt, housing prices, and inflation.
+In other words, the financial authorities and the Bank of Korea could end up pulling in opposite directions.
+The Bank of Korea had kept interest rates unchanged for eight consecutive meetings before raising the benchmark rate from 2.50% to 2.75% at the July 2026 Monetary Policy Board meeting.
+And it looks like we may need to consider the possibility that this was not the final rate hike and that another rate increase could come before the end of the year.
+One-line takeaway
+Because home prices themselves are not included in Korea’s CPI, and jeonse and monthly rent account for only about 10% of the index, a surge in real estate prices does not show up in Korea’s CPI as strongly as it does in the U.S. However, if the August 13 measures create significant upward pressure on housing prices and rents, inflationary pressure could emerge with a time lag, while asset-price inflation could become much larger than what the CPI suggests. This could increase pressure on the Bank of Korea to raise interest rates again.
