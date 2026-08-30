@@ -1,0 +1,146 @@
+A New Source of Energy: Fusion Power Is Moving Faster
+In 1905, at the age of 26, Albert Einstein published his theory of special relativity.
+One of the most famous equations to emerge from this work was the mass–energy equivalence principle, E = mc².
+This principle became the theoretical foundation of nuclear fusion.
+When deuterium and tritium collide, they form a helium nucleus.
+The mass of the resulting helium nucleus is slightly smaller than the combined mass of the deuterium and tritium.
+In other words, some mass has been lost.
+According to the mass–energy equivalence principle, that missing mass is converted into energy, producing energetic neutrons and other forms of kinetic energy.
+In a fusion reactor, the neutrons produced by fusion strike the reactor walls and generate heat. That heat boils water to produce steam, which then drives turbines and generates electricity.
+The Sun is essentially a natural fusion power plant.
+Fusion power is an attempt to reproduce the energy-generation process that powers the Sun here on Earth and use it to generate electricity.
+It sounds simple, but there is a major challenge: to achieve fusion, atomic nuclei have to be forced together.
+Imagine trying to push two magnets together with the same poles facing each other. They naturally repel one another.
+If you apply a force greater than the repulsive force of the magnets, you can temporarily push them together.
+Fusion works on a similar principle. If enough energy is supplied to overcome the electrostatic repulsion between atomic nuclei, a fusion reaction can occur.
+Inside the Sun, the pressure at the core is so enormous that fusion can occur at temperatures of around 10 million degrees Celsius.
+There is nowhere on Earth with pressure comparable to the Sun's core, so we need temperatures of more than 100 million degrees Celsius to achieve fusion.
+When deuterium and tritium are heated to more than 100 million degrees, they become a state of matter in which atomic nuclei and electrons are separated. This is called plasma.
+Once the plasma reaches the right conditions, atomic nuclei begin to fuse and neutrons are produced.
+If the plasma satisfies certain conditions, the fusion reaction can become self-sustaining without continuously supplying external heat—essentially creating an artificial Sun.
+There are two major approaches to fusion fuel being pursued today: one uses deuterium and tritium, while the other uses deuterium and helium-3.
+Deuterium is relatively easy to obtain. About 0.03 grams can be extracted from one liter of seawater.
+The real challenge is obtaining tritium and helium-3.
+Tritium barely exists naturally. It is produced as a byproduct of nuclear fission in reactors that use heavy water.
+The CANDU reactors in Canada and South Korea's Wolsong Nuclear Power Plant use heavy water and produce tritium.
+Tritium is used in a wide range of applications, including nuclear weapon systems, emergency-exit signs, self-luminous devices, and life-science research.
+Tritium is extremely expensive, selling for roughly $30,000 per gram at wholesale and up to $120,000 per gram at retail—around 170 million Korean won.
+It is not only expensive but also extremely scarce. As of 2025, only about 25 kilograms of tritium was estimated to be stored worldwide.
+Of that 25 kilograms, South Korea holds approximately 5.7 kilograms, and the Wolsong nuclear plant produces around 700 grams per year.
+CANDU reactors exist not only in South Korea and Canada but also in countries such as India, China, and Romania.
+However, South Korea and Canada have something the others do not: TRF, or Tritium Removal Facilities.
+TRFs are facilities that separate and purify tritium produced during the operation of nuclear reactors.
+That is one of the reasons why South Korea and Canada are the primary countries capable of supplying tritium.
+Global tritium inventories are expected to become increasingly scarce, with total stocks projected to peak at around 28 kilograms in 2030.
+There are two main reasons: the Wolsong reactors in South Korea are beginning to shut down, while demand for tritium is expected to increase rapidly.
+The EU's planned DEMO (DEMOnstration Fusion Power Plant) is expected to require approximately 5 kilograms of tritium just to begin operation.
+Wolsong Nuclear Power Plant has four CANDU reactors, Units 1 through 4.
+Unit 1 has already undergone approximately 1 trillion won worth of refurbishment for a potential life extension, but its permanent shutdown and decommissioning have nevertheless been decided. The process of selecting a decommissioning contractor is underway.
+Decommissioning is expected to begin in the first half of 2027.
+The design lives of Wolsong Units 2, 3, and 4 expire in November 2026, December 2027, and February 2029, respectively.
+Applications for life extensions of Units 2 through 4 were submitted in June 2024 and are still under review.
+Unit 2, whose design life expires this November, is the most urgent case.
+Even if its life extension is approved, the reactor reportedly needs to replace its Canadian-made pressure tubes in order to continue operating.
+The problem is that the order for those pressure tubes can only be placed after the life-extension approval.
+That makes sense from a government procurement perspective. It would be difficult for officials to spend a large amount of public money before receiving regulatory approval for continued operation.
+The Canadian supplier reportedly says that even if an order were placed now, delivery would not be possible until 2029, according to Korea Hydro & Nuclear Power (KHNP).
+This means that even if the life extension is approved, the Wolsong reactors could potentially remain offline for several years.
+As reactors that produce tritium shut down and supplies become increasingly scarce, the United States and China are also pursuing another approach: fusion using helium-3.
+There is a major difference between tritium–deuterium fusion and helium-3–deuterium fusion.
+Tritium fusion can occur at around 100 million degrees Celsius, whereas helium-3 requires temperatures of more than 600 million degrees Celsius.
+Helium-3 has one more proton than tritium, creating a much stronger electrostatic repulsion between nuclei.
+Just as stronger magnets are harder to push together when their like poles face each other, helium-3 fusion is considerably more difficult than tritium fusion.
+Current fusion research is therefore moving in two broad directions.
+The first is to continue using tritium while developing technology to recycle and breed more tritium because supplies are limited.
+If the plasma is surrounded by lithium, the high-energy neutrons produced by fusion can collide with the lithium and generate new tritium.
+Theoretically, this process could produce around 15% more tritium than the reactor consumes.
+Once processing losses are taken into account, however, that would provide only a very narrow margin for keeping the reactor running continuously.
+The concept is theoretically feasible, but it has not yet been demonstrated at the required engineering scale, so there is still a long way to go.
+The other approach is to use helium-3.
+On May 26, 2026, NASA announced plans for a Moon Base.
+NASA aims to return humans to the lunar surface in 2028.
+Unlike the Apollo missions of the 1960s, which involved relatively short visits, the goal is to build a permanent lunar base capable of supporting long-term habitation.
+The lunar base the United States is envisioning is larger than many people might expect.
+It would cover approximately 300 square miles, or 777 square kilometers.
+For comparison, Seoul has an area of roughly 605 square kilometers, meaning the planned area would be about 1.3 times the size of Seoul.
+Of course, this does not mean the entire area will be covered with buildings. It refers to the broader zone containing landing sites, solar power facilities, habitation modules, and other infrastructure.
+There is no conventional legal ownership of lunar territory, but establishing a base could provide a form of practical priority or strategic presence. That appears to be one reason the United States wants to secure as large an area as possible.
+In 2028, the first crewed lunar landing since Apollo is expected to take place, followed by more serious efforts toward short-term habitation beginning in 2029.
+NASA has also presented a vision for a “lunar economy.”
+The NASA administrator has said that the goal is to create a lunar economy and that continuous space exploration cannot rely solely on taxpayer funding.
+In other words, the goal is to make money on the Moon.
+One potential revenue model is a space gas station.
+The idea is to extract ice from the Moon, separate it into hydrogen and oxygen, turn it into rocket fuel, and sell that fuel to private spacecraft.
+The second potential business is mining helium-3 from the lunar surface.
+The solar wind carries helium-3 through space, but Earth's magnetic field and atmosphere prevent most of it from reaching the surface.
+The Moon has neither a global magnetic field nor an atmosphere, so helium-3 from the solar wind has accumulated in the lunar soil over billions of years.
+The basic idea is to excavate lunar regolith, heat it, and extract the helium-3 contained within it.
+The company pursuing this commercially is Interlune.
+Interlune, together with industrial equipment manufacturer Vermeer, has unveiled a prototype excavator designed to process 100 tons of lunar regolith per hour.
+The company has announced a roadmap targeting a demonstration on the Moon in 2027 and its first commercial mining operation in 2029.
+However, the helium-3 Interlune plans to bring back to Earth is not primarily intended for fusion.
+Interlune has signed a supply agreement with Finnish cryogenic cooling equipment company Bluefors to provide approximately 1.3 kilograms of lunar helium-3 per year from 2028 through 2037.
+The contract is reportedly worth around $300 million and is intended for use in quantum computing, because helium-3 is essential for cooling quantum computers to temperatures close to absolute zero.
+As Google, IBM, Intel, Amazon, and Microsoft scale up their quantum-computing programs, demand for helium-3 is expected to surge.
+The U.S. Department of Energy has also signed a contract with Interlune for fusion research, but the initial commitment is only to deliver 0.4 grams at market price in 2029.
+If Interlune succeeds in bringing helium-3 back to Earth, it expects the material could eventually command a price of around $20 million per kilogram.
+The helium-3 is expected to be transported from the Moon to Earth using SpaceX's Starship.
+Apollo landed a lunar module carrying two astronauts and several hundred kilograms of equipment.
+Starship, by contrast, is designed to land nearly 100 tons of people and cargo on the Moon.
+Even if helium-3 can be secured, however, another enormous challenge remains: heating it to 600 million degrees Celsius and maintaining a stable plasma at that temperature.
+One of the companies currently making particularly rapid progress in fusion is Commonwealth Fusion Systems (CFS).
+CFS is a company that spun out of MIT. It is building a fusion demonstration machine called SPARC in Devens, Massachusetts, and the project is reportedly about 75% complete.
+On July 1, 2025, Google signed an agreement to purchase 200 megawatts of fusion energy from CFS.
+CFS is also developing a 400-megawatt commercial fusion power plant called ARC in Virginia, meaning Google has effectively secured half of the plant's planned output.
+CFS, which was founded out of MIT, proposed in 2021 that it was theoretically possible to build a fusion system capable of achieving net energy gain, producing more energy than the amount supplied to the system.
+Investors including Bill Gates and Amazon founder Jeff Bezos have invested around $2 billion in CFS to help turn that theory into a commercial fusion power plant.
+Other major CFS investors include Nvidia, Stanley Druckenmiller, and former Google CEO Eric Schmidt.
+CFS is targeting operation of its SPARC demonstration machine by the end of 2027, while simultaneously developing the 400-megawatt ARC plant in Virginia, which would be capable of supplying electricity to approximately 280,000 homes.
+Another company is Helion Energy.
+OpenAI's Sam Altman serves as its chairman and largest shareholder and has invested $375 million of his personal wealth in the company.
+Helion is also accelerating commercialization with backing and participation from people and organizations including Palantir's Peter Thiel, NASA, the U.S. Department of Energy, and the U.S. Department of Defense.
+CFS uses tritium, while Helion is pursuing a helium-3-based approach, meaning Helion is taking on a technically more difficult challenge.
+The grand old name in private fusion research is TAE Technologies.
+Founded in California in 1998, TAE has received approximately $1.3 billion in investment from companies and investors including Google, Chevron Technology Ventures, and others.
+Fusion energy is also receiving strong support under Trump's second administration.
+On June 9, 2026, the U.S. Department of Energy announced its final roadmap for the commercialization of fusion energy.
+A newly established Office of Fusion will oversee implementation of the roadmap.
+The goal is to build fusion power plants through public-private cooperation during the 2030s.
+TAE is collaborating with the U.S. Department of Energy, Google, UCLA, and others, and holds more than 1,500 fusion-related patents.
+There is also a reason Trump might have a particular interest in fusion.
+On December 18, 2025, TAE and Trump Media & Technology Group (TMTG) announced plans to merge.
+The transaction is structured as a stock-for-stock merger, with shareholders of the two companies ultimately holding shares representing roughly half of the combined company.
+TMTG would also provide $300 million in cash to TAE, creating a structure in which cash from Trump's media company would be used to help commercialize TAE's fusion technology.
+According to an SEC filing made in August, the companies are targeting regulatory approval of the merger during the fourth quarter of 2026 and aim to secure a site and begin construction of a power plant within 2026.
+On August 5, 2026, TMTG also disclosed that it had signed an agreement with Black Moon Energy to secure helium-3 for fusion applications, suggesting that the company is also exploring helium-3-based fusion.
+TMTG is the media company founded by Trump in 2021 and currently operates Truth Social, which serves as Trump's primary social-media platform.
+In addition to Truth Social, the company has also expanded into areas such as cryptocurrency-related investments.
+After becoming president, Trump transferred his assets into the Donald J. Trump Revocable Trust.
+Trump previously owned approximately 52% of TMTG, and that stake was also transferred to the trust.
+Trump himself is the beneficiary of the trust, while his son Donald Trump Jr. serves as trustee.
+Voting rights and investment authority over the shares held by the trust are exercised by Trump Jr., while the economic benefits ultimately go to Trump.
+In other words, although the assets are held through a trust structure, they retain much of the character of Trump's personal wealth.
+This creates an unusual situation in which a company whose largest shareholder is the sitting president is merging with a fusion company operating in an industry that the U.S. government is actively promoting.
+The New York Times and others have raised questions about potential conflicts of interest.
+Helium-3 is abundant on the Moon, but it is also produced on Earth.
+The helium-3 found on Earth is generated as a byproduct of tritium decay.
+Since tritium itself is extremely scarce, helium-3 is naturally scarce as well.
+The United States produces less than one kilogram of helium-3 per year, which is one reason large-scale future applications may eventually require helium-3 imported from the Moon.
+The remaining major challenge for fusion is therefore maintaining stable plasma for a sufficiently long period of time.
+China is pursuing fusion power as a national strategic project and has set a goal of becoming the world's leading fusion nation by 2028.
+In January 2026, China announced plans to build a fusion science and technology innovation demonstration zone in Hefei's Changfeng County, integrating a research park, industrial cluster, and residential facilities.
+China aims to begin transmitting commercially generated fusion electricity to the actual power grid from 2035.
+Construction of BEST, its research and demonstration fusion reactor, began in 2023.
+BEST is targeted for completion by the end of 2027. Once demonstration testing is completed, China plans to build the much larger CFETR (China Fusion Engineering Test Reactor).
+China is accelerating its research by deploying more than ten times as many PhD-level researchers as the United States reportedly assigns to fusion research, while operating research teams around the clock in three shifts.
+At the EAST superconducting tokamak in Hefei, China has successfully maintained plasma for 1,066 seconds—about 17 minutes—setting a world record.
+The already completed EAST tokamak is being used for physical validation and experiments.
+The current schedule is to complete BEST in 2027, demonstrate sustained plasma operation, and then move on to construction of CFETR.
+One-line comment
+There is an old joke about fusion energy: whenever someone asks when fusion will become commercially viable, the answer is always “30 years from now,” regardless of when the question is asked.
+Fusion, which has always been described as a technology that is "30 years away," is now being accompanied by concrete roadmaps targeting commercialization within the next decade.
+CFS is pursuing a relatively stable commercialization strategy—essentially making existing technology smaller, stronger, and more practical—while Helion is taking a radically different approach and attempting to achieve fusion in an entirely new way.
+Both companies are competing for the title of the world's first commercial fusion power plant, with their current targets falling somewhere between 2027 and 2028.
+TAE has also joined the race, turning it into a three-way competition.
+And given that a company personally associated with Trump is merging with a fusion company, it certainly seems likely that government support for the industry will remain strong.
+As I mentioned in Part 1, the more I look into it, the more I feel that Wolsong Nuclear Power Plant is such a wasted opportunity.
