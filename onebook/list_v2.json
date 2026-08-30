@@ -1,4 +1,24 @@
 [
+    {"category":"메르 스페셜 🌎", "value": [
+        {"title":"케빈워시연설", "thumb":"https://exceedventures.github.io/onebook/covers/224393780073.cover.jpg", "id":"224393780073", "name":"224393780073"},
+        {"title":"네팔빙하쓰나미", "thumb":"https://exceedventures.github.io/onebook/covers/224392716873.cover.jpg", "id":"224392716873", "name":"224392716873"},
+        {"title":"BTS와그래미상", "thumb":"https://exceedventures.github.io/onebook/covers/224364554852.cover.jpg", "id":"224364554852", "name":"224364554852"},
+        {"title":"한국CPI의비밀", "thumb":"https://exceedventures.github.io/onebook/covers/224380392566.cover.jpg", "id":"224380392566", "name":"224380392566"},
+        {"title":"중국김의비밀", "thumb":"https://exceedventures.github.io/onebook/covers/224380774292.cover.jpg", "id":"224380774292", "name":"224380774292"},
+        {"title":"신박한마취의세계", "thumb":"https://exceedventures.github.io/onebook/covers/224372702673.cover.jpg", "id":"224372702673", "name":"224372702673"},
+        {"title":"구마모토대지진", "thumb":"https://exceedventures.github.io/onebook/covers/224361223087.cover.jpg", "id":"224361223087", "name":"224361223087"},
+        {"title":"반려동물과알러지", "thumb":"https://exceedventures.github.io/onebook/covers/224335831242.cover.jpg", "id":"224335831242", "name":"224335831242"}
+    ]}, 
+
+    {"category":"초급자용 추천원서 ❤️", "value": [
+        {"title":"비밀의화원", "thumb":"https://exceedventures.github.io/onebook/covers/secret_garden.cover.jpg", "id":"j01", "name":"secret_garden"},
+        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women2.cover.jpg", "id":"j04", "name":"women"},        
+        {"title":"소공녀", "thumb":"https://exceedventures.github.io/onebook/covers/little_princess.cover.jpg", "id":"j02", "name":"little_princess"},
+        {"title":"오즈의마법사", "thumb":"https://exceedventures.github.io/onebook/covers/oz2.cover.jpg", "id":"j03", "name":"oz"},
+        {"title":"크리스마스캐롤", "thumb":"https://exceedventures.github.io/onebook/covers/christmas_carol.cover.jpg", "id":"j05", "name":"christmas_carol"},
+        {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"j06", "name":"alice"}    
+    ]},    
+
     {"category":"레전드 연설문 📢", "value": [
         {"title":"스티브잡스연설문", "thumb":"https://exceedventures.github.io/onebook/covers/jobs.cover.jpg", "id":"s011", "name":"jobs"},
         {"title":"케빈파이기연설문", "thumb":"https://exceedventures.github.io/onebook/covers/kevin.cover.jpg", "id":"s033", "name":"kevin"},
@@ -11,15 +31,6 @@
         {"title":"수잔케인atTED", "thumb":"https://exceedventures.github.io/onebook/covers/susan_cain.cover.jpg", "id":"s003", "name":"susan_cain"},
         {"title":"오바마취임연설문", "thumb":"https://exceedventures.github.io/onebook/covers/obama.cover.jpg", "id":"s022", "name":"obama"}
             
-    ]},
-
-    {"category":"초급자용 추천원서 ❤️", "value": [
-        {"title":"비밀의화원", "thumb":"https://exceedventures.github.io/onebook/covers/secret_garden.cover.jpg", "id":"j01", "name":"secret_garden"},
-        {"title":"작은아씨들", "thumb":"https://exceedventures.github.io/onebook/covers/women2.cover.jpg", "id":"j04", "name":"women"},        
-        {"title":"소공녀", "thumb":"https://exceedventures.github.io/onebook/covers/little_princess.cover.jpg", "id":"j02", "name":"little_princess"},
-        {"title":"오즈의마법사", "thumb":"https://exceedventures.github.io/onebook/covers/oz2.cover.jpg", "id":"j03", "name":"oz"},
-        {"title":"크리스마스캐롤", "thumb":"https://exceedventures.github.io/onebook/covers/christmas_carol.cover.jpg", "id":"j05", "name":"christmas_carol"},
-        {"title":"이상한나라의앨리스", "thumb":"https://exceedventures.github.io/onebook/covers/alice.cover.jpg", "id":"j06", "name":"alice"}    
     ]},    
 
     {"category":"칼리지보드 추천서 🎓", "value": [
@@ -126,18 +137,7 @@
         {"title":"리틀브라더", "thumb":"https://exceedventures.github.io/onebook/covers/little_brother.cover.jpg", "id":"hd001", "name":"little_brother"},
         {"title":"홈랜드", "thumb":"https://exceedventures.github.io/onebook/covers/home_land.cover.jpg", "id":"hd002", "name":"home_land"},
         {"title":"매직킹덤", "thumb":"https://exceedventures.github.io/onebook/covers/magic_kingdom.cover.jpg", "id":"hd003", "name":"magic_kingdom"}
-    ]},
-
-    {"category":"메르 스페셜 🌎", "value": [
-        {"title":"케빈워시연설", "thumb":"https://exceedventures.github.io/onebook/covers/224393780073.cover.jpg", "id":"224393780073", "name":"224393780073"},
-        {"title":"네팔빙하쓰나미", "thumb":"https://exceedventures.github.io/onebook/covers/224392716873.cover.jpg", "id":"224392716873", "name":"224392716873"},
-        {"title":"BTS와그래미상", "thumb":"https://exceedventures.github.io/onebook/covers/224364554852.cover.jpg", "id":"224364554852", "name":"224364554852"},
-        {"title":"한국CPI의비밀", "thumb":"https://exceedventures.github.io/onebook/covers/224380392566.cover.jpg", "id":"224380392566", "name":"224380392566"},
-        {"title":"중국김의비밀", "thumb":"https://exceedventures.github.io/onebook/covers/224380774292.cover.jpg", "id":"224380774292", "name":"224380774292"},
-        {"title":"신박한마취의세계", "thumb":"https://exceedventures.github.io/onebook/covers/224372702673.cover.jpg", "id":"224372702673", "name":"224372702673"},
-        {"title":"구마모토대지진", "thumb":"https://exceedventures.github.io/onebook/covers/224361223087.cover.jpg", "id":"224361223087", "name":"224361223087"}
-        
-    ]},        
+    ]},       
 
     {"category":"영어로 읽는 한국고전", "value": [
         {"title":"홍길동전", "thumb":"https://exceedventures.github.io/onebook/covers/gildong.cover.jpg", "id":"kor01", "name":"gildong"},
