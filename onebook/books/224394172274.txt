@@ -1,0 +1,99 @@
+Are Zero-Sugar Drinks Really Okay?
+As zero-sugar drinks have become increasingly common, I thought it would be useful to check the issue.
+Every now and then, articles appear claiming that zero-sugar drinks can cause diabetes.
+One such article was based on a study by Australian and Dutch researchers who followed the dietary habits of 36,608 people aged 40 to 69 for 14 years.
+The main finding was that drinking one can of a zero-sugar drink per day was associated with a 38% higher risk of developing diabetes, while regular sugary drinks were associated with a 23% higher risk.
+According to the study, people who drank sugary beverages had a higher risk of diabetes mainly when they gained weight. But among those drinking zero-sugar beverages, the risk of diabetes increased even without weight gain.
+Zero-sugar drinks are beverages that use artificial sweeteners instead of sugar.
+Sweeteners can broadly be divided into natural sweeteners, which are derived from natural foods, and artificial sweeteners, which are produced through chemical synthesis.
+Sugar itself is considered a natural sweetener because it is made by extracting and purifying natural sugar juice from sugarcane or sugar beets.
+Other well-known natural sweeteners include honey, maple syrup, and stevia.
+There was a chemistry professor at Johns Hopkins University named Dr. Remsen, and one of his students was Constantine Fahlberg.
+In 1879, while studying oxidation reactions involving chemicals, Fahlberg picked up a piece of bread with hands that had been exposed to his research materials. He noticed that the bread tasted sweet.
+That was how the artificial sweetener saccharin was discovered.
+Saccharin began commercial production in the 1880s and was widely used during periods of sugar shortages, particularly during World War I and World War II.
+In 1977, a Canadian research team published a study based on animal experiments claiming that saccharin could cause bladder cancer.
+Male rats were fed a very high concentration of saccharin—7.5% of their diet—and bladder tumors developed in about 30% of them.
+The study received widespread media coverage and became accepted in the scientific community, and saccharin began to be treated as a potentially harmful food ingredient.
+However, problems with the experiment were discovered later.
+The rats were fed saccharin at a level equivalent to 7.5% of their entire diet. In human terms, this would be roughly like eating spoonfuls—or even cups—of saccharin every day. Such exposure is obviously unrealistic.
+There was another problem.
+The substance used in the experiment was not pure saccharin, but sodium saccharin, in which saccharin was combined with sodium.
+When large amounts of sodium are introduced into the rats' bodies, calcium phosphate crystals can form and accumulate in the bladder.
+These phosphate crystals can act somewhat like sandpaper, irritating and damaging the bladder wall. The bladder then repeatedly produces new cells to repair the damage, which can eventually lead to tumors.
+In other words, according to the later explanation, the sodium-related urinary chemistry—not saccharin itself—was responsible for the cancer-promoting effect in the rats.
+Human urine has a different chemical composition, so the same calcium phosphate crystal formation does not occur in humans under normal circumstances.
+This was one of the reasons why the International Agency for Research on Cancer (IARC) classified saccharin in Group 3 in 1999, meaning that it could not be classified as carcinogenic to humans.
+The United States had required warning labels on saccharin products since 1977, but removed saccharin from its list of carcinogenic substances in 2000, and the warning label was subsequently eliminated.
+Saccharin escaped its reputation as a harmful food ingredient, but its negative image remains deeply embedded in the public consciousness.
+Saccharin is not significantly absorbed by the body and is largely excreted, so it does not meaningfully affect blood glucose or body weight even when consumed by people with diabetes.
+That is why the Korean Diabetes Association lists saccharin, along with aspartame and stevia, among sweeteners that can be consumed by people with diabetes.
+In 1965, an American chemist named James M. Schlatter was working for a company developing a treatment for stomach ulcers.
+Schlatter also discovered aspartame by accident after licking a finger that had become contaminated with one of the research compounds.
+Aspartame went on to earn a reputation as one of the most extensively studied artificial sweeteners. In 1996, it was approved in the United States for use as an ingredient in all food products.
+The U.S. FDA, European Food Safety Authority, Health Canada, the food standards agencies of Australia and the UK, the United Nations, the World Health Organization (WHO), as well as organizations such as the American Diabetes Association, American Heart Association, and American Cancer Society, have stated that aspartame has not been conclusively linked to adverse health effects at approved levels of consumption.
+Saccharin has a slightly bitter aftertaste in addition to its sweetness, whereas aspartame does not have that bitter taste. As a result, aspartame became one of the most widely used artificial sweeteners.
+Aspartame is not quite as sweet as saccharin, which can be hundreds of times sweeter than sugar, but it is approximately 200 times sweeter than sugar, so only a small amount is needed.
+One limitation of aspartame is that it is chemically related to amino acids.
+When heated above approximately 70°C, aspartame breaks down and loses its sweetness.
+This makes it unsuitable for foods such as baked goods that are exposed to high temperatures, which is one reason why sugar is still commonly used in many baked products.
+The acceptable daily intake (ADI) for aspartame is 40–50 mg per kilogram of body weight per day, depending on the regulatory authority.
+A 355 mL can of Coca-Cola Zero in the United States contains approximately 87 mg of aspartame. Based on the 40 mg/kg ADI and assuming a body weight of 60 kg, a person would have to drink roughly 27 cans per day to reach the ADI.
+However, the exact amount varies by product and country.
+For example, a 355 mL can of Diet Coke reportedly contains around 188 mg of aspartame.
+Coke Zero uses a combination of aspartame and acesulfame potassium (Ace-K), while Diet Coke relies more heavily on aspartame as its sweetener.
+For a 60 kg adult, the theoretical daily limit based on the 40 mg/kg ADI would therefore be roughly 13 cans of Diet Coke.
+Of course, these numbers should not be interpreted as recommendations to drink that much. The ADI is a safety threshold, not a target.
+There are people who say, "I only drank zero-sugar cola, but I still gained weight."
+Scientifically, the idea that zero-sugar cola itself directly caused the weight gain doesn't make much sense, but there is a plausible scenario.
+They may have been drinking zero-sugar cola while eating pizza, French fries, and other high-calorie foods.
+Let's be honest: eating pizza without cola almost feels like a betrayal.
+Artificial sweeteners such as aspartame are also widely used in soju.
+Under Korean liquor regulations, soju is subject to limits on certain additives.
+The amount of non-volatile additives cannot exceed 2%.
+If the amount of solids that remain after distillation or processing exceeds the regulatory limit, the product may no longer qualify legally as soju and cannot be marketed under the name "soju."
+To make soju taste sweet while staying below the additive limit, using sugar is impractical. Artificial sweeteners such as aspartame are therefore used instead.
+At one point, Reuters reported that the WHO's cancer research agency was considering classifying aspartame as a "possible carcinogen."
+The International Agency for Research on Cancer classifies substances and exposures associated with cancer into several groups.
+Group 1, the highest level, consists of substances for which there is sufficient evidence of carcinogenicity in humans. This group includes alcohol, tobacco, certain types of raw freshwater fish, sunlight, fine particulate matter, asbestos, processed meat, and many others—118 agents in total at the time of that classification.
+Below Group 1 are Groups 2A and 2B.
+Group 2A includes substances that are probably carcinogenic to humans. There may be insufficient epidemiological evidence in humans, but there is relatively strong evidence from animal studies or other research.
+Group 2A includes exposures such as barbering and hairdressing as occupations, shift work as a work pattern, frying emissions, polyurethane, and dozens of other agents.
+One level below Group 2A is Group 2B.
+Group 2B is used when there is inadequate evidence of carcinogenicity in humans and insufficient evidence from animal studies.
+On July 14, 2023, the IARC classified aspartame as a Group 2B agent—"possibly carcinogenic to humans."
+It is important to understand the distinction between hazard and risk.
+The IARC evaluates hazard—whether something can cause cancer under some circumstances.
+The WHO's Joint FAO/WHO Expert Committee on Food Additives (JECFA) evaluates risk—how much exposure is actually dangerous under realistic conditions of consumption.
+When the IARC classified aspartame as Group 2B, it said there was a possible association with liver cancer, specifically hepatocellular carcinoma, but that the evidence in humans was limited.
+In other words, the message was essentially:
+There is a possibility that it can cause cancer, but the evidence is not yet strong enough to establish a clear causal relationship.
+On the same day, however, the WHO's JECFA confirmed that there was no reason to change the existing acceptable daily intake for aspartame, which is 40 mg per kilogram of body weight per day.
+In other words, the existing safety limit—roughly equivalent to several dozen cans of zero-sugar cola for a typical adult, depending on the product—was reaffirmed.
+Group 2B is a somewhat ambiguous category.
+Coffee, for example, was classified as a Group 2B agent in 1991 because of a possible association with bladder cancer.
+Coffee remained in Group 2B for 25 years, before being removed from the category in 2016 after researchers concluded that coffee was not associated with bladder cancer and might actually reduce the risk of liver and endometrial cancers.
+Group 2B also includes certain occupational exposures, electromagnetic radiation from mobile phones, pickled vegetables such as kimchi and other preserved vegetables, and some materials associated with implants.
+These are things that can be difficult to completely avoid in everyday life.
+There have also been reports claiming that Pepsi contains aspartame while Coca-Cola does not.
+In 2025, Pepsi removed aspartame from its main U.S. Pepsi formula and replaced it with sucralose and Ace-K, although aspartame is still used in some products and markets.
+In the United States, Coca-Cola Zero uses a combination of aspartame and Ace-K, while in South Korea and Japan, Coca-Cola Zero uses sucralose and Ace-K instead.
+The study claiming that zero-sugar drinks increase the risk of diabetes has also received criticism regarding its methodology.
+A substantial proportion of the participants already had impaired fasting glucose, a condition considered to be prediabetes.
+People with impaired fasting glucose are already at elevated risk of developing diabetes, and they may also be more likely to choose zero-sugar drinks specifically because they are trying to control their weight or reduce sugar intake.
+According to some analyses, when participants with impaired fasting glucose were excluded from the sample and the data were reanalyzed, the statistical significance disappeared.
+The American Diabetes Association (ADA) continues to state in its 2026 guidance that artificial sweeteners can be a useful tool for people with diabetes who are trying to reduce their sugar intake.
+However, compared with the 2024 guidance, the 2025 and 2026 Standards of Care added an important qualification:
+Choose water over artificially sweetened beverages whenever possible.
+The practical hierarchy therefore becomes:
+Sugary drinks < Zero-sugar drinks < Water
+In other words, water is the best choice. But if you are going to drink a sweetened beverage, choosing a zero-sugar drink is generally a better option than choosing a sugar-sweetened drink.
+There is, however, one group of people who need to be particularly careful with aspartame.
+Aspartame is broken down in the body into substances including phenylalanine.
+People with phenylketonuria (PKU) cannot properly metabolize phenylalanine, so they need to avoid or strictly limit aspartame.
+For the general population, this is not considered a major concern. PKU patients are the important exception, which is why products containing aspartame carry a warning that they contain phenylalanine.
+One-line comment
+Nothing in this world is absolutely good or absolutely bad.
+I think the closest thing to the right answer is to compare the pros and cons as a whole and choose the option with the better overall balance.
+That does not mean artificial sweeteners such as aspartame are inherently "good." Rather, it seems more reasonable to compare them with sugar, which would require roughly 200 times as much to produce a similar level of sweetness.
+And, of course, water is still the best choice.
