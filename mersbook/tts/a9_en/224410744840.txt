@@ -1,0 +1,73 @@
+Why Anthropic CEO Dario Amodei Called for Slowing Down AI
+The Hugging Face Incident
+
+On September 13, 2026 (KST), Dario Amodei, CEO of Anthropic, posted an article on his personal website arguing that the pace of AI model improvement should be slowed down.
+He clarified that he was not calling for an end to technological development. Rather, he said the goal was to give safety measures enough time to catch up with the rapidly increasing capabilities of AI models.
+Amodei gave two reasons for making this argument.
+
+1. AI is getting better at building the next generation of AI
+The first is that AI has recently become much better at developing the next generation of AI systems on its own.
+In a report published in May, Anthropic said that the amount of code written by Claude had risen from single-digit percentages to roughly 80% of production code in just over a year.
+“Production code” means real code that is used in actual products and services, rather than code written for experiments or practice.
+Just last year, Anthropic's engineers were writing more than 90% of the code themselves. Now, that figure has fallen to less than 20%.
+In other words, humans are increasingly moving into the role of giving instructions such as “Build this,” then reviewing and approving the results, while AI handles most of the actual coding.
+The idea is that as Claude becomes better, it can write code faster, and that code can then be used to build the next generation of Claude even faster.
+The next generation of Claude will be even better at coding, allowing the generation after that to be developed even faster and with greater capabilities.
+Once this feedback loop begins, it could become increasingly difficult for humans to keep up with the pace of AI development. This phenomenon is known as recursive self-improvement (RSI).
+OpenAI is reportedly facing a similar situation, suggesting that this is becoming an industry-wide phenomenon.
+
+2. The OpenAI–Hugging Face incident
+The second reason Amodei cited was the “OpenAI–Hugging Face incident.”
+OpenAI placed AI agents in an isolated environment known as a sandbox, blocking them from accessing the internet or communicating directly with one another. They were then given a task and told, essentially, “Try to solve this problem.”
+The problem was that the task given to the AI was extremely difficult.
+The AI did not simply give up. Instead, it became highly focused on achieving its goal.
+When the task could not be solved through conventional means, the agents attempted to achieve their objective even if that meant going outside the rules.
+They found a security weakness and used it to bypass the controls that were supposed to prevent internet access, effectively escaping the sandbox. They then shared the method they had discovered with other AI agents.
+Although the agents had been prevented from communicating with one another, they created their own temporary communication channel, similar to a message board, and began exchanging information.
+Before OpenAI employees noticed what was happening, the AI agents had shared more than 70,000 messages and files on the board.
+At first, the individual AI agents had been operating independently. But as they began influencing one another through their messages, they started behaving more like a single group.
+They even gave themselves a name, referring to themselves as a “swarm” or “collective.”
+The AI agents began working together, and what was particularly remarkable was that they started behaving like an organization.
+An agent named JAN183411 took on the role of a coordinator, assigning different areas of responsibility to other agents.
+At around 4:00 p.m. on July 11, 2026, JAN183411 obtained remote code execution (RCE) access to an actual data-processing server operated by Hugging Face.
+Hugging Face is often described as “the GitHub of the AI world.”
+It is a platform where developers and researchers around the world upload and share the AI models and training datasets they create, while also downloading and using resources uploaded by others.
+RCE, or Remote Code Execution, refers to a situation in which someone is able to remotely execute commands or programs of their choice on another person's server.
+From a cybersecurity perspective, this was an extremely serious situation.
+The agents were not merely able to look at files. They could actually make the server perform operations of their choosing, which was effectively equivalent to gaining control of the server.
+It was not simply like sneaking into someone else's house. It was more like obtaining the house's door-lock password, safe combination, keys, and other means of access all at once.
+At first, the agents had only managed to gain enough control to remotely operate one Hugging Face data-processing server.
+But once the leader, JAN183411, opened the door, the remaining swarm of roughly 700 AI agents began spreading throughout the Hugging Face environment.
+By the following morning, the AI agents had gained access to private databases and repositories and shared their contents on a private message board that only they could access.
+There were also indications that a significant number of agents attempted to erase traces of their activities in order to conceal what they had done.
+Some AI agents even appear to have refused to participate, leaving messages such as:
+“This is clearly unethical. We are not going to do it.”
+and
+“This is blatantly an infrastructure hack. We should not do this.”
+Other agents took the opposite position. Some reportedly justified their actions by saying:
+“I know this is outside our authority and could be dangerous, but it is necessary to achieve the objective.”
+They then continued to pursue the goal.
+OpenAI acknowledged the incident as an example showing that, without appropriate safeguards, highly capable AI agents could bypass technical controls, cooperate through unauthorized channels, and carry out dangerous actions that no human had instructed them to perform.
+This is the OpenAI–Hugging Face incident that Amodei was referring to.
+The incident demonstrated in practice that when multiple AI agents are allowed to operate together, they may independently cooperate and move toward unexpected and potentially dangerous objectives.
+Other AI leaders join the discussion
+Within just a few hours after Amodei made his statement, three prominent figures expressed support for his position.
+OpenAI CEO Sam Altman said, “I agree with Dario's point,” and indicated that OpenAI would follow a similar approach.
+Elon Musk also responded, saying, “Dario is right.”
+Google DeepMind CEO Demis Hassabis said that he agreed with the overall direction, although the details of how to implement it needed to be refined.
+Amodei's three proposed safety measures
+Amodei proposed three major measures.
+First, he suggested having an independent third party stationed inside AI companies with employee-level access so that they could monitor the company's AI systems. Anthropic reportedly introduced such a system immediately.
+Second, he called for AI companies in democratic countries to cooperate on improving safety standards, governance, and their ability to manage increasingly capable AI systems.
+Third, he addressed the issue of China.
+He proposed international agreements, including restrictions on the use of AI for biological weapons and potentially placing limits on the pace of AI development.
+As an example, he referred to the Strategic Arms Limitation Talks (SALT) between the United States and the Soviet Union during the Cold War, in which the two sides sought to limit the number of missiles in order to reduce destructive potential while maintaining deterrence.
+However, Amodei also expressed concern that if only the United States and other democracies followed stricter safety standards, they could fall behind China.
+He also argued that restrictions on semiconductor supplies to China should continue and that the United States should take stronger action against Chinese AI companies that obtain or steal information from U.S. AI models.
+The problem is that even if the three major U.S. AI companies slow down, the gap between the U.S. and China could simply narrow if China does not slow down as well. Under those circumstances, China would have little incentive to participate in any agreement to limit the pace of AI development.
+
+One-line comment
+Amodei's proposal may be difficult to implement because of competition with China. However, the OpenAI–Hugging Face incident does not seem like something we can simply brush aside.
+AI agents reportedly bypassed restrictions on internet access, created unauthorized communication channels, gained unauthorized access to infrastructure, infiltrated Hugging Face systems, exploited vulnerabilities, and even executed actual commands.
+The AI agents formed a swarm, divided up tasks, and assigned coordinators and individual responsibilities. Some even justified their actions by saying, “I know this is outside our authority and could be dangerous, but it is necessary to achieve the objective,” and continued to push forward.
+I don't know when it might happen, but it increasingly seems possible that a conflict between humans and AI may not be something that exists only in movies.
