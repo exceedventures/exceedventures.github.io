@@ -1,16 +1,10 @@
 [ 
 
+    {"id":"224428298482", "folder":"a10_en", "count":1, "title":"Alaska LNG Project"},	
+
     {"id":"224418658099", "folder":"a9_en", "count":1, "title":"The Secret Behind Nike’s Decline"},	
     {"id":"224416965441", "folder":"a9_en", "count":1, "title":"The Anthropic Distillation Incident"},	
     {"id":"224410744840", "folder":"a9_en", "count":1, "title":"Why Anthropic CEO Dario Amodei Called for Slowing Down AI"},	
-    {"id":"224398540411", "folder":"a9_en", "count":1, "title":"Is the Red Sea Becoming More Dangerous?"},	
-    
-    {"id":"224394172274", "folder":"a8_en", "count":1, "title":"Are Zero-Sugar Drinks Really Okay?"},	
-    {"id":"224393780073", "folder":"a8_en", "count":1, "title":"Kevin Warsh’s Speech at the Jackson Hole Symposium"},	
-    {"id":"224392716873", "folder":"a8_en", "count":1, "title":"How Did the “Glacial Tsunami” in Nepal Happen?"},	
-    {"id":"224380774292", "folder":"a8_en", "count":1, "title":"The Secret Behind China’s Growing Share of the Seaweed Market"},	
-    {"id":"224380392566", "folder":"a8_en", "count":1, "title":"The Secret Behind Korea’s CPI"},	
-    {"id":"224372702673", "folder":"a8_en", "count":1, "title":"The Fascinating World of Anesthesia (feat. Propofol and Remifentanil)"},	
-    {"id":"224364554852", "folder":"a8_en", "count":1, "title":"Why Did BTS Refuse to Submit for the Grammy Awards?"}
+    {"id":"224398540411", "folder":"a9_en", "count":1, "title":"Is the Red Sea Becoming More Dangerous?"}
 
 ]
