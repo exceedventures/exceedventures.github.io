@@ -1,6 +1,7 @@
 [
     {"category":"메르 스페셜 🌎", "value": [
-        
+
+        {"title":"가장위험한물질", "thumb":"https://exceedventures.github.io/onebook/covers/224431604995.cover.jpg", "id":"224431604995", "name":"224431604995"},
         {"title":"알래스카LNG사업", "thumb":"https://exceedventures.github.io/onebook/covers/224428298482.cover.jpg", "id":"224428298482", "name":"224428298482"},
         {"title":"나이키의몰락", "thumb":"https://exceedventures.github.io/onebook/covers/224418658099.cover.jpg", "id":"224418658099", "name":"224418658099"},
         {"title":"엔트로픽증류사건", "thumb":"https://exceedventures.github.io/onebook/covers/224416965441.cover.jpg", "id":"224416965441", "name":"224416965441"},
