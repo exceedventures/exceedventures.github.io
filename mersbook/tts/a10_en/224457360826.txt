@@ -1,0 +1,19 @@
+Title: A Deep Dive into Google's Earnings Shock
+
+I woke up early to watch the FOMC announcement and Kevin Warsh's press conference, and took the opportunity to summarize Google's earnings release and conference call as well.
+
+As Google announced its worse-than-expected earnings after the US market closed, its stock price is dropping by more than 10%. While it was down around 7% right after the earnings release, the losses deepened during the conference call, pushing the decline past 10%.
+
+The main driver appears to be Search revenue, which came in at $63.3 billion—missing the expected $64.8 billion—along with YouTube ad revenue falling short of estimates. Search revenue growth is also slowing down, dropping from 19% in Q1 to 17% in Q2, and down to 12% in Q3. Search and YouTube ads are Google's main cash cows, and the market is reacting negatively to the slowing growth and weaker revenues in these core segments.
+
+It’s not that total search volume itself declined. Rather, "Search queries increased, but Google failed to monetize them at the same rate." The market interprets this as an increasing number of users not clicking on ad links because AI answers their queries directly. Concerns that "AI is cannibalizing Search" are now starting to show up in concrete numbers for the first time.
+
+Earnings per share (EPS) was $2.12, significantly missing the consensus estimate of $3.02. During the conference call, management cited SpaceX to explain the lower EPS. Google incurred an $8.7 billion unrealized valuation loss on its equity stake in SpaceX due to a decline in its valuation. Even excluding the SpaceX loss, EPS would have been $2.67, which still falls short of the $3.02 expectation. Thus, the one-time loss from SpaceX alone does not fully explain the missing numbers.
+
+Google's Free Cash Flow (FCF) was also severely negative at -$9.07 billion, far worse than the market forecast of -$2.7 billion. Meanwhile, long-term debt skyrocketed nearly sixfold over the past year, rising from $21.6 billion to $125.1 billion. Since spending exceeded earnings, it was inevitable that free cash flow would shrink and debt would mount.
+
+On the positive side, Google Cloud's operating income tripled year-over-year, rising from $3.6 billion to $11.1 billion. However, while Cloud is growing, it is not yet large enough to offset an annual CAPEX of around $200 billion, leaving the market focused on the slowing growth of Google's main profit engine—Search.
+
+Quarterly CAPEX came in at $51.0 billion, lower than the expected $56.0 billion. Microsoft, which reported earnings earlier, also spent less on CAPEX ($39.0 billion) than expected ($46.0 billion), showing a similar pattern across both tech giants. However, while the market reacted positively to Microsoft's performance ("spent less and earned more"), the reaction to Google was overwhelmingly negative ("its cash cow is stalling").
+
+One-Line Takeaway: Concerns that "AI is cannibalizing Search" have been confirmed in the data, dragging down Google's stock price. Whether the lower-than-expected capital expenditures by Microsoft and Google are temporary company-specific scenarios or the start of a broader trend will be a key point to watch moving forward.
