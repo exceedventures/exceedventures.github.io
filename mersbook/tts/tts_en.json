@@ -1,15 +1,11 @@
 [ 
 
     {"id":"224468500454", "folder":"a11_en", "count":1, "title":"The Yellowtail Season Is Just Around the Corner"},	
+
     {"id":"224457360826", "folder":"a10_en", "count":1, "title":"Google's Earnings Shock"},	
     {"id":"224452778845", "folder":"a10_en", "count":1, "title":"The Story of Radish (feat. Dr. Woo Jang-choon, Seedless Watermelon, Autumn Radish, and Wintering Radish)"},	
     {"id":"224441382513", "folder":"a10_en", "count":1, "title":"Can SpaceX Succeed? (Feat. Entering the Mobile Market)"},	
     {"id":"224431604995", "folder":"a10_en", "count":1, "title":"The Most Dangerous Element in the World"},	
-    {"id":"224428298482", "folder":"a10_en", "count":1, "title":"Alaska LNG Project"},	
-
-    {"id":"224418658099", "folder":"a9_en", "count":1, "title":"The Secret Behind Nike’s Decline"},	
-    {"id":"224416965441", "folder":"a9_en", "count":1, "title":"The Anthropic Distillation Incident"},	
-    {"id":"224410744840", "folder":"a9_en", "count":1, "title":"Why Anthropic CEO Dario Amodei Called for Slowing Down AI"},	
-    {"id":"224398540411", "folder":"a9_en", "count":1, "title":"Is the Red Sea Becoming More Dangerous?"}
-
+    {"id":"224428298482", "folder":"a10_en", "count":1, "title":"Alaska LNG Project"}
 ]
+   
