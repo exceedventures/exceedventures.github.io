@@ -1,0 +1,74 @@
+The Secret Behind the Disappearance of the Quadrivalent Flu Vaccine
+Since it's the weekend, here's a little light reading.
+The modern history of influenza began with the Spanish flu pandemic of 1918.
+Tens of millions of people died around the world, yet at the time, no one even knew what was causing the disease.
+In 1933, researchers at the British National Institute for Medical Research took throat secretions from flu patients and introduced them into the noses of ferrets. They discovered that the ferrets developed influenza.
+It is said that one researcher caught the flu after being sneezed on by an infected ferret, providing firsthand evidence that the virus could spread from humans to animals and then back to humans.
+The virus first isolated during this research was the influenza A H1N1 strain.
+In 1940, something unusual happened in the United States. Patients began showing up with flu-like symptoms, but their blood tests showed no reaction to influenza A antibodies.
+There were no rapid antigen tests or PCR tests like the ones we have today.
+Instead, researchers had to work backward by examining traces of what the body had fought against to identify the virus responsible for the infection.
+When a virus infects the body, the immune system produces antibodies specifically designed to recognize that virus.
+Think of antibodies as wanted posters for specific criminals. If you catch influenza A, your blood fills up with wanted posters targeting influenza A.
+Researchers collected blood samples from patients who had recovered from the flu and mixed them with influenza A viruses stored in the laboratory.
+If the patients had previously been infected with influenza A, the antibodies in their blood would attach to the A virus and neutralize it. But that reaction did not occur.
+The patients had all the classic flu symptoms—high fever, chills, muscle aches, and coughing—but their antibodies did not recognize influenza A.
+Researchers concluded that a new influenza virus had emerged.
+They named it influenza B.
+If you had received only an influenza A vaccine and then encountered influenza B, your immune system would not recognize it, and you could still get the flu.
+To prevent this, vaccines containing both influenza A and B began to be used in the 1940s.
+What researchers discovered later was that influenza A and B had very different natural habitats.
+Influenza A originates in wild aquatic birds such as ducks and geese. From there, it can jump to other animals, including chickens, pigs, horses, dogs, and humans.
+That's why both avian flu and swine flu are classified as influenza A.
+Influenza B, on the other hand, has no known animal reservoir and primarily circulates among humans.
+The surface of an influenza A virus has two types of projections:
+H (Hemagglutinin)
+N (Neuraminidase)
+So far, scientists have identified 18 types of H and 11 types of N.
+Just as avian influenza can be H5N1, influenza A can combine its 18 H types and 11 N types in various ways, like LEGO bricks. It's essentially the ultimate shape-shifting master of viruses.
+Influenza B is much simpler by comparison. It has been divided into two major lineages: Victoria and Yamagata.
+The Victoria lineage was named after Victoria, Australia, where it was first isolated, while the Yamagata lineage was named after Yamagata Prefecture in Japan, where it was first identified.
+Influenza A has a recurring pattern: after a pandemic sweeps through the world, the virus often settles in and becomes part of the seasonal flu population.
+In 1957, the Asian flu (H2N2) emerged and replaced the H1N1 strain that had been circulating.
+Then, in 1968, the Hong Kong flu (H3N2) emerged and replaced H2N2 as the dominant strain.
+In 1977, however, a version of H1N1 that had disappeared decades earlier after being replaced by H2N2 suddenly reappeared. It became known as the Russian flu.
+Its genetic makeup was almost identical to that of the H1N1 virus from the 1950s, leading to speculation that it had escaped from a laboratory.
+In 2009, a new H1N1 strain originating from pigs, commonly known as swine flu or the novel H1N1 pandemic strain, emerged and replaced the older Russian flu H1N1 strain.
+To this day, the major circulating influenza A strains include the swine-origin H1N1 lineage and H3N2, the lineage associated with the Hong Kong flu.
+This left us with two major influenza A lineages—H1N1 and H3N2—and two influenza B lineages—Victoria and Yamagata.
+The traditional trivalent flu vaccine included two influenza A strains (H1N1 and H3N2) and one influenza B strain, selected based on the WHO's prediction of which B lineage would be most prevalent that year.
+The problem was that the WHO kept getting its predictions wrong when it came to choosing between the Victoria and Yamagata lineages.
+Between the 2001 and 2012 flu seasons, the prediction was wrong in 6 out of 12 seasons.
+Even a coin toss would give you a 50% success rate. Apparently, despite all the scientific research, the WHO was achieving roughly the same batting average.
+So instead of choosing one, why not include both?
+That was the idea behind the quadrivalent flu vaccine, introduced in 2012. It contained two influenza A strains and both influenza B lineages.
+However, saying that a vaccine contains H1N1 doesn't mean it contains exactly the same virus every year. H1N1 is more like a team name. Even within the same team, individual players keep changing slightly through mutations.
+Each year, scientists select the H1N1 and H3N2 variants they believe are most likely to spread during the upcoming flu season.
+Think of influenza A as a soccer team. The positions (H1N1 and H3N2) are already established, but the actual players selected for the starting lineup depend on their condition each season.
+So how do scientists determine which players are in the best shape?
+More than 100 national influenza centers around the world, including the Korea Disease Control and Prevention Agency (KDCA), collect patient samples throughout the year, isolate influenza viruses, and send them to the WHO for analysis.
+The WHO selects the vaccine strains for the Northern Hemisphere every February and for the Southern Hemisphere every September.
+Since South Korea is in the Northern Hemisphere, it receives the WHO's strain selection recommendations in February, allowing vaccine manufacturers to produce the vaccines before the autumn vaccination season.
+Then came COVID-19 in 2020.
+The entire world put on masks and closed its borders.
+But when pandemic restrictions were lifted, something strange happened.
+Almost all the other influenza strains returned to their pre-pandemic levels of circulation. But influenza B Yamagata never came back.
+The public health measures introduced to fight COVID-19 had, unintentionally, dealt a devastating blow to Yamagata.
+In September 2023, the WHO recommended that countries remove the Yamagata lineage from their 2024 influenza vaccines.
+The reasoning was simple: there had been no confirmed cases of naturally circulating Yamagata for several years, so there was no longer a compelling reason to include it in the vaccine.
+Producing a flu vaccine requires growing the virus in large quantities in laboratories and manufacturing facilities.
+The WHO was concerned that continuing to manufacture vaccines using the Yamagata virus could create a risk of accidentally reintroducing it into the human population during production.
+Removing Yamagata also offered another advantage: manufacturers could produce more vaccine doses using the same production capacity.
+The United States switched from quadrivalent to trivalent vaccines, removing Yamagata, for the 2024–2025 flu season. South Korea followed by adopting trivalent influenza vaccines for its national immunization program in 2025.
+Trivalent vaccines are still being used in the 2026–2027 flu season.
+From a financial perspective, switching from quadrivalent to trivalent vaccines also reduces manufacturing costs.
+The flu vaccine industry has effectively returned to a high-volume, low-margin business, with government procurement prices of roughly 9,000 won per dose.
+One Final Comment
+If you used to receive a quadrivalent flu vaccine and are now being offered a trivalent one, there's no need to worry.
+The missing fourth strain is Yamagata, which has effectively disappeared from circulation.
+As for timing, getting your flu shot next week would be ideal.
+Your body needs time to produce antibodies after vaccination, usually about two weeks.
+Since the flu season is expected to pick up in earnest in early December, next week would be a good time to get vaccinated.
+The protective effect of the flu vaccine generally lasts about six months.
+If you get vaccinated too early, your antibody levels may decline by early spring, when the flu season is winding down. If you get vaccinated too late, you may have a gap in protection during the early part of the peak flu season.
+That's why timing matters.
